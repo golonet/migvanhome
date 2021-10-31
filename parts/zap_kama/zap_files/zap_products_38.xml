@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDHC 8GB Class 6 Samsung</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC  .&amp;#9679  Class 6  UHSI   24MBs.&amp;#9679   8GB.&amp;#9679    25  85 .&amp;#9679      SDSDHC.&amp;#9679    </DETAILS>
+      <CATALOG_NUMBER>1</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Samsung</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.SDHC.8gb.Class.6.Samsung_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDHC 16GB Class 10 48MB/s Samsung</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC  .&amp;#9679  Class 10    UHSI 48MBs.&amp;#9679   16GB.&amp;#9679    25  85 .&amp;#9679  Samsung  Evo.&amp;#9679     SDSDHC.  </DETAILS>
+      <CATALOG_NUMBER>2</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Samsung</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.SDHC.16gb.Class.10.Samsung.Evo.Series_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=3</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDHC 32GB Class 10 48MB/s Samsung</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC  .&amp;#9679  Class 10    UHSI 48MBs.&amp;#9679   32GB.&amp;#9679    25  85 .&amp;#9679  Samsung  Evo.&amp;#9679     SDSDHC.  </DETAILS>
+      <CATALOG_NUMBER>3</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Samsung</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.SDHC.32gb.Class.10.Samsung.Evo.Series_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=4</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDXC 64GB Class 10 48MB/s Samsung</PRODUCT_NAME>
+      <MODEL>Micro SDXC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDXC  .&amp;#9679  Class 10    UHSI 48MBs.&amp;#9679   64GB.&amp;#9679    25  85 .&amp;#9679  Samsung  Evo.&amp;#9679     </DETAILS>
+      <CATALOG_NUMBER>4</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>125</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Samsung</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.SDXC.64gb.Class.10.Samsung.Evo.Series_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=5</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDHC 8GB Class 10 Toshiba</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC  .&amp;#9679  Class 10   UHSI 30MBs.&amp;#9679   8GB.&amp;#9679      SDSDHC.</DETAILS>
+      <CATALOG_NUMBER>5</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Memory.card.Mico.SDHC.8GB.Class.10.Toshiba_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=6</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDHC 16GB Class 10 Toshiba</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC  .&amp;#9679  Class 10   UHSI 40MBs.&amp;#9679   16GB.&amp;#9679     SDSDHC.</DETAILS>
+      <CATALOG_NUMBER>6</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Memory.card.Mico.SDHC.16GB.Class.10.Toshiba_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=7</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון SDHC Ultra 8GB Class 10 SanDisk</PRODUCT_NAME>
+      <MODEL>SDHC</MODEL>
+      <DETAILS>&amp;#9679   SDHC Ultra  SanDisk.&amp;#9679  Class 10   UHSI x20030MBs.&amp;#9679   8GB.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>7</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SDHC.Ultra.8GB.SanDisk_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=8</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון SDHC Ultra 16GB Class 10 SanDisk</PRODUCT_NAME>
+      <MODEL>SDHC</MODEL>
+      <DETAILS>&amp;#9679   SDHC Ultra  SanDisk.&amp;#9679  Class 10   UHSI x20030MBs.&amp;#9679   16GB.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>8</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SDHC.Ultra.16GB.SanDisk_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=9</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון SDXC 64GB Class 10 45MB/s 300x Transcend</PRODUCT_NAME>
+      <MODEL>SDHC</MODEL>
+      <DETAILS>&amp;#9679   SDXC  Transcend.&amp;#9679   64GB.&amp;#9679  Class 10   x30045MBs.&amp;#9679   25  85 .&amp;#9679    .&amp;#9679        All in one.   </DETAILS>
+      <CATALOG_NUMBER>9</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>165</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Transcend</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SDXC.64GB.Class.10.45mb.x300.Transcend_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=11</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון SDHC FlashAir WiFi 32GB Class 10 Toshiba</PRODUCT_NAME>
+      <MODEL>SDHC WiFi</MODEL>
+      <DETAILS>&amp;#9679    SDHC WiFi &amp;#9679   802.11bgn wifi 2.4gh&amp;#9679   32GB.&amp;#9679  Class 10.&amp;#9679  AESTKIPWEPWPAWPA2.&amp;#9679     .&amp;#9679   7    .&amp;#9679  Toshiba   FlashAir.&amp;#9679       All in one.   </DETAILS>
+      <CATALOG_NUMBER>11</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>275</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SDHC.FlashAir.WIFI.32GB.Class.10.Toshiba_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=491</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDHC 8GB Class 4 SanDisk</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC.&amp;#9679  8GB.&amp;#9679  Class 4.&amp;#9679   .&amp;#9679  SanDisk  SDSDQ008G.  </DETAILS>
+      <CATALOG_NUMBER>491</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>24</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.SDHC.8gb.Class.4.SanDisk_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=492</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDHC 8GB Class 4 Kingston</PRODUCT_NAME>
+      <MODEL>Mןicro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC  Kingston.&amp;#9679  8GB.&amp;#9679  Class 4.&amp;#9679     SDHC.   </DETAILS>
+      <CATALOG_NUMBER>492</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>27</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.SDHC.8gb.Class.4.Kingston_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=752</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון SDHC 16GB Class 10 Kingston</PRODUCT_NAME>
+      <MODEL>SDHC</MODEL>
+      <DETAILS>&amp;#9679   SDHC.&amp;#9679  16GB.&amp;#9679    30MBs.&amp;#9679  UHSI.&amp;#9679    .&amp;#9679  .&amp;#9679  Kingston  Class 10.  </DETAILS>
+      <CATALOG_NUMBER>752</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SDHC.16gb.Class.10.Kingston_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=753</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון SDHC 32GB Class 10 Kingston</PRODUCT_NAME>
+      <MODEL>SDHC</MODEL>
+      <DETAILS>&amp;#9679   SDHC.&amp;#9679  32GB.&amp;#9679    30MBs.&amp;#9679  UHSI.&amp;#9679    .&amp;#9679  .&amp;#9679  Kingston  Class 10.  </DETAILS>
+      <CATALOG_NUMBER>753</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>60</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SDHC.32gb.Class.10.Kingston_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=754</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון SDXC 64GB Class 10 Kingston</PRODUCT_NAME>
+      <MODEL>SDXC</MODEL>
+      <DETAILS>&amp;#9679   SDHC.&amp;#9679  64GB.&amp;#9679    30MBs.&amp;#9679  UHSI.&amp;#9679    .&amp;#9679  .&amp;#9679  Kingston  Class 10.  </DETAILS>
+      <CATALOG_NUMBER>754</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>125</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SDXC.64gb.Class.10.Kingston_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1027</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDHC 8GB Class 10 48MB/s SanDisk</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC.&amp;#9679   8GB.&amp;#9679  Class 10 UHS1.&amp;#9679    x320 48MBs.&amp;#9679   25C  85C.&amp;#9679   40C  85C.&amp;#9679   40C  85C.&amp;#9679     Full HD.&amp;#9679  SanDisk  Mobile Ultra.  </DETAILS>
+      <CATALOG_NUMBER>1027</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.SDHC.8gb.Class.10.SanDisk.Ultra_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1028</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDHC 16GB Class 10 48MB/s SanDisk</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC.&amp;#9679   16GB.&amp;#9679  Class 10 UHS1.&amp;#9679    x320 48MBs.&amp;#9679   25C  85C.&amp;#9679   40C  85C.&amp;#9679   40C  85C.&amp;#9679     Full HD.&amp;#9679  SanDisk  Mobile Ultra.  </DETAILS>
+      <CATALOG_NUMBER>1028</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.SDHC.16gb.Class.10.SanDisk.Ultra_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1029</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDHC 32GB Class 10 48MB/s SanDisk</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC.&amp;#9679   32GB.&amp;#9679  Class 10 UHS1.&amp;#9679    x320 48MBs.&amp;#9679   25C  85C.&amp;#9679   40C  85C.&amp;#9679     Full HD.&amp;#9679  SanDisk  Mobile Ultra.  </DETAILS>
+      <CATALOG_NUMBER>1029</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>85</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.SDHC.32gb.Class.10.SanDisk.Ultra_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1143</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDXC 64GB Class 10 80MB/s SanDisk</PRODUCT_NAME>
+      <MODEL>Micro SDXC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDXC.&amp;#9679   64GB.&amp;#9679  Class 10 UHS1.&amp;#9679   x533 80MBs.&amp;#9679   25C  85C.&amp;#9679   40C  85C.&amp;#9679     Full HD.&amp;#9679  SanDisk  Mobile Ultra.  </DETAILS>
+      <CATALOG_NUMBER>1143</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>165</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.SDXC.64gb.Class.10.SanDisk_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1144</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Micro SDXC 128GB Class 10 80MB/s SanDisk</PRODUCT_NAME>
+      <MODEL>Micro SDXC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDXC.&amp;#9679   128GB.&amp;#9679  Class 10 UHS1.&amp;#9679   x533 80MBs.&amp;#9679   25C  85C.&amp;#9679   40C  85C.&amp;#9679     4k.&amp;#9679  SanDisk  Mobile Ultra.       128GB</DETAILS>
+      <CATALOG_NUMBER>1144</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>290</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.SDXC.128gb.Class.10.SanDisk_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1442</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Toshiba Micro SDHC 32GB/ 48MB/s</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC.&amp;#9679   32GB.&amp;#9679  Class 10 UHS1.&amp;#9679    x320 48MBs.&amp;#9679     SDHC.&amp;#9679  Toshiba  EXCERIA.</DETAILS>
+      <CATALOG_NUMBER>1442</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>60</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Toshiba.Exceria.MicroSDHC.32GB.48mb.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1443</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון Toshiba Micro SDHC 64GB/ 48MB/s</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC.&amp;#9679   64GB.&amp;#9679  Class 10 UHS1.&amp;#9679    x320 48MBs.&amp;#9679  .&amp;#9679  Toshiba  EXCERIA.</DETAILS>
+      <CATALOG_NUMBER>1443</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>110</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Toshiba.Exceria.MicroSDHC.64GB.48mb.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1444</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס זיכרון SanDisk Micro SDHC 4GB Class 4</PRODUCT_NAME>
+      <MODEL>Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679   Micro SDHC.&amp;#9679   4GB.&amp;#9679  Class 4 UHS1.&amp;#9679     SDHC.&amp;#9679  SanDisk  SDSDQM004G.</DETAILS>
+      <CATALOG_NUMBER>1444</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>24</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SanDisk.Micro.SDHC.4GB.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

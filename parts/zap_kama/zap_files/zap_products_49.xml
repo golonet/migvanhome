@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=19</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר USB כניסה אחת Maxxtro 2.0A</PRODUCT_NAME>
+      <MODEL>2A</MODEL>
+      <DETAILS>&amp;#9679   USB  .&amp;#9679  2.0 .&amp;#9679      220V  110V.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>19</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Maxxtro</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.Wall.Charger.2.1A.Maxxrro_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=63</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר לסמארטפון עם חיבור מיקרו USB תוצרת GP</PRODUCT_NAME>
+      <MODEL>1A</MODEL>
+      <DETAILS>&amp;#9679       USB.&amp;#9679  1000mA.&amp;#9679      .&amp;#9679    .&amp;#9679          .&amp;#9679  GP  PCS11.</DETAILS>
+      <CATALOG_NUMBER>63</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.usb.charging.cable.Smartphone.made.in.GP_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=65</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר USB - הספק 1A</PRODUCT_NAME>
+      <MODEL>1A</MODEL>
+      <DETAILS>&amp;#9679   USB.&amp;#9679  1A.&amp;#9679   ....&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>65</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.Wall.Charger.1A_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=66</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר שני כניסות USB הספק Sigma 3.1A</PRODUCT_NAME>
+      <MODEL>2.1A</MODEL>
+      <DETAILS>&amp;#9679     USB.&amp;#9679   AC 100240V 5060Hz 0.5A.&amp;#9679   DC 5V  1A  2.1A.&amp;#9679    .&amp;#9679  SIGMA  T64D2 1A.</DETAILS>
+      <CATALOG_NUMBER>66</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SIGMA</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Dual.USB.Travel.Charger.2.1A.Sigma_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=154</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר לאייפון 5 - 1A</PRODUCT_NAME>
+      <MODEL>1A</MODEL>
+      <DETAILS>   56    1000mA       </DETAILS>
+      <CATALOG_NUMBER>154</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SIGMA</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.Charger.1A.for.iPhone.5_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=155</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר USB כניסה אחת Maxxtro 1A</PRODUCT_NAME>
+      <MODEL>1A</MODEL>
+      <DETAILS>  USB    1000mA       100V240V </DETAILS>
+      <CATALOG_NUMBER>155</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Maxxtro</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.Wall.Charger.1A.Maxxtro_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=641</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר מהיר 2.0A ל- iPhone 4</PRODUCT_NAME>
+      <MODEL>2A</MODEL>
+      <DETAILS>&amp;#9679        4.&amp;#9679  2.0 .&amp;#9679      220V  110V.&amp;#9679    .&amp;#9679    .&amp;#9679   1 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>641</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>X-TECH</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mobilephone.Charger.2.0A.For.iPhone.4_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=642</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר מהיר 2.0A ל- Samsung Galaxy</PRODUCT_NAME>
+      <MODEL>2A</MODEL>
+      <DETAILS>&amp;#9679         USB.&amp;#9679  2.0 .&amp;#9679      220V  110V.&amp;#9679    .&amp;#9679    .&amp;#9679   1 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>642</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>X-TECH</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mobilephone.Charger.2.0A.Micro.USB_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=643</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר מהיר 2.0A ל- iPhone 5/6</PRODUCT_NAME>
+      <MODEL>2A</MODEL>
+      <DETAILS>&amp;#9679        56.&amp;#9679  2.0 .&amp;#9679      220V  110V.&amp;#9679    .&amp;#9679    .&amp;#9679   1 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>643</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>X-TECH</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mobilephone.Charger.2.0A.For.iPhone.5.6_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=662</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר USB כניסה אחת Maxxtro 3.1A</PRODUCT_NAME>
+      <MODEL>מטען ביתי/קיר</MODEL>
+      <DETAILS>&amp;#9679   USB  . &amp;#9679  3.1 . &amp;#9679      220V  110V.&amp;#9679  . </DETAILS>
+      <CATALOG_NUMBER>662</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Maxxtro</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.Wall.Charger.3.1A.Maxxrro_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=674</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 2A מקורי Apple</PRODUCT_NAME>
+      <MODEL>מקורי</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   10W2.1A.&amp;#9679  .iPone 4567iPod Touch 234iPad 234iPad Mini  </DETAILS>
+      <CATALOG_NUMBER>674</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>105</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Apple</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Original.Wall.Charger.2.A.Apple.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=678</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר Micro USB מקורי Samsung</PRODUCT_NAME>
+      <MODEL>700mA</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679    USB .&amp;#9679   700mAh.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>678</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Samsung</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Micro.USB.Wall.Charger.Original.Samsung_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=679</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 2A USB + כבל טעינה מקורי Samsung</PRODUCT_NAME>
+      <MODEL>2A</MODEL>
+      <DETAILS>&amp;#9679    USB   .&amp;#9679    .&amp;#9679    .&amp;#9679   2A.&amp;#9679   5V.&amp;#9679   100240V 5060Hz 0.35A.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>679</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Samsung</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Wall.Charger.2A.+.Micro.USB.Cable.Original.Samsung_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=686</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 2A מקורי Samsung</PRODUCT_NAME>
+      <MODEL>2A</MODEL>
+      <DETAILS>&amp;#9679    USB  . &amp;#9679   2A.&amp;#9679   5V.&amp;#9679    . &amp;#9679   100240V 5060Hz 0.35A&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>686</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Samsung</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Wall.Charger.2A.Original.Samsung.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=695</PRODUCT_URL>
+      <PRODUCT_NAME>מטען USB לרכב 2 כניסות 4.2A - תוצרת GP</PRODUCT_NAME>
+      <MODEL>4.2A</MODEL>
+      <DETAILS>&amp;#9679  USB   4.2A.&amp;#9679   2.1A. &amp;#9679      .&amp;#9679   12V DC.&amp;#9679   5V DC 2X2.1A.&amp;#9679  .&amp;#9679     .&amp;#9679   GP  PCU26.</DETAILS>
+      <CATALOG_NUMBER>695</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Dual.usb.4.2A.car.micro.charger.GP_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=696</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר  USB הספק 1A תוצרת GP</PRODUCT_NAME>
+      <MODEL>1A</MODEL>
+      <DETAILS>&amp;#9679   USB.&amp;#9679   1A. &amp;#9679     .&amp;#9679   100240V AC 5060Hz.&amp;#9679   5V DC 1000mA.&amp;#9679  .&amp;#9679     .&amp;#9679   GP  PCU101.</DETAILS>
+      <CATALOG_NUMBER>696</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Wall.Charger.1A.GP_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=710</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר MIRACASE 1A USB</PRODUCT_NAME>
+      <MODEL>1A</MODEL>
+      <DETAILS>&amp;#9679   USB  .&amp;#9679    . &amp;#9679   100240V AC 5060Hz 0.3A.&amp;#9679   5V DC 1000mA. &amp;#9679  . &amp;#9679     .&amp;#9679  MIRACASE  MACC850.</DETAILS>
+      <CATALOG_NUMBER>710</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Miracase</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.Wall.Charger.USB.1A.White.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=711</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר MIRACASE 2.1A USB - לבן</PRODUCT_NAME>
+      <MODEL>2.1A</MODEL>
+      <DETAILS>&amp;#9679   USB  .&amp;#9679    . &amp;#9679   100240V AC 5060Hz 0.45A.&amp;#9679   5V DC 2100mA. &amp;#9679  . &amp;#9679     .&amp;#9679  MIRACASE  MACC210.</DETAILS>
+      <CATALOG_NUMBER>711</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Miracase</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.Wall.Charger.USB.2.1A.White.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=712</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר MIRACASE 2.1A USB - שחור</PRODUCT_NAME>
+      <MODEL>2.1A</MODEL>
+      <DETAILS>&amp;#9679   USB  .&amp;#9679    . &amp;#9679   100240V AC 5060Hz 0.45A.&amp;#9679   5V DC 2100mA. &amp;#9679  . &amp;#9679     .&amp;#9679  MIRACASE  MACC210.</DETAILS>
+      <CATALOG_NUMBER>712</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Miracase</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.Wall.Charger.USB.2.1A.Black.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=909</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר MIRACASE 2.4A USB</PRODUCT_NAME>
+      <MODEL>2.4A</MODEL>
+      <DETAILS>&amp;#9679   USB  .&amp;#9679    .&amp;#9679   100240V AC 5060Hz 0.4A.&amp;#9679   5V DC 2400mA.&amp;#9679  . &amp;#9679     .&amp;#9679  MIRACASE  MAWC240.</DETAILS>
+      <CATALOG_NUMBER>909</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Miracase</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.Wall.Charger.USB.2.4A.Black.Miracase.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1017</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר שמונה כניסות  Miracase 10A USB</PRODUCT_NAME>
+      <MODEL>10A</MODEL>
+      <DETAILS>&amp;#9679     USB.&amp;#9679     10A.&amp;#9679     2.4A.&amp;#9679     .&amp;#9679  .&amp;#9679    .&amp;#9679   100240V  5060Hz 1.5A.&amp;#9679   5.0V  10A.&amp;#9679  180x60x36 ..&amp;#9679     .&amp;#9679  Miracase  M8P10A.  </DETAILS>
+      <CATALOG_NUMBER>1017</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>175</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Miracase</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Smart.Charger.USB.8.Ports.10A.Miracase.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1019</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 4 יציאות Miracase 5A USB</PRODUCT_NAME>
+      <MODEL>5A</MODEL>
+      <DETAILS>&amp;#9679     USB.&amp;#9679    5A.&amp;#9679     2.5A.&amp;#9679    .&amp;#9679   100240V 5060Hz 1.2A.&amp;#9679   DC 5.0V  5A.&amp;#9679     .&amp;#9679  Miracase   MAWC405.</DETAILS>
+      <CATALOG_NUMBER>1019</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>95</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Miracase</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Smart.Charger.USB.4.Ports.5A.Miracase.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1024</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 6 כניסות USB</PRODUCT_NAME>
+      <MODEL>5A</MODEL>
+      <DETAILS>&amp;#9679   6  USB.&amp;#9679    1.5 .&amp;#9679  .&amp;#9679    .&amp;#9679   AC100240V 5060Hz.&amp;#9679   DC 5V  5A.</DETAILS>
+      <CATALOG_NUMBER>1024</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.Desktop.Charger.6.ports.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1026</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר מהיר 2A בחיבור USB 3.0</PRODUCT_NAME>
+      <MODEL>2A</MODEL>
+      <DETAILS>&amp;#9679       USB 3.0.&amp;#9679   Samsung Galaxy S5Note 34...&amp;#9679  2.0 .&amp;#9679   110V  220V.&amp;#9679    .&amp;#9679    .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1026</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>X-Tech</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mobilephone.Charger.2.0A.For.USB.3.0_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1266</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 1.8A מקורי LG</PRODUCT_NAME>
+      <MODEL>1.8A</MODEL>
+      <DETAILS>&amp;#9679    LG.&amp;#9679  USB  1.8A.&amp;#9679   100240V5060Hz 0.3A.&amp;#9679   5.0V  1.8A.&amp;#9679    .&amp;#9679     .&amp;#9679  .&amp;#9679  LG  Travel Adapter.</DETAILS>
+      <CATALOG_NUMBER>1266</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>LG</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Wall.Charger.1.8A.Original.LG.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1271</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר Tronsmart Qualcomm 2.0 דגם TS-WC1Q</PRODUCT_NAME>
+      <MODEL>Qualcom 2.0</MODEL>
+      <DETAILS>&amp;#9679   USB   .&amp;#9679 Qualcomm Quick Charge  2.0.&amp;#9679    75%    2A.&amp;#9679    5V 9V 12V  60W.&amp;#9679     ABS.&amp;#9679   AC 100  240V 5060Hz 0.5A.&amp;#9679   59V  2A  12V  1.5A.&amp;#9679   18W.&amp;#9679       OverCurrent.&amp;#9679     .&amp;#9679  Qualcomm.&amp;#9679  Tronsmart  TSWC1Q.      </DETAILS>
+      <CATALOG_NUMBER>1271</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>99</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Tronsmart</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Tronsmart.TS-WC1Q.USB.Rapid.Wall.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1287</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר Tronsmart  Qualcomm 2.0 דגם TS-WC3PC</PRODUCT_NAME>
+      <MODEL>Qualcomm 2.0</MODEL>
+      <DETAILS>&amp;#9679    3  USB.&amp;#9679  USB   Qualcom 2.0.&amp;#9679    75%    2A.&amp;#9679   USB  2.4A  .&amp;#9679     ABS.&amp;#9679   AC 100  240V 5060Hz 0.5A.&amp;#9679   1 59V  2A  12V  1.5A.&amp;#9679   23 DC 5V 4.8A.&amp;#9679   42W.&amp;#9679       OverCurrent.&amp;#9679     .&amp;#9679  Qualcomm.&amp;#9679  Tronsmart  TSWC3PC.      </DETAILS>
+      <CATALOG_NUMBER>1287</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>139</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Tronsmart</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Tronsmart.TS-WC3PC.3.USB.ports.Rapid.Wall.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1381</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר Aukey Qualcomm 2.0 דגם PA-U28</PRODUCT_NAME>
+      <MODEL>Qualcomm 2.0</MODEL>
+      <DETAILS>&amp;#9679   USB   .&amp;#9679 Qualcomm Quick Charge  2.0.&amp;#9679    75%    2A.&amp;#9679      5V2.4A.&amp;#9679    5V 9V 12V  60W.&amp;#9679     ABS.&amp;#9679   AC 100  240V 5060Hz 0.5A.&amp;#9679   59V  2A  12V  1.5A.&amp;#9679   18W.&amp;#9679       OverCurrent.&amp;#9679     .&amp;#9679  Qualcomm.&amp;#9679  Aukey  PAU28.      </DETAILS>
+      <CATALOG_NUMBER>1381</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>95</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Aukey</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Aukey.PA-U28.USB.Rapid.Wall.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1426</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם חשמל משקע ביתי לשקע מצת הרכב</PRODUCT_NAME>
+      <MODEL>DC 12V To AC 220V</MODEL>
+      <DETAILS>&amp;#9679     220V   12V.&amp;#9679  500mA.&amp;#9679   AC 110V240V 5060Hz.&amp;#9679   DC 5V   500mA.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1426</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Car.charger.cigarette.DC.12V.to.AC.220V.EU.converter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1462</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר Aukey Qualcomm 3.0 דגם PA-T9</PRODUCT_NAME>
+      <MODEL>Qualcomm 3.0</MODEL>
+      <DETAILS>&amp;#9679   USB   .&amp;#9679 Qualcomm Quick Charge  3.0.&amp;#9679     3.620V.&amp;#9679     ABS.&amp;#9679   AC 100  240V 5060Hz 0.5A.&amp;#9679   3.66.5V  3A  6.59V  2A.&amp;#9679   18W.&amp;#9679       OverCurrent.&amp;#9679     .&amp;#9679  Qualcomm.&amp;#9679  Aukey  PAT9.      </DETAILS>
+      <CATALOG_NUMBER>1462</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>115</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Aukey</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Aukey.PA-T9.USB.Rapid.Wall.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1493</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר Tronsmart Qualcomm 3.0 דגם TS-WC1T</PRODUCT_NAME>
+      <MODEL>Qualcomm 3.0</MODEL>
+      <DETAILS>&amp;#9679   USB   .&amp;#9679 Qualcomm Quick Charge  3.0.&amp;#9679    3.620V.&amp;#9679     ABS.&amp;#9679   AC 100  240V 5060Hz 0.5A.&amp;#9679   3.6V6.5V3 6.5V9V2A.&amp;#9679   18W.&amp;#9679       OverCurrent.&amp;#9679     1.8 .&amp;#9679  Qualcomm.&amp;#9679  Tronsmart  TSWC1T.      </DETAILS>
+      <CATALOG_NUMBER>1493</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>105</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Tronsmart</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Tronsmart.TS-WC1T.USB.Rapid.Wall.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1562</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 4 יציאות Orico 30W/6A USB דגם DCA-4U</PRODUCT_NAME>
+      <MODEL>4 יציאות USB</MODEL>
+      <DETAILS>&amp;#9679   4  USB.&amp;#9679   ABS  PC  .&amp;#9679    50W10A.&amp;#9679     2.4A.&amp;#9679    .&amp;#9679   AC 100240V 5060HZ 0.8A max.&amp;#9679   DC 5.0V  6A 30W.&amp;#9679         Over Ccurrent...&amp;#9679  90x85x35  180 .&amp;#9679  Orico   DCA4U.  </DETAILS>
+      <CATALOG_NUMBER>1562</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>95</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.DCA-4U.Desktop.Charger.4.USB.Ports.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1563</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 6 יציאות Orico 50W/10A USB דגם CSL-6U</PRODUCT_NAME>
+      <MODEL>6 יציאות USB</MODEL>
+      <DETAILS>&amp;#9679   6  USB.&amp;#9679   ABS  PC  .&amp;#9679    50W10A.&amp;#9679     2.4A.&amp;#9679   AC 100240V 5060HZ 1.2A max.&amp;#9679   DC 5.0V  10A 50W.&amp;#9679         Over Ccurrent...&amp;#9679    1.2 .&amp;#9679  .&amp;#9679       .&amp;#9679  100x70x28  290 .&amp;#9679  Orico   CSL6U.  </DETAILS>
+      <CATALOG_NUMBER>1563</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>145</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.CSL-6U.Desktop.Charger.6.USB.Ports.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1590</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 4 יציאות Aukey 40W/8A USB דגם PA-U36</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   4  USB.&amp;#9679   ABS  PC  .&amp;#9679    40W8A.&amp;#9679     2.4A12W.&amp;#9679   AC 100240V 5060HZ 1.2A max.&amp;#9679   DC 5.0V  8A 40W.&amp;#9679         Over Ccurrent...&amp;#9679  .&amp;#9679  113x90x26  290 .&amp;#9679  Aukey  PAU36.</DETAILS>
+      <CATALOG_NUMBER>1590</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>105</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Aukey</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Aukey.PA-U36.USB.Rapid.Wall.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1624</PRODUCT_URL>
+      <PRODUCT_NAME>משטח טעינה אלחוטי QI לסמארטפונים Vinsic VSCW109</PRODUCT_NAME>
+      <MODEL>משטח טעינה אלחוטי</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   QI.&amp;#9679   DC 5V 2A.&amp;#9679   .&amp;#9679  79x79x9  48 .&amp;#9679  .&amp;#9679  Vinsic  VSCW109.     QISamsung Galaxy S6 S6 Edge S6 Edge PlusSamsung Galaxy S7 S7 EdgeNokia Lumia 920  928Google Nexus 45HTC 8X</DETAILS>
+      <CATALOG_NUMBER>1624</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>105</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Vinsic</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Vinsic.VSCW109.Qi.Wireless.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1677</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 5 יציאות Aukey 50W/10A USB דגם PA-U36</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   5  USB.&amp;#9679   ABS  PC  .&amp;#9679    50W10A.&amp;#9679     2.4A12W.&amp;#9679   AC 100240V 5060HZ 1.5A max.&amp;#9679   DC 5.0V  10A Max.&amp;#9679         Over Ccurrent...&amp;#9679  .&amp;#9679  94x61x26  290 .&amp;#9679  Aukey  PAU33.  </DETAILS>
+      <CATALOG_NUMBER>1677</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>145</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Aukey</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Aukey.PA-U33.USB.Rapid.Wall.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1683</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר USB 2A מקורי Lenovo</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   USBx1  .&amp;#9679   100240V 50  60Hz 0.35A.&amp;#9679   5V  2A.&amp;#9679  .&amp;#9679  Lenovo  ZUK Z1.</DETAILS>
+      <CATALOG_NUMBER>1683</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Lenovo</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Fast.Charger.2A.for.Lenovo.ZUK-Z1.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1764</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 3 יציאות Aukey 40W/8A USB דגם PA-U35</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   3  USB.&amp;#9679   ABS  PC  .&amp;#9679    30W6A.&amp;#9679     2.4A12W.&amp;#9679   AC 100240V 5060HZ 1.2A max.&amp;#9679   DC 5.0V  6A 30W.&amp;#9679         Over Ccurrent...&amp;#9679  .&amp;#9679  70x48x26  290 .&amp;#9679  Aukey  PAU35.  </DETAILS>
+      <CATALOG_NUMBER>1764</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>85</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Aukey</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Aukey.PA-U35.USB.Rapid.Wall.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1826</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר Aukey Qualcomm 3.0 דגם PA-T16</PRODUCT_NAME>
+      <MODEL>Qualcomm</MODEL>
+      <DETAILS>&amp;#9679   USB   .&amp;#9679 Qualcomm Quick Charge  3.0.&amp;#9679     3.620V.&amp;#9679     ABS.&amp;#9679   AC 100  240V 5060Hz 0.5A.&amp;#9679   3.66.5V  3A  6.59V  2A.&amp;#9679   36W.&amp;#9679       OverCurrent.&amp;#9679     .&amp;#9679  Qualcomm.&amp;#9679  64x63x28  116 .&amp;#9679  Aukey  PAT16.      </DETAILS>
+      <CATALOG_NUMBER>1826</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>139</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Aukey</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Aukey.PA-T16.Wall.Charger.Dual.USB.QC.3.0.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1842</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר אוניברסלי 4 יציאות Orico 6.8A USB דגם DSP-4U</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   4  USB.&amp;#9679 4   AUUSUKEU.&amp;#9679   ABS  PC  .&amp;#9679    34W6.8A.&amp;#9679     2.4A.&amp;#9679   AC 100240V 5060HZ 0.8A max.&amp;#9679   DC 5.0V  6.8A 34W.&amp;#9679         Over Ccurrent...&amp;#9679  .&amp;#9679  65x60x29 .&amp;#9679  Orico   DSP4U.  </DETAILS>
+      <CATALOG_NUMBER>1842</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>120</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.DSP-4U.4.Ports.USB.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1874</PRODUCT_URL>
+      <PRODUCT_NAME>מטען אלחוטי מהיר Samsung 2A דגם EP-PN920</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    QI  .&amp;#9679   5V2A 9V1.67A.&amp;#9679       .&amp;#9679  Note 5 Galaxy S67 S67 Edge.&amp;#9679    .&amp;#9679  WPC QI.&amp;#9679   102   21 .&amp;#9679  .&amp;#9679  Samsung  EPPN920B.  </DETAILS>
+      <CATALOG_NUMBER>1874</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>185</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Samsung</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Samsung.EP-PN920.Wireless.Charging.Pad.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1909</PRODUCT_URL>
+      <PRODUCT_NAME>מטען מקורי 1A לאייפון Apple</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  USB   iPhone.&amp;#9679   5W1A.&amp;#9679  .&amp;#9679  Apple  MD813ZMA.  </DETAILS>
+      <CATALOG_NUMBER>1909</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Apple</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Apple.5w.USB.Power.adapter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1957</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר 2 יציאות BlitzWolf 24W/4.8A USB</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   2  USB.&amp;#9679   ABS  PC  .&amp;#9679    24W4.8A.&amp;#9679     2.4A12W.&amp;#9679   AC 100240V 5060HZ 0.6A max.&amp;#9679      ...&amp;#9679  .&amp;#9679  53x53x25  290 .&amp;#9679  BlitzWolf  BWS2.  </DETAILS>
+      <CATALOG_NUMBER>1957</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>BlitzWolf</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/BlitzWolf.BW-S2.Dual.USB.Travel.Wall.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2018</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר USB Type C 5V/3A כולל כבל CHOETECH</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   USB Type C.&amp;#9679   15W3A.&amp;#9679   ABS  PC  .&amp;#9679   AC 100240V 5060HZ 0.5A max.&amp;#9679      ...&amp;#9679    Type C  1 .&amp;#9679  CHOETECH  TC0001.  </DETAILS>
+      <CATALOG_NUMBER>2018</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>95</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>CHOETECH</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/CHOETECH.5V.3A.USB.Type.C.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2019</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר ORICO USB 5V/2A</PRODUCT_NAME>
+      <MODEL>USBx1</MODEL>
+      <DETAILS>&amp;#9679   USB.&amp;#9679   2A10W.&amp;#9679   ABS  PC  .&amp;#9679   AC 100240V 5060HZ 0.6A max.&amp;#9679      ...&amp;#9679  .&amp;#9679  ORICO  WHA1U.  </DETAILS>
+      <CATALOG_NUMBER>2019</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/ORICO.5V2A.Travel.Wall.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2066</PRODUCT_URL>
+      <PRODUCT_NAME>מטען קיר Tronsmart  Qualcomm 3.0 דגם TS-W3PTA</PRODUCT_NAME>
+      <MODEL>Qualcomm 3.0</MODEL>
+      <DETAILS>&amp;#9679    3  USB.&amp;#9679  USB   Qualcom 3.0.&amp;#9679   USB  2.4A  .&amp;#9679     ABS.&amp;#9679   AC 100  240V 5060Hz 1.5A.&amp;#9679   1 DC 3.6V6.5V3A 6.5V9V2A 9V12V1.5A.&amp;#9679   23 DC 5V 4.8A.&amp;#9679   42W.&amp;#9679       OverCurrent.&amp;#9679  Qualcomm.&amp;#9679  Tronsmart  TSW3PTA.      </DETAILS>
+      <CATALOG_NUMBER>2066</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>125</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Tronsmart</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Tronsmart.W3PTA.USB.Wall.Charger.42W.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2074</PRODUCT_URL>
+      <PRODUCT_NAME>תחנת טעינה 8 יציאות USB עם מעמדים Voxlink 19.2A</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   8  USB  .&amp;#9679     5V2.4A.&amp;#9679    5V19.2A.&amp;#9679  .&amp;#9679   PCABS.&amp;#9679      ...&amp;#9679   AC 100240V 5060Hz.&amp;#9679   DC 5V19.2A 96W.&amp;#9679  .&amp;#9679  188x138x28  505 .&amp;#9679  Voxlink  CRCG0001.  </DETAILS>
+      <CATALOG_NUMBER>2074</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>245</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Voxlink</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/VOXLINK.8.Port.Desktop.USB.Charger.96W.19.2A.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=119</PRODUCT_URL>
+      <PRODUCT_NAME>קופסת מיתוג אוטומטית ממדפסת ל-2 מחשבים</PRODUCT_NAME>
+      <MODEL>USB B</MODEL>
+      <DETAILS>  USB B   2 .      .   CTRLF11 (    ).  USB B   . USB A   .</DETAILS>
+      <CATALOG_NUMBER>119</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>79</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Print.server.for.2.computers_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=120</PRODUCT_URL>
+      <PRODUCT_NAME>קופסת מיתוג אוטומטית ממדפסת ל-4 מחשבים</PRODUCT_NAME>
+      <MODEL>USB B</MODEL>
+      <DETAILS>  USB B   4 .      .   CTRLF11 (    ).  USB B   . USB A   .</DETAILS>
+      <CATALOG_NUMBER>120</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>129</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Print.server.for.4.computers_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=121</PRODUCT_URL>
+      <PRODUCT_NAME>קופסת מיתוג DVI דו-כיוונית ממסך ל-2 מחשבים</PRODUCT_NAME>
+      <MODEL>DVI</MODEL>
+      <DETAILS>  DVI   2 .    . .  .</DETAILS>
+      <CATALOG_NUMBER>121</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>109</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>HQ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Switch.box.DVI-D.two-way.2-to-1_Sub.Image.2.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=122</PRODUCT_URL>
+      <PRODUCT_NAME>קופסת מיתוג VGA מכנית דו-כיוונית 1:2</PRODUCT_NAME>
+      <MODEL>VGA</MODEL>
+      <DETAILS>  VGA   2    2         . 1920x1440  .</DETAILS>
+      <CATALOG_NUMBER>122</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mechanical.VGA.switch.box.two-way.1.to.2_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=123</PRODUCT_URL>
+      <PRODUCT_NAME>קופסת מיתוג VGA מכנית דו-כיוונית 1:4</PRODUCT_NAME>
+      <MODEL>VGA</MODEL>
+      <DETAILS>  VGA  1 4 4    4         . 1920x1440  .</DETAILS>
+      <CATALOG_NUMBER>123</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>105</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mechanical.VGA.switch.box.two-way.1.to.4_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=124</PRODUCT_URL>
+      <PRODUCT_NAME>ממתג HDMI שלוש כניסות</PRODUCT_NAME>
+      <MODEL>HDMI</MODEL>
+      <DETAILS>   HDMI  .  1080P.      HDMI.</DETAILS>
+      <CATALOG_NUMBER>124</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/HDMI.Splitter.3.Poorts_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=434</PRODUCT_URL>
+      <PRODUCT_NAME>קופסת מיתוג VGA מכנית 1 ל-8 דו-כיוונית 150MHz</PRODUCT_NAME>
+      <MODEL>VGA</MODEL>
+      <DETAILS>&amp;#9679   VGA   1 8.&amp;#9679   150MHz  .&amp;#9679   1600x1280.&amp;#9679   5V  1000mA.</DETAILS>
+      <CATALOG_NUMBER>434</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>159</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mechanical.VGA.switch.box.two-way.1.to.8.150MHz_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=565</PRODUCT_URL>
+      <PRODUCT_NAME>כבל ממתג HDMI זכר ל- 3 HDMI נקבה</PRODUCT_NAME>
+      <MODEL>HDMI</MODEL>
+      <DETAILS>&amp;#9679   HDMI  .&amp;#9679      .&amp;#9679       HDMI .&amp;#9679      .&amp;#9679   250MHz2.5Gbps   HDMI.&amp;#9679   12bit   HDMI.&amp;#9679     LPCM 5.1&amp;#9679  HDCP&amp;#9679   20 </DETAILS>
+      <CATALOG_NUMBER>565</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/HDMI.1.to.3.Splitter.Cable.Male to.Female.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=811</PRODUCT_URL>
+      <PRODUCT_NAME>ממתג HDMI אוטומטי 5 כניסות עם שלט</PRODUCT_NAME>
+      <MODEL>HDMI</MODEL>
+      <DETAILS>&amp;#9679  HDMI   5  .&amp;#9679  HDMI 1.4a.&amp;#9679      .&amp;#9679     .&amp;#9679      .&amp;#9679   2.5Gbps    12.5Gbps.&amp;#9679   4K.&amp;#9679   3D.&amp;#9679   .&amp;#9679     HDMI.</DETAILS>
+      <CATALOG_NUMBER>811</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>105</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/5.Port.HDMI.Switch.with.Remote_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=889</PRODUCT_URL>
+      <PRODUCT_NAME>קופסת מיתוג לחיבור אופטי 3 כניסות ליציאה אחת</PRODUCT_NAME>
+      <MODEL>אופטי</MODEL>
+      <DETAILS>&amp;#9679     SPDIF Toslink.&amp;#9679     2  3 .&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>889</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>90</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>AP-LINK</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Optical.Audio.Selector.1.To.3_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=947</PRODUCT_URL>
+      <PRODUCT_NAME>ממתג RCA שלוש כניסות ויציאה אחת</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679   RCA    .&amp;#9679    .&amp;#9679    DVDPS3XBOX 360 .&amp;#9679    RCA. &amp;#9679   . </DETAILS>
+      <CATALOG_NUMBER>947</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/RCA.switch.3.to-1.AV_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1486</PRODUCT_URL>
+      <PRODUCT_NAME>ממתג HDMI 1.4 שלוש יציאות Vention</PRODUCT_NAME>
+      <MODEL>HDMI</MODEL>
+      <DETAILS>&amp;#9679   HDMI  .&amp;#9679  HDMI 1.4b  HDCP 1.01.1.&amp;#9679   4K  3D.&amp;#9679    ABS.&amp;#9679    .&amp;#9679 3   .&amp;#9679    3Gpbs300MHz.&amp;#9679  DC 5V    .&amp;#9679  .&amp;#9679  105x59x20 .&amp;#9679  Vention  VAAS17L.  </DETAILS>
+      <CATALOG_NUMBER>1486</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>129</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Vention</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Vention.3.Port.HDMI.1.4.Switch.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1524</PRODUCT_URL>
+      <PRODUCT_NAME>ממתג 3 יציאות HDMI 2.0</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   HDMI  .&amp;#9679  HDMI 2.0  HDCP.&amp;#9679  1080P@120HZ  4K@60HZ.&amp;#9679   DTSHD Dolby Digital.&amp;#9679    ABS.&amp;#9679    .&amp;#9679 3   .&amp;#9679    2.5Gpbs250MHz.&amp;#9679   Toslink.&amp;#9679   3.5mm.&amp;#9679  DC 5V    .&amp;#9679  .&amp;#9679  Vention  VAAS20.  </DETAILS>
+      <CATALOG_NUMBER>1524</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>195</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Vention</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Vention.3.Port.HDMI.2.0.Switch.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1579</PRODUCT_URL>
+      <PRODUCT_NAME>ממתג HDMI אוטומטי 3 כניסות עם שלט</PRODUCT_NAME>
+      <MODEL>HDMI</MODEL>
+      <DETAILS>&amp;#9679   3  HDMI.&amp;#9679  HDMI 1.4a.&amp;#9679     .&amp;#9679      .&amp;#9679   2.5Gbps    7.5Gbps.&amp;#9679   4K.&amp;#9679   3D.&amp;#9679  .&amp;#9679  Micro USB    .&amp;#9679  77x56x15  40 .</DETAILS>
+      <CATALOG_NUMBER>1579</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.Port.hdmi.switch.splitter.with.IR.Remote.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

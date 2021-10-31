@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=730</PRODUCT_URL>
+      <PRODUCT_NAME>שקע למזגן</PRODUCT_NAME>
+      <MODEL>אביזרים למזגן</MODEL>
+      <DETAILS>&amp;#9679  .&amp;#9679  230V&amp;#9679  16A&amp;#9679      UV.&amp;#9679   .&amp;#9679  8.5x8.5.&amp;#9679  . .</DETAILS>
+      <CATALOG_NUMBER>730</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>19</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Air.conditioner.socket.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=731</PRODUCT_URL>
+      <PRODUCT_NAME>שקע בזק יחיד - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>שקע טלפון ישראלי</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679      UV.&amp;#9679   .&amp;#9679  8.5x8.5.&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>731</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>15</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Single.Bezeq.sockets.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=732</PRODUCT_URL>
+      <PRODUCT_NAME>שקע בזק כפול - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>שקע טלפון ישראלי</MODEL>
+      <DETAILS>&amp;#9679    &amp;#9679      UV.&amp;#9679   .&amp;#9679  8.5x8.5.&amp;#9679  . .</DETAILS>
+      <CATALOG_NUMBER>732</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Dual.Bezeq.sockets.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=733</PRODUCT_URL>
+      <PRODUCT_NAME>שקע למחשב RJ-45 יחיד - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>RJ-45 יציאת רשת</MODEL>
+      <DETAILS>&amp;#9679   RJ45 .&amp;#9679      .&amp;#9679   .&amp;#9679  8.5x8.5.&amp;#9679  . .</DETAILS>
+      <CATALOG_NUMBER>733</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Single.Socket.RJ.45.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=734</PRODUCT_URL>
+      <PRODUCT_NAME>שקע למחשב RJ-45 כפול - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>RJ-45 יציאת רשת</MODEL>
+      <DETAILS>&amp;#9679   RJ45 .&amp;#9679      .&amp;#9679   .&amp;#9679  8.5x8.5.&amp;#9679  . .</DETAILS>
+      <CATALOG_NUMBER>734</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Socket.RJ.45.Dual.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=735</PRODUCT_URL>
+      <PRODUCT_NAME>שקע כוח ANAIS - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>שקע כח</MODEL>
+      <DETAILS>&amp;#9679   ANAIS.&amp;#9679  230V&amp;#9679  16A&amp;#9679     UV.&amp;#9679      55.&amp;#9679  8.3x11.2.&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>735</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>16</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.socket_ANAIS.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=736</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק יחיד ANAIS - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>מפסק יחיד</MODEL>
+      <DETAILS>&amp;#9679   ANAIS.&amp;#9679  230V&amp;#9679  10A&amp;#9679     UV.&amp;#9679      55.&amp;#9679  8.3x11.2.&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>736</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Single.Power.switch.ANAIS.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=737</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק כפול ANAIS - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>מפסק כפול</MODEL>
+      <DETAILS>&amp;#9679   ANAIS.&amp;#9679  230V&amp;#9679  10A&amp;#9679     UV.&amp;#9679      55.&amp;#9679  8.3x11.2.&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>737</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Dual.Power.switch.ANAIS.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=738</PRODUCT_URL>
+      <PRODUCT_NAME>שקע ANAIS TV-FM</PRODUCT_NAME>
+      <MODEL>שקע טלויזיה</MODEL>
+      <DETAILS>&amp;#9679  ANAIS TVFM.&amp;#9679  230V&amp;#9679     UV.&amp;#9679      55.&amp;#9679  8.3x11.2.&amp;#9679  .   .&amp;#9679     ISO 9001.</DETAILS>
+      <CATALOG_NUMBER>738</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Socket.TV-FM_ANAIS.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=739</PRODUCT_URL>
+      <PRODUCT_NAME>שקע כוח NOA לבן - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>שקע כוח</MODEL>
+      <DETAILS>&amp;#9679   NOA.&amp;#9679  230V&amp;#9679  16A&amp;#9679     UV.&amp;#9679   .&amp;#9679  8.5x8.5.&amp;#9679   .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>739</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.socket_NOA.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=740</PRODUCT_URL>
+      <PRODUCT_NAME>שקע כוח עם מפסק Shoval - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>שקע כוח</MODEL>
+      <DETAILS>&amp;#9679     Shoval.&amp;#9679  230V&amp;#9679  16A&amp;#9679    UV.&amp;#9679   .&amp;#9679  8.5x8.5.&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>740</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.socket.with.switch_Shoval.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=741</PRODUCT_URL>
+      <PRODUCT_NAME>שקע כוח מוגן מים Yarden - התקנה על הטיח</PRODUCT_NAME>
+      <MODEL>שקע מוגן מים</MODEL>
+      <DETAILS>&amp;#9679     Yarden.&amp;#9679  230V&amp;#9679  16A&amp;#9679    UV.&amp;#9679   .&amp;#9679  7.5x7.&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>741</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Water.proof.power.socket_Yarden.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=757</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק יחיד NOA - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>מפסק יחיד</MODEL>
+      <DETAILS>&amp;#9679   NOA.&amp;#9679  230V&amp;#9679  10A&amp;#9679    UV.&amp;#9679   .&amp;#9679  .&amp;#9679  8.5x8.5 .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>757</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>16</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Single.Power.switch.NOA.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=758</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק כפול NOA - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>מפסק כפול</MODEL>
+      <DETAILS>&amp;#9679   NOA.&amp;#9679  230V&amp;#9679  10A&amp;#9679    UV.&amp;#9679   .&amp;#9679  .&amp;#9679  8.5x8.5 .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>758</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Dual.Power.switch.NOA.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=759</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק יחיד Shoval - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>מפסק יחיד</MODEL>
+      <DETAILS>&amp;#9679   Shoval.&amp;#9679  230V&amp;#9679  10A&amp;#9679    UV.&amp;#9679   .&amp;#9679  8.5x8.5 .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>759</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>15</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Single.Power.switch.Shoval.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=760</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק כפול Shoval - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>מפסק כפול</MODEL>
+      <DETAILS>&amp;#9679   Shoval.&amp;#9679  230V&amp;#9679  10A&amp;#9679    UV.&amp;#9679   .&amp;#9679  8.5x8.5 .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>760</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>17</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Dual.Power.switch.Shoval.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=761</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק יחיד מוגן מים Yarden - התקנה על הטיח</PRODUCT_NAME>
+      <MODEL>מפסק יחיד מוגן מים</MODEL>
+      <DETAILS>&amp;#9679     Yarden.&amp;#9679  230V&amp;#9679  10A&amp;#9679    UV.&amp;#9679   .&amp;#9679  7.5x7 .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>761</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Water.proof.Single.Power.switch_Yarden.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=762</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק כפול מוגן מים Yarden - התקנה על הטיח</PRODUCT_NAME>
+      <MODEL>מפסק כפול מוגן מים</MODEL>
+      <DETAILS>&amp;#9679     Yarden.&amp;#9679  230V&amp;#9679  10A&amp;#9679    UV.&amp;#9679   .&amp;#9679  7.5x7 .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>762</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Water.proof.Dual.Power.switch_Yarden.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=763</PRODUCT_URL>
+      <PRODUCT_NAME>שקע כוח מוגן מים Shoval - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>שקע מוגן מים</MODEL>
+      <DETAILS>&amp;#9679     Shoval.&amp;#9679  230V  12V&amp;#9679  16A&amp;#9679    UV.&amp;#9679   .&amp;#9679  8.5x8.5 .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>763</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Water.proof.power.socket_Shoval.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=764</PRODUCT_URL>
+      <PRODUCT_NAME>שקע בזק יחיד ANAIS - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>שקע טלפון ישראלי</MODEL>
+      <DETAILS>&amp;#9679    ANAIS.&amp;#9679    UV.&amp;#9679      55.&amp;#9679  8.3x11.2  .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>764</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Single.Bezeq.sockets_ANAIS.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=765</PRODUCT_URL>
+      <PRODUCT_NAME>מסגרת הרכב ל-2 סדרת NOA</PRODUCT_NAME>
+      <MODEL>מסגרת הרכב</MODEL>
+      <DETAILS>&amp;#9679   2  .&amp;#9679    UV.&amp;#9679   .&amp;#9679  15.5x8.5  .&amp;#9679  .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>765</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Plastic.frame.Whate.To.2.For.NOA.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=766</PRODUCT_URL>
+      <PRODUCT_NAME>מסגרת הרכב ל-3 סדרת NOA</PRODUCT_NAME>
+      <MODEL>מסגרת הרכב</MODEL>
+      <DETAILS>&amp;#9679   3  .&amp;#9679    UV.&amp;#9679   .&amp;#9679  22.5x8.5  .&amp;#9679  .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>766</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>24</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Plastic.frame.Whate.To.3.For.NOA.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=924</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק דו קוטבי רוקר מואר נועה להתקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>מפסק דו קוטבי</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679  230V.&amp;#9679  10A.&amp;#9679       UV.&amp;#9679   .&amp;#9679  8.5x8.5 .&amp;#9679  .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>924</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Bipolar.rocker.switch.NOA.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=925</PRODUCT_URL>
+      <PRODUCT_NAME>לחצן מדרגות רוקר מואר נועה להתקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>לחצן מדרגות</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  230V.&amp;#9679  10A.&amp;#9679       UV.&amp;#9679   .&amp;#9679  8.5x8.5 .&amp;#9679  .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>925</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Stairs.rocker.button.NOA.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=926</PRODUCT_URL>
+      <PRODUCT_NAME>לחצן מדרגות מואר נועה להתקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL>לחצן מדרגות</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679  230V.&amp;#9679  10A.&amp;#9679       UV.&amp;#9679   .&amp;#9679  8.5x8.5 .&amp;#9679  .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>926</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Stairs.Button.NOA.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1108</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק יחיד מחליף NOA - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    NOA.&amp;#9679     .&amp;#9679  230V&amp;#9679  10A&amp;#9679    UV.&amp;#9679   .&amp;#9679  .&amp;#9679  8.5x8.5 .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>1108</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Single.Power.switch.Replace.NOA.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1109</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק כפול מחליף NOA - התקנה תחת הטיח</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    NOA.&amp;#9679     &amp;#9679  230V&amp;#9679  10A&amp;#9679    UV.&amp;#9679   .&amp;#9679  .&amp;#9679  8.5x8.5 .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>1109</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Fetayaֹ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Dual.Power.switch.Replace.NOA.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1938</PRODUCT_URL>
+      <PRODUCT_NAME>רב שקע אוניברסלי x2 תה''ט POLO</PRODUCT_NAME>
+      <MODEL>רב שקע אוניברסלי</MODEL>
+      <DETAILS>&amp;#9679     2 .&amp;#9679   .&amp;#9679   .&amp;#9679   PC.&amp;#9679   110250V.&amp;#9679     10A2500W.&amp;#9679  118x72 .&amp;#9679  .&amp;#9679  POLO  X7118004.</DETAILS>
+      <CATALOG_NUMBER>1938</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>POLO</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/POLO.Wall.Outlet.Panel.With.Power.socket.x2.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1939</PRODUCT_URL>
+      <PRODUCT_NAME>רב שקע אוניברסלי x3 תה''ט POLO</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     3 .&amp;#9679   .&amp;#9679   .&amp;#9679   PC.&amp;#9679   110250V.&amp;#9679     10A2500W.&amp;#9679  154x72 .&amp;#9679  .&amp;#9679  POLO  X7118D9H.</DETAILS>
+      <CATALOG_NUMBER>1939</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>POLO</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/POLO.Wall.Outlet.Panel.With.Power.socket.x3.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

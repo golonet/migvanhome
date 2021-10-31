@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1020</PRODUCT_URL>
+      <PRODUCT_NAME>נקודת גישה אלחוטית TP-Link דגם  TL-WA701ND</PRODUCT_NAME>
+      <MODEL>ציוד משלים לתקשורת אלחוטית</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679       .&amp;#9679     150Mbps.&amp;#9679   802.11NGB.&amp;#9679     5dBi  SMA.&amp;#9679   SSID EnableDisable MAC Address Filter 64128152bit WEP Encryption WPAWPA2WPAPSKWPA2PSK (AESTKIP) Encryption.&amp;#9679  POE    .&amp;#9679        Client Mode.&amp;#9679   WPS  .&amp;#9679    .&amp;#9679  181x125x36 .&amp;#9679  3    .&amp;#9679  TPLink   TLWA701ND.  </DETAILS>
+      <CATALOG_NUMBER>1020</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>125</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Access.Point.TL-WA701ND_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1021</PRODUCT_URL>
+      <PRODUCT_NAME>נקודת גישה אלחוטית TP-Link דגם  TL-WA801ND</PRODUCT_NAME>
+      <MODEL>ציוד משלים לתקשורת אלחוטית</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679       .&amp;#9679     300Mbps.&amp;#9679   802.11NGB.&amp;#9679      10dBi  SMA.&amp;#9679   64128152bit WEPWPAWPA2WPAPSKWPA2PSK.&amp;#9679  POE    .&amp;#9679        Client Mode.&amp;#9679   WPS  .&amp;#9679    .&amp;#9679  181x125x36 .&amp;#9679  3    .&amp;#9679  TPLink   TLWA801ND.  </DETAILS>
+      <CATALOG_NUMBER>1021</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>155</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Access.Point.TL-WA801ND_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1022</PRODUCT_URL>
+      <PRODUCT_NAME>נקודת גישה אלחוטית לחשמל TP-Link דגם  TL-WA850RE</PRODUCT_NAME>
+      <MODEL>ציוד משלים לתקשורת אלחוטית</MODEL>
+      <DETAILS>&amp;#9679      .&amp;#9679       .&amp;#9679     300Mbps.&amp;#9679   802.11NGB.&amp;#9679      10dBi  SMA.&amp;#9679   64128152bit WEP WPAPSK  WPA2PSK.&amp;#9679  3    .&amp;#9679  TPLink  TLWA850RE.  </DETAILS>
+      <CATALOG_NUMBER>1022</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>145</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.WiFi.Range.Extender.TL-WA850RE_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1946</PRODUCT_URL>
+      <PRODUCT_NAME>מאריך טווח אלחוטי TotoLink דגם EX300</PRODUCT_NAME>
+      <MODEL>מאריך טווח אלחוטי</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679 2   4dBi  .&amp;#9679   802.11nbg 2T*2R 2.4GHz.&amp;#9679     300Mbps.&amp;#9679  .&amp;#9679  RSTWPS.&amp;#9679  64128bit WEP WPAPSKWPA2PSK.&amp;#9679  56x93x35.8 .&amp;#9679  TOTOLINK  EX300.  </DETAILS>
+      <CATALOG_NUMBER>1946</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>99</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TotoLink</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/TOTOLINK.EX300.300Mbps.WiFi.N.Range.Extender.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=379</PRODUCT_URL>
+      <PRODUCT_NAME>מודם פקס חיצוני בחיבור USB</PRODUCT_NAME>
+      <MODEL>56Kbps</MODEL>
+      <DETAILS>&amp;#9679   USB   56K.&amp;#9679      14.4kbps.&amp;#9679   V9.2V9.0&amp;#9679  .&amp;#9679    Windows XPVista78 Linux.</DETAILS>
+      <CATALOG_NUMBER>379</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>99</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Maxxtro</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/External.Fax.Modem.USB.connection_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=380</PRODUCT_URL>
+      <PRODUCT_NAME>מודם פקס פנימי בחיבור PCI</PRODUCT_NAME>
+      <MODEL>56Kbps</MODEL>
+      <DETAILS>&amp;#9679     PCI.&amp;#9679      14.4kbps.&amp;#9679   V9.2V9.0</DETAILS>
+      <CATALOG_NUMBER>380</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>52</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Maxxtro</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Internal.Fax.Modem.PCI.connection_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=435</PRODUCT_URL>
+      <PRODUCT_NAME>מודם USB סלולרי TP-Link דגם MA180</PRODUCT_NAME>
+      <MODEL>מודם סלולרי</MODEL>
+      <DETAILS>&amp;#9679   3G  USB 2.0.&amp;#9679    7.2Mbps  5.76Mbps.&amp;#9679     Micro SD  32GB.&amp;#9679    SMS.&amp;#9679  Windows XPvista78 3264bit.&amp;#9679  99x28x14 .&amp;#9679  TPLink  MA180.&amp;#9679  3    .   </DETAILS>
+      <CATALOG_NUMBER>435</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>185</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-Link</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.75G.HSUPA.USB.Adapter.TL-MA180_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

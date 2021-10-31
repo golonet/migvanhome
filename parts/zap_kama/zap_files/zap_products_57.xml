@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=145</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר חוטי GP דגם PM-348G</PRODUCT_NAME>
+      <MODEL>עכבר חוטי</MODEL>
+      <DETAILS>    USB 800dpi.   .     . GP  PM348G</DETAILS>
+      <CATALOG_NUMBER>145</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Optical.Mouse.GP_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=146</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אופטי זעיר עם כבל USB נמתח</PRODUCT_NAME>
+      <MODEL>עכברים</MODEL>
+      <DETAILS>     USB  800dpi. USB   1.5      .</DETAILS>
+      <CATALOG_NUMBER>146</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mini.Optical.Mouse.Gray_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=147</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אופטי זעיר עם כבל USB נמתח Toshiba</PRODUCT_NAME>
+      <MODEL>עכבר חוטי</MODEL>
+      <DETAILS>     USB  800dpi.     . Toshiba </DETAILS>
+      <CATALOG_NUMBER>147</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mini.Optical.Mouse.Toshiba_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=249</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת מיני  חוטית Muller דגם M859</PRODUCT_NAME>
+      <MODEL>מקלדת מיני</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679      .&amp;#9679  31x13.5   610 .&amp;#9679  USB.&amp;#9679  Muller   M859.&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>249</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Muller</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mini.Keyboard.USB.Muller_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=319</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אופטי חוטי Silver Line דגם  OM-390</PRODUCT_NAME>
+      <MODEL>עכברים</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679      .&amp;#9679  800dpi.&amp;#9679  .&amp;#9679  Silver Line   OM390.&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>319</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Optical.mouse.wires.SilverLine.OM-390_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=385</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר חוטי בחיבור PS/2</PRODUCT_NAME>
+      <MODEL>עכברים</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679 3 .&amp;#9679   800 DPI.&amp;#9679  PS2.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>385</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>30</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Maxxtro</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mouse.Wired.Maxxtro_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=417</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת חוטית Silver Line דגם  KB-909HE</PRODUCT_NAME>
+      <MODEL>מקלדת חוטית</MODEL>
+      <DETAILS>   USB. . . Silver Line   KB909HE.    .</DETAILS>
+      <CATALOG_NUMBER>417</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/keyboard.Silver.Line.KB-909_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=418</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת מולטימדיה Silver Line דגם  KB-880HE</PRODUCT_NAME>
+      <MODEL>מקלדת חוטית</MODEL>
+      <DETAILS>    USB.9   .  1.8  . Silver Line   KB880HE.    .</DETAILS>
+      <CATALOG_NUMBER>418</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Multimedia.keyboard.Silver.Line.KB-880_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=419</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת מולטימדיה Silver Line דגם  KB-770HE</PRODUCT_NAME>
+      <MODEL>מקלדת חוטית</MODEL>
+      <DETAILS>    USB10   . . Silver Line   KB909HE.    .</DETAILS>
+      <CATALOG_NUMBER>419</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Multimedia.keyboard.Silver.Line.MM-KB770.white_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=466</PRODUCT_URL>
+      <PRODUCT_NAME>סט מקלדת ועכבר אלחוטית Logitech דגם MK240</PRODUCT_NAME>
+      <MODEL>סט מקלדת ועכבר אלחוטייים</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   1000dpi&amp;#9679    .&amp;#9679   .&amp;#9679   2.4 GHz.&amp;#9679     10 .&amp;#9679     .&amp;#9679  Logitech  MK240.&amp;#9679     .   </DETAILS>
+      <CATALOG_NUMBER>466</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>129</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Logitech</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Logitech.Wireless.Combo.MK240_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=467</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת מולטימדיה חוטית Logitech דגם K200</PRODUCT_NAME>
+      <MODEL>מקלדת חוטית</MODEL>
+      <DETAILS>&amp;#9679      USB.&amp;#9679  .&amp;#9679   .&amp;#9679   .&amp;#9679  .&amp;#9679  Logitech  K200.&amp;#9679     .   </DETAILS>
+      <CATALOG_NUMBER>467</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Logitech</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Keyboard.logitech.k200_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=468</PRODUCT_URL>
+      <PRODUCT_NAME>סט מקלדת ועכבר אלחוטית Logitech דגם MK220</PRODUCT_NAME>
+      <MODEL>סט מקלדת ועכבר אלחוטיים</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679   .&amp;#9679  .&amp;#9679   2.4 GHz.&amp;#9679     10 .&amp;#9679     .&amp;#9679  Logitech  MK220.&amp;#9679     .   </DETAILS>
+      <CATALOG_NUMBER>468</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>115</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Logitech</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Logitech.Wireless.Combo.MK220_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=469</PRODUCT_URL>
+      <PRODUCT_NAME>אותיות זוהרות למקלדת עברית/אנגלית - שחור</PRODUCT_NAME>
+      <MODEL>אותיות זוהרות למקלדת</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679  .&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>469</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Glowing.keyboard.stickers.Black.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=470</PRODUCT_URL>
+      <PRODUCT_NAME>אותיות זוהרות למקלדת עברית/אנגלית - לבן</PRODUCT_NAME>
+      <MODEL>אותיות זוהרות למקלדת</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679  .&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>470</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Glowing.keyboard.stickers.White.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=472</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אלחוטי Silver Line דגם RF-411 אדום/שחור</PRODUCT_NAME>
+      <MODEL>עכבר אלחוטי</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   2.4 GHz.&amp;#9679    10 .&amp;#9679  1750dpi.&amp;#9679  .&amp;#9679       .&amp;#9679  Silver Line  RF411.&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>472</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/2.4Ghz.Wireless.Optical.Mouse.Red_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=504</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת אנגלית/עברית Muller דגם M786</PRODUCT_NAME>
+      <MODEL>מקלדת חוטית</MODEL>
+      <DETAILS>&amp;#9679     USB.&amp;#9679  .&amp;#9679 9    .&amp;#9679      .&amp;#9679   1.8  .&amp;#9679  .&amp;#9679     </DETAILS>
+      <CATALOG_NUMBER>504</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Muller</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Multimedia.Keyboard.Eng.Heb.Muller.Model.M786.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=505</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת אנגלית/עברית/ערבית Muller דגם M786</PRODUCT_NAME>
+      <MODEL>מקלדת חוטית</MODEL>
+      <DETAILS>&amp;#9679     USB.&amp;#9679  .&amp;#9679 9    .&amp;#9679      .&amp;#9679   1.8  .&amp;#9679  .&amp;#9679     </DETAILS>
+      <CATALOG_NUMBER>505</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Muller</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Multimedia.Keyboard.Eng.Heb.Arabic.Muller.Model.M786.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=506</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת אנגלית/עברית/רוסית Muller דגם M786</PRODUCT_NAME>
+      <MODEL>מקלדת חוטית</MODEL>
+      <DETAILS>&amp;#9679     USB.&amp;#9679  .&amp;#9679 9    .&amp;#9679      .&amp;#9679   1.8  .&amp;#9679  .&amp;#9679     </DETAILS>
+      <CATALOG_NUMBER>506</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Muller</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Multimedia.Keyboard.Eng.Heb.Rossian.Muller.Model.M786.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=509</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אופטי עם כבל USB נמתח Muller דגם M236</PRODUCT_NAME>
+      <MODEL>עכבר חוטימ</MODEL>
+      <DETAILS>&amp;#9679     USB .&amp;#9679  USB   80 .&amp;#9679  800 DPI.&amp;#9679  Muller  M236.&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>509</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Muller</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mini.Retractable.USB.Optical.Mouse.Muller.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=539</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר מיקרו עם כבל USB נמתח Muller דגם M807</PRODUCT_NAME>
+      <MODEL>עכבר עם כבל USB נמתח</MODEL>
+      <DETAILS>&amp;#9679      USB . &amp;#9679  USB   70 . . &amp;#9679  800 DPI. &amp;#9679  . &amp;#9679  Muller   M807.&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>539</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Muller</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mini.Retractable.USB.Micro.Mouse.Muller.M807.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=709</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אופטי חוטי Logitech דגם B100</PRODUCT_NAME>
+      <MODEL>עכברים</MODEL>
+      <DETAILS>&amp;#9679     USB.&amp;#9679  800dpi.&amp;#9679 3 .&amp;#9679      .&amp;#9679   Plug &amp; Play.&amp;#9679   1.80 .&amp;#9679  .&amp;#9679  3    .&amp;#9679  Logitech  B100.   </DETAILS>
+      <CATALOG_NUMBER>709</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Logitech</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Logitech.B100.Optical.USB.Mouse_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=750</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר מיני אלחוטי Logitech דגם m187</PRODUCT_NAME>
+      <MODEL>עכברים</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679 3 .&amp;#9679   2.4GHz.&amp;#9679   10 .&amp;#9679  1000dpi.&amp;#9679    Plug &amp; Play.&amp;#9679    AAA.&amp;#9679     .&amp;#9679  .&amp;#9679  49.4x81.9x31.8 .&amp;#9679  3    .&amp;#9679  Logitech  m187.  </DETAILS>
+      <CATALOG_NUMBER>750</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>95</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Logitech</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Logitech.Wireless.Mini.Mouse.m187_Main.Image.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=827</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אלחוטי Logitech דגם m165</PRODUCT_NAME>
+      <MODEL>עכבר אלחוטי</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   2.4GHz.&amp;#9679   1000DPI.&amp;#9679    USB.&amp;#9679     AA.&amp;#9679  61x101x31 .&amp;#9679  3    .&amp;#9679  Logitech  m165.  </DETAILS>
+      <CATALOG_NUMBER>827</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Logitech</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Logitech.Wireless.Mouse.m165_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=833</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת מולטימדיה Neocom דגם NCK-102</PRODUCT_NAME>
+      <MODEL>מקלדת חוטית</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679 18   .&amp;#9679   USB.&amp;#9679  45x19.4x1.4 .&amp;#9679  Neocom  NCK102.</DETAILS>
+      <CATALOG_NUMBER>833</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>16</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Neocom</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Multimedia.keyboard.Neocom.NCK-102_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=834</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אופטי חוטי Silver Line דגם OM-280</PRODUCT_NAME>
+      <MODEL>עכבר חוטי</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679  800dpi.&amp;#9679     .&amp;#9679  .&amp;#9679  Silver Line  OM280.&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>834</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Optical.mouse.wires.SilverLine.OM-280.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=887</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת בלוטוס עם משטח מגע RAPOO דגם E6700</PRODUCT_NAME>
+      <MODEL>מקלדת בלוטוס</MODEL>
+      <DETAILS>&amp;#9679  Bluetooth    .&amp;#9679   3.0.&amp;#9679   10 .&amp;#9679  .&amp;#9679    500mAh.&amp;#9679    .&amp;#9679  .&amp;#9679  33x10x0.56 .&amp;#9679     .&amp;#9679  RAPOO  E6700.</DETAILS>
+      <CATALOG_NUMBER>887</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>295</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Rapoo</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Bluetooth.Touchpad.Keyboard.Debuts.Rapoo.E6700_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=888</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת בלוטוס RAPOO דגם E6100W</PRODUCT_NAME>
+      <MODEL>מקלדת בלוטוס</MODEL>
+      <DETAILS>&amp;#9679  Bluetooth .&amp;#9679   3.0.&amp;#9679   10 .&amp;#9679      .&amp;#9679 82 .&amp;#9679  .&amp;#9679     AAA.&amp;#9679    WindowsMaciOSAndroid.&amp;#9679  .&amp;#9679  29x11x0.56 .&amp;#9679     .&amp;#9679  RAPOO  E6100W.  </DETAILS>
+      <CATALOG_NUMBER>888</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>165</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Rapoo</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Bluetooth.Ultra.Slim.Keyboard.Rapoo.E6100_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=971</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת מולטימדיה קומבו אלחוטית Logitech דגם mk270</PRODUCT_NAME>
+      <MODEL>סט אלחוטי</MODEL>
+      <DETAILS>&amp;#9679      .&amp;#9679   .&amp;#9679   .&amp;#9679   2.4GHz.&amp;#9679    10 .&amp;#9679    USB.&amp;#9679  3    .&amp;#9679  Logitech   mk270.  </DETAILS>
+      <CATALOG_NUMBER>971</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>129</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Logitech</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Logitech.Wireless.Combo.MK270_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=973</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אופטי חוטי Logitech דגם M90</PRODUCT_NAME>
+      <MODEL>עכבר חוטי</MODEL>
+      <DETAILS>&amp;#9679    USB.&amp;#9679  1000dpi.&amp;#9679 3 .&amp;#9679     .&amp;#9679   1.80 .&amp;#9679  3    .&amp;#9679  Logitech   M90.  </DETAILS>
+      <CATALOG_NUMBER>973</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Logitech</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Logitech.M90.Optical.USB.Mouse_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1067</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אופטי חוטי Silver Line דגם OM315BK</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679  800dpi.&amp;#9679  USB.&amp;#9679     .&amp;#9679   1.5 .&amp;#9679  .&amp;#9679  Silver Line  OM315BK.  </DETAILS>
+      <CATALOG_NUMBER>1067</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Silver.Line.OM315BK.Optical.USB.Mouse.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1068</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת מולטימדיה קומבו חוטית Silver Line דגם MM-8890</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679     800dpi.&amp;#9679    USB.&amp;#9679 12  .&amp;#9679   2 .&amp;#9679   1.5 .&amp;#9679  Silver Line  MM8890.  </DETAILS>
+      <CATALOG_NUMBER>1068</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Multimedia.Keyboard.&amp;.Mouse.Silver.Line.MM-8890.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1228</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אלחוטי אופטי GP דגם PWM-53R</PRODUCT_NAME>
+      <MODEL>עכבר אלחוטי</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679    2.4GHz.&amp;#9679   510 .&amp;#9679   80012001600DPI.&amp;#9679     .&amp;#9679  .&amp;#9679  GP  PWM53R.</DETAILS>
+      <CATALOG_NUMBER>1228</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Optical.Wireless.Mouse.GP.PWM-53R.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1400</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אופטי חוטי 6 לחצנים Orico</PRODUCT_NAME>
+      <MODEL>עכבר חוטי</MODEL>
+      <DETAILS>&amp;#9679    6 .&amp;#9679      ABS.&amp;#9679   100012001600DPI.&amp;#9679   1.5 .&amp;#9679  3V  50mA.&amp;#9679  112x67x40 .&amp;#9679  Orico  MSW16BK.</DETAILS>
+      <CATALOG_NUMBER>1400</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>79</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/ORICO.Wired.Mouse.6.Buttons.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1402</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר אופטי מיני עם כבל נמתח</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679      .&amp;#9679  800dpi.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1402</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Optical.Mouse.Mini.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1751</PRODUCT_URL>
+      <PRODUCT_NAME>מקלדת נומרית Orico OBK-311</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    23 .&amp;#9679     .&amp;#9679    ABS.&amp;#9679   USB 2.0.&amp;#9679   1.5 .&amp;#9679  150x90x13  140 .&amp;#9679    OBK311.  </DETAILS>
+      <CATALOG_NUMBER>1751</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/ORICO.OBK-311.Mini.Multifunction.USB.Calculator.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1881</PRODUCT_URL>
+      <PRODUCT_NAME>סט מקלדת מיני + עכבר אלחוטיים Rapoo 8000</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679   2.4GHz.&amp;#9679    10 .&amp;#9679  .&amp;#9679      .&amp;#9679      UV.&amp;#9679    .&amp;#9679     AA.&amp;#9679    .&amp;#9679   282x37x17 .&amp;#9679     .&amp;#9679  Rapoo  8000B.  </DETAILS>
+      <CATALOG_NUMBER>1881</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>95</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Rapoo</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Rapoo.8000B.Wireless.Mouse.and.Mini.Keyboard.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2033</PRODUCT_URL>
+      <PRODUCT_NAME>עכבר חוטי לגיימרים Rii דגם RM600</PRODUCT_NAME>
+      <MODEL>עכבר</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679 7 .&amp;#9679   5500dpi.&amp;#9679  Windows MAC OS.&amp;#9679  130x86x38 .&amp;#9679  Rii  RM600.</DETAILS>
+      <CATALOG_NUMBER>2033</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>85</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Rii</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Rii.RM600.Optical.USB.Wired.Gaming.Mouse.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

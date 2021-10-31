@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=148</PRODUCT_URL>
+      <PRODUCT_NAME>גלאי גז לאיתור דליפות גז</PRODUCT_NAME>
+      <MODEL>גלאי גז</MODEL>
+      <DETAILS>      85dl   DEL25%  85dl3m    DEL25% Omega.</DETAILS>
+      <CATALOG_NUMBER>148</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Omega</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Gas.Detector.Omega_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1836</PRODUCT_URL>
+      <PRODUCT_NAME>מצלמת אבטחה IP אלחוטית KERUI IPC-05</PRODUCT_NAME>
+      <MODEL>מצלמת אבטחה</MODEL>
+      <DETAILS>&amp;#9679   CCTV IP .&amp;#9679   HD 720P   2MP.&amp;#9679    .&amp;#9679  355    120  .&amp;#9679  4mm.&amp;#9679   802.11bgn.&amp;#9679     64GB.&amp;#9679   64  .&amp;#9679       ....&amp;#9679    H.264  MJPEG.&amp;#9679      .&amp;#9679   VGA@ 2530fbs.&amp;#9679 11       5 .&amp;#9679  IRcut     .&amp;#9679   1001000Mbs.&amp;#9679   DC 5V2A.&amp;#9679       . yoosee     Android    iOS &amp;#9679  120x120x110  750 .&amp;#9679  KERUI  IPC05.</DETAILS>
+      <CATALOG_NUMBER>1836</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>270</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>KERUI</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/KERUI.IPC-05.Security.CCTV.WiFi.IP.camera.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1859</PRODUCT_URL>
+      <PRODUCT_NAME>מעצור אזעקה לדלת</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679     .&amp;#9679   125 .&amp;#9679 3   .&amp;#9679  .&amp;#9679    9V.&amp;#9679  135x45x40  294 .</DETAILS>
+      <CATALOG_NUMBER>1859</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Door.Stop.Alarm .jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1999</PRODUCT_URL>
+      <PRODUCT_NAME>מצלמת אבטחה כיפה דמה</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679   .&amp;#9679    .&amp;#9679   2  AA.&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>1999</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Wireless.Home.Security.Fake.Camera.Surveillance.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

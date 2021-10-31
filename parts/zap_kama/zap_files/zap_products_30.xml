@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1902</PRODUCT_URL>
+      <PRODUCT_NAME>כבל חשמל 3x1.5mm ירוק 100 מטר</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679  .&amp;#9679    1.5 .&amp;#9679  100 .</DETAILS>
+      <CATALOG_NUMBER>1902</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>220</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Electric.cable.green.1.5mm.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1906</PRODUCT_URL>
+      <PRODUCT_NAME>חוט חשמל צהוב/ירוק 1.5mm חבילה 100 מטר</PRODUCT_NAME>
+      <MODEL>חשמל</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   1.5 .&amp;#9679   .&amp;#9679   100 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1906</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>16</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Yellow.electric.wire.1.5mm.100M.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1907</PRODUCT_URL>
+      <PRODUCT_NAME>חוט חשמל כחול 1.5mm חבילה 100 מטר</PRODUCT_NAME>
+      <MODEL>חשמל</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   1.5 .&amp;#9679     .&amp;#9679  N  NEUTRAL.&amp;#9679   100 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1907</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>16</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Blue.electric.wire.1.5mm.100M.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1908</PRODUCT_URL>
+      <PRODUCT_NAME>חוט חשמל חום 1.5mm חבילה 100 מטר</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679   1.5 .&amp;#9679    .&amp;#9679  L  LINE.&amp;#9679   100 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1908</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Brown.electric.wire.1.5mm.100M.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1918</PRODUCT_URL>
+      <PRODUCT_NAME>כבל קואקסאלי RG6 לבן 100 מטר</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   RG6.&amp;#9679 3  .&amp;#9679     ...&amp;#9679   100 .&amp;#9679  .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1918</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>110</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Telran</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Coaxial.RG6.Cable.100M.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

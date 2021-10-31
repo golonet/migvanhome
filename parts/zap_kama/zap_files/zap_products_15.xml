@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=289</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד USB 2.0 64GB תוצרת Verbatim</PRODUCT_NAME>
+      <MODEL>64GB</MODEL>
+      <DETAILS>&amp;#9679  64GB.&amp;#9679  USB 2.0.&amp;#9679    10MBSec .&amp;#9679    4MBSec.&amp;#9679   .&amp;#9679  .&amp;#9679  Verbatim  PinStripe&amp;#9679     .  .</DETAILS>
+      <CATALOG_NUMBER>289</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>149</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PinStripe.USB.2.0.Drive.64GB.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=324</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד 64GB USB 2.0 תוצרת Kingston דגם DTSE9</PRODUCT_NAME>
+      <MODEL>64GB</MODEL>
+      <DETAILS>&amp;#9679    USB 2.0  64GB.&amp;#9679      .&amp;#9679    480 Mbps.&amp;#9679      60  0 ..&amp;#9679      85  20 .&amp;#9679  39mm x 12.3mm x 4.5mm.&amp;#9679  Kingston  DataTraveler SE9.&amp;#9679  .   </DETAILS>
+      <CATALOG_NUMBER>324</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>175</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Kingston.DataTraveler.SE9.64gb_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=448</PRODUCT_URL>
+      <PRODUCT_NAME>זכרון נייד SanDisk Ultra Dual USB 16GB</PRODUCT_NAME>
+      <MODEL>Micro USB</MODEL>
+      <DETAILS>&amp;#9679        USB  Micro USB.&amp;#9679       OTG.&amp;#9679     .&amp;#9679   SanDisk Memory Zone   .&amp;#9679  16GB.&amp;#9679  .  </DETAILS>
+      <CATALOG_NUMBER>448</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Flash.Drive.Dual.USB.16GB.SanDisk_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=449</PRODUCT_URL>
+      <PRODUCT_NAME>זכרון נייד USB 3.0 32GB תוצרת Kingston דגם DT100</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679    USB 3.0  32GB.&amp;#9679    40MBSec.&amp;#9679    10MBSec.&amp;#9679   60x21x10 . &amp;#9679  Kingston  DataTraveler 100 G3.  </DETAILS>
+      <CATALOG_NUMBER>449</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>105</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Flash.Drive.usb.3.0.32GB.DataTraveler.DT.100.G3_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=450</PRODUCT_URL>
+      <PRODUCT_NAME>זכרון נייד USB 3.0 64GB תוצרת Kingston דגם DT100</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679    USB 3.0  64GB.&amp;#9679    40MBSec.&amp;#9679    10MBSec.&amp;#9679   60x21x10 . &amp;#9679  Kingston  DataTraveler 100 G3.  </DETAILS>
+      <CATALOG_NUMBER>450</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>189</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Flash.Drive.usb.3.0.64GB.DataTraveler.DT.100.G3_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=755</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד USB 2.0 8GB תוצרת SanDisk דגם Cruzer Force</PRODUCT_NAME>
+      <MODEL>8GB</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  USB 2.0.&amp;#9679  8GB.&amp;#9679  .&amp;#9679  SanDisk SecureAccess .&amp;#9679     128bit AES.&amp;#9679  7.4x12x34.4 .&amp;#9679  SanDisk  Cruzer Force.  </DETAILS>
+      <CATALOG_NUMBER>755</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Flash.Drive.usb.8GB.SanDisk.Cruzer.Force_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=756</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד USB 2.0 16GB תוצרת SanDisk דגם Cruzer Force</PRODUCT_NAME>
+      <MODEL>16GB</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  USB 2.0.&amp;#9679  16GB.&amp;#9679  .&amp;#9679  SanDisk SecureAccess .&amp;#9679     128bit AES.&amp;#9679  7.4x12x34.4 .&amp;#9679  SanDisk  Cruzer Force.  </DETAILS>
+      <CATALOG_NUMBER>756</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Flash.Drive.usb.16GB.SanDisk.SanDiske_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=981</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד SanDisk 16GB דגם Ultra Fit</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679  USB 3.0.&amp;#9679  16GB.&amp;#9679      130MBs.&amp;#9679   SanDisk SecureAccess         128bitAES.&amp;#9679  19.1x15.9x8.8 .&amp;#9679  SanDisk  Ultra Fit.  </DETAILS>
+      <CATALOG_NUMBER>981</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SanDisk.Ultra.Fit.16gb.USB.3.0_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=982</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד SanDisk 32GB דגם Ultra Fit</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679  USB 3.0.&amp;#9679  32GB.&amp;#9679      130MBs.&amp;#9679   SanDisk SecureAccess         128bitAES.&amp;#9679  19.1x15.9x8.8 .&amp;#9679  SanDisk  Ultra Fit.  </DETAILS>
+      <CATALOG_NUMBER>982</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SanDisk.Ultra.Fit.32gb.USB.3.0_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=983</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד SanDisk 64GB דגם Ultra Fit</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679  USB 3.0.&amp;#9679  64GB.&amp;#9679      130MBs.&amp;#9679  SanDisk SecureAccess       128bitAES.&amp;#9679  19.1x15.9x8.8 .&amp;#9679  SanDisk  Ultra Fit.  </DETAILS>
+      <CATALOG_NUMBER>983</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>129</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SanDisk.Ultra.Fit.64gb.USB.3.0_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1034</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד 32GB בחיבור Samsung USB 2.0/OTG</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679       32GB.&amp;#9679    Micro SDHC  UHS1 48MBs.&amp;#9679  Micro USB OTG.&amp;#9679   USB 2.0.&amp;#9679  Samsung  OE032G A00.</DETAILS>
+      <CATALOG_NUMBER>1034</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>115</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Samsung</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/OTG.&amp;.USB.&amp;Card.32GB.Samsung_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1093</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד SanDisk Ultra 32GB USB 3.0</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   USB 3.0.&amp;#9679      100MBs.&amp;#9679   32GB.&amp;#9679    .&amp;#9679  128bit AES encryption.&amp;#9679  SanDisk SecureAccess .&amp;#9679  56.8x21.3x10.8 .&amp;#9679  SanDisk  Ultra.  </DETAILS>
+      <CATALOG_NUMBER>1093</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.3.0.Flash.Drive.32GB.SanDisk.Ultra_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1097</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד SanDisk Ultra Dual 32GB USB 3.0</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679   USB 3.0Micro USB.&amp;#9679      130MBs.&amp;#9679   32GB. SanDisk Memory Zone &amp;#9679  11x19.8x36.6 .&amp;#9679  SanDisk  Ultra Dual.  </DETAILS>
+      <CATALOG_NUMBER>1097</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Dual.USB.3.0.Flash.Drive.32gb.SanDisk_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1145</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד SanDisk Ultra 128GB USB 3.0</PRODUCT_NAME>
+      <MODEL>usb 3.0</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   USB 3.0.&amp;#9679      100MBs.&amp;#9679   128GB.&amp;#9679    .&amp;#9679  128bit AES encryption.&amp;#9679  SanDisk SecureAccess .&amp;#9679  56.8x21.3x10.8 .&amp;#9679  SanDisk  Ultra.  </DETAILS>
+      <CATALOG_NUMBER>1145</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>225</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.3.0.Flash.Drive.128GB.SanDisk.Ultra_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1240</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד SanDisk 128GB דגם Ultra Fit</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679  USB 3.0.&amp;#9679  128GB.&amp;#9679      130MBs.&amp;#9679  SanDisk SecureAccess       128bitAES.&amp;#9679  19.1x15.9x8.8 .&amp;#9679  SanDisk  Ultra Fit.  </DETAILS>
+      <CATALOG_NUMBER>1240</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>235</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SanDisk.Ultra.Fit.128gb.USB.3.0_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1270</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון נייד SanDisk 32GB דגם USB 3.1 Type-C</PRODUCT_NAME>
+      <MODEL>USB 3.1 Type C</MODEL>
+      <DETAILS>&amp;#9679    OTG.&amp;#9679  USB 3.1 TypeC  USB A 3.0.&amp;#9679   32GB.&amp;#9679  18.8x12.7x42.7 .&amp;#9679  SanDisk  Dual USB Drive TypeC.     USB 3.1 Type C</DETAILS>
+      <CATALOG_NUMBER>1270</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>165</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SanDisk</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SanDisk.Dual.OTG.USB.3.1.Type-C.32GB.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

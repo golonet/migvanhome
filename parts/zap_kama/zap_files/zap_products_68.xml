@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=27</PRODUCT_URL>
+      <PRODUCT_NAME>אצבעות</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>      ...              .              .                  Media.org.il</DETAILS>
+      <CATALOG_NUMBER>27</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>NMC United</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Fingers_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=387</PRODUCT_URL>
+      <PRODUCT_NAME>בלי חיתולים</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>         !                        .   </DETAILS>
+      <CATALOG_NUMBER>387</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>ClasiKaletet</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Without.diapers_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=388</PRODUCT_URL>
+      <PRODUCT_NAME>השפן הקטן</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>                 .    .                   .   </DETAILS>
+      <CATALOG_NUMBER>388</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>ClasiKaletet</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Little.Rabbit_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=389</PRODUCT_URL>
+      <PRODUCT_NAME>כספיון</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>              .                                  .                 .             ..   </DETAILS>
+      <CATALOG_NUMBER>389</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>ClasiKaletet</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Kaspion_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=390</PRODUCT_URL>
+      <PRODUCT_NAME>שמוליק קיפוד</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>        (. )              .        .                            .     .                               .          .                 !   </DETAILS>
+      <CATALOG_NUMBER>390</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>ClasiKaletet</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Shmulik.Kipod_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=391</PRODUCT_URL>
+      <PRODUCT_NAME>מעשה בחמישה בלונים</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>                  .         .         30       .   </DETAILS>
+      <CATALOG_NUMBER>391</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>ClasiKaletet</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/5.balloons.act_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=392</PRODUCT_URL>
+      <PRODUCT_NAME>אליעזר והגזר</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>                          .</DETAILS>
+      <CATALOG_NUMBER>392</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>ClasiKaletet</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Eliezer.And.carrots_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=393</PRODUCT_URL>
+      <PRODUCT_NAME>יובל המבולבל - כוכב המשאלות</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>               .      .       .           .            .                                          </DETAILS>
+      <CATALOG_NUMBER>393</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>פליי-רקורדס</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Yuval.confused-Wishing.Star.Musial.IL_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=394</PRODUCT_URL>
+      <PRODUCT_NAME>יובל המבולבל 2 טוב לצחוק</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>  2     DVD  CD               .          !                          1.  2.  3.  4.   5.  6.  7. 8.   9.  10.           </DETAILS>
+      <CATALOG_NUMBER>394</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>פליי-רקורדס</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Yuval.confused.II_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=395</PRODUCT_URL>
+      <PRODUCT_NAME>עולמו של יובל המבולבל - מארז כפול DVD + CD</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>     DVD  CD  !        !                ...   ...  ...   !                          .   !  ...  ...  ...    !!! 1.   2.   3.  4.  5. 6.  7.          </DETAILS>
+      <CATALOG_NUMBER>395</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>NMC United</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Yuval.confused.V_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=396</PRODUCT_URL>
+      <PRODUCT_NAME>יובל המבולבל - המסע אל הכוכב</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>                                                  . 1. 2.    3.   4. 5.   6.  7.   8.           </DETAILS>
+      <CATALOG_NUMBER>396</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>NMC United</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Yuval.confused.III_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=397</PRODUCT_URL>
+      <PRODUCT_NAME>יובל המבולבל</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>                             .              ... 1.  2.  3.   !4.    5. 6. 7.  8.    ...        </DETAILS>
+      <CATALOG_NUMBER>397</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>הד ארצי</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Yuval.confused.I_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=398</PRODUCT_URL>
+      <PRODUCT_NAME>פים פם פה - בארמון הקסמים</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>                         .               .           .          1. 2. 3.  4.   5.   6. 7. 8. 9.  10.  7.  8.  9.  10.      </DETAILS>
+      <CATALOG_NUMBER>398</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>&#13;
+NMC United</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Pim.Pam.Pom.Magic.in.Armon_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=399</PRODUCT_URL>
+      <PRODUCT_NAME>פים פם פה</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>                  .      ( )        .               .          . 1.  2.  3.  4.  5.   6.   7.  8.   9.   10. 11.  12. 13.   14.  15.    16.        </DETAILS>
+      <CATALOG_NUMBER>399</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>NMC United</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Pim.Pam.Pom_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=400</PRODUCT_URL>
+      <PRODUCT_NAME>דוד חיים 2 - מארז DVD + CD</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>  2   DVD   .         .   (   )                    .                     </DETAILS>
+      <CATALOG_NUMBER>400</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>NMC United</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Uncle.Chaim.II_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=401</PRODUCT_URL>
+      <PRODUCT_NAME>דוד חיים</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>      () .         .      </DETAILS>
+      <CATALOG_NUMBER>401</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Uncle.Chaim.I_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=402</PRODUCT_URL>
+      <PRODUCT_NAME>אותיות מצחיקות</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>    .                   .                     .               !    </DETAILS>
+      <CATALOG_NUMBER>402</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>ClasiKaletet</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Funny.letters_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=403</PRODUCT_URL>
+      <PRODUCT_NAME>חיבוקי</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>             .                     .      12         . 1.  2.  3.  4.    5.  6.   7.    8.   9.   10. 11.  12.  </DETAILS>
+      <CATALOG_NUMBER>403</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>הד ארצי</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Chibooki_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=404</PRODUCT_URL>
+      <PRODUCT_NAME>שורום זורום</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>                .  ( )     ( )   ( )  ( )   ( )   ( )            .       .  1.  2.  3.  4.   5. 6.   7.  8.     </DETAILS>
+      <CATALOG_NUMBER>404</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>NMC United</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Shouroum.Zorom_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=405</PRODUCT_URL>
+      <PRODUCT_NAME>אצו רצו הגמדים</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>                                    ..    ..           !     ..                   .  1.   2.   3.   4.  5. 6.  7. 8.   9.      </DETAILS>
+      <CATALOG_NUMBER>405</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>NMC United</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/The.dwarves.rushed_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=406</PRODUCT_URL>
+      <PRODUCT_NAME>דוד חיים - מה מי מו</PRODUCT_NAME>
+      <MODEL>סרטי דיוידי</MODEL>
+      <DETAILS>            !                     .            .                    ...          ...     !!!    </DETAILS>
+      <CATALOG_NUMBER>406</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>NMC United</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Uncle.Chaim.what.who.Mo_Main.Image.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=496</PRODUCT_URL>
+      <PRODUCT_NAME>הדרקון המתוק שלי</PRODUCT_NAME>
+      <MODEL>הצגות</MODEL>
+      <DETAILS>     2014             </DETAILS>
+      <CATALOG_NUMBER>496</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Play-Records</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/My.Sweet.Dragon_Hanuka.2014.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=497</PRODUCT_URL>
+      <PRODUCT_NAME>פנטזיה - אלף לילה ולילה</PRODUCT_NAME>
+      <MODEL>הצגות</MODEL>
+      <DETAILS>      2014               </DETAILS>
+      <CATALOG_NUMBER>497</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Play-Records</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Fantasy.Thousand.and.One.Nights_Hanukah.2014.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=498</PRODUCT_URL>
+      <PRODUCT_NAME>עמי ותמי המחזמר</PRODUCT_NAME>
+      <MODEL>הצגות</MODEL>
+      <DETAILS>    2014        ...      </DETAILS>
+      <CATALOG_NUMBER>498</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Play-Records</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Hanse.and.Gretel.IL_Hanuka.2014.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=514</PRODUCT_URL>
+      <PRODUCT_NAME>101 כלבים דלמטים - המחזמר</PRODUCT_NAME>
+      <MODEL>הצגות</MODEL>
+      <DETAILS>&amp;#9679 101     2014.&amp;#9679      .&amp;#9679            .</DETAILS>
+      <CATALOG_NUMBER>514</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/101Dalmatim.Hanuka.2014.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=515</PRODUCT_URL>
+      <PRODUCT_NAME>גיבורי האור הדור הבא</PRODUCT_NAME>
+      <MODEL>הצגות</MODEL>
+      <DETAILS>&amp;#9679       2014.&amp;#9679       .</DETAILS>
+      <CATALOG_NUMBER>515</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Play-Records</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Heroes.of.light.Next-generation_Hanuka.2014 .jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

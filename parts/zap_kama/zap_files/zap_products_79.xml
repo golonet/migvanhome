@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=47</PRODUCT_URL>
+      <PRODUCT_NAME>ספק כוח 5V/2A חיבור DC 5.5/2.1</PRODUCT_NAME>
+      <MODEL>5V</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   DC 5.52.1.&amp;#9679   5V  2000mA.&amp;#9679   100240V AC 5060Hz 0.35A.&amp;#9679  .&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>47</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>3 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.Charger.DC.5.5.x.2.1mm.5V-2A.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=831</PRODUCT_URL>
+      <PRODUCT_NAME>ספק כוח 12V/1A חיבור DC 5.5/2.1</PRODUCT_NAME>
+      <MODEL>12V</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   DC 5.52.1.&amp;#9679   12V  1000mA.&amp;#9679   100240V AC 5060Hz 0.5A.</DETAILS>
+      <CATALOG_NUMBER>831</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.Charger.DC.5.5.x.2.1mm.12V-1A.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=896</PRODUCT_URL>
+      <PRODUCT_NAME>שנאי אוניברסלי בהספק 500mA</PRODUCT_NAME>
+      <MODEL>שנאי אוניברסלי</MODEL>
+      <DETAILS>&amp;#9679     500mA.&amp;#9679 5   .&amp;#9679  .&amp;#9679    .&amp;#9679    230v  50hz 12.5W.&amp;#9679    500mA 1.5V3v4.5v6v7.5v9v12v.</DETAILS>
+      <CATALOG_NUMBER>896</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Trans Negba</MANUFACTURER>
+      <WARRANTY>3 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.Transformer.500mA.Liran.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=897</PRODUCT_URL>
+      <PRODUCT_NAME>שנאי אוניברסלי בהספק 1000mA</PRODUCT_NAME>
+      <MODEL>שנאי אוניברסלי</MODEL>
+      <DETAILS>&amp;#9679     1000mA.&amp;#9679 5   .&amp;#9679  .&amp;#9679    .&amp;#9679    230v  50hz 12.5W.&amp;#9679    1000mA 3v4.5v6v7.5v9v12v.</DETAILS>
+      <CATALOG_NUMBER>897</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Trans Negba</MANUFACTURER>
+      <WARRANTY>3 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.Transformer.1000mA.Liran.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=945</PRODUCT_URL>
+      <PRODUCT_NAME>ספק כוח 9V/1A חיבור DC 5.5/2.1</PRODUCT_NAME>
+      <MODEL>9V</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   DC 5.52.1.&amp;#9679   9V  1A.&amp;#9679   100240V AC 5060Hz 0.5A.&amp;#9679  .&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>945</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Advice</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.Charger.DC.5.5.x.2.1mm.9V-1A.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=946</PRODUCT_URL>
+      <PRODUCT_NAME>ספק כוח 5V/3A חיבור DC 5.5/2.1</PRODUCT_NAME>
+      <MODEL>5V</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   DC 5.52.1.&amp;#9679   5V  3000mA.&amp;#9679   100240V AC 5060Hz 0.5A.&amp;#9679  .&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>946</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>BeLLine</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.Charger.DC.5.5.x.2.1mm.5V-3A.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1047</PRODUCT_URL>
+      <PRODUCT_NAME>ספק כוח 5V/2A חיבור DC 2.5/0.7 לטאבלטים</PRODUCT_NAME>
+      <MODEL>5V/2A</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   DC 2.50.7mm.&amp;#9679   5V 2.0A.&amp;#9679   100240V AC 5060Hz 0.4A Max.&amp;#9679  .&amp;#9679   .&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>1047</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.Charger.DC.2.5.x.0.7mm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1168</PRODUCT_URL>
+      <PRODUCT_NAME>ספק כוח 12V/3A חיבור DC 5.5/2.1</PRODUCT_NAME>
+      <MODEL>12V/3A</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   DC 5.52.1.&amp;#9679   12V  3000mA.&amp;#9679   100240V AC 5060Hz 1.0A.&amp;#9679  .&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>1168</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Belline</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.Charger.DC.5.5.x.2.1mm.12V-3A.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1194</PRODUCT_URL>
+      <PRODUCT_NAME>ספק כוח מיוצב 1A עם בורר מתח</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     1 .&amp;#9679   AC 100240V 5060Hz.&amp;#9679   3567.5912V.&amp;#9679   5.5x2.55.5x2.15.0x1.54.0x1.73.5x1.352.5x0.8.&amp;#9679  .&amp;#9679    .&amp;#9679   .&amp;#9679  SAKAL  UNI12W.</DETAILS>
+      <CATALOG_NUMBER>1194</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Sakal</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.supply.Stabilized.&amp;.switching.1A.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1861</PRODUCT_URL>
+      <PRODUCT_NAME>ספק כוח 12V/3A חיבור DC 5.5/2.5</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679  DC 5.52.5.&amp;#9679   5V  3000mA.&amp;#9679   100240V AC 5060Hz 1.0A.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1861</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.Supply.DC.5.5.x.2.5mm.3V-5A.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1862</PRODUCT_URL>
+      <PRODUCT_NAME>ספק כוח שולחני 5V/5A 25W חיבור DC 5.5/2.5</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    5V3A.&amp;#9679  DC 5.52.5.&amp;#9679  25W.&amp;#9679   5V  5000mA.&amp;#9679   100240V AC 5060Hz 1.0A.&amp;#9679  .&amp;#9679   C13 .&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1862</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>85</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Desktop.Power.Supply.DC.5.5.x.2.5mm.5V-5A.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1863</PRODUCT_URL>
+      <PRODUCT_NAME>ספק כוח שולחני 12V/5A 60W חיבור DC 5.5/2.5</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    5V3A.&amp;#9679  DC 5.52.5.&amp;#9679  60W.&amp;#9679   12V  5000mA.&amp;#9679   100240V AC 5060Hz 1.6A.&amp;#9679  .&amp;#9679   C13 .&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1863</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>79</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Desktop.Power.Supply.DC.5.5.x.2.5mm.12V-5A.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

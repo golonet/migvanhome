@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=15</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה DVD+R DL 8.5gb Verbatim 10pcs</PRODUCT_NAME>
+      <MODEL>DVD+R Dual-Layer</MODEL>
+      <DETAILS>&amp;#9679    Verbatim&amp;#9679 10  DVDR DualLayer  Cake.&amp;#9679  8.5GB240Min.&amp;#9679    x8.&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>15</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DVD+R.8.5GB.10pcs.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=16</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה DVD+R DL 8.5gb Ritek 10pcs</PRODUCT_NAME>
+      <MODEL>DVD+R Dual-Layer</MODEL>
+      <DETAILS>&amp;#9679    Ritek.&amp;#9679 10  .&amp;#9679    x8.&amp;#9679  8.5GB240Min.</DETAILS>
+      <CATALOG_NUMBER>16</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>40</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ritek</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DVD+R.DL.8.5GB.Ritek.10.pcs_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=17</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה  DVD-R 4.7GB RiDATA 25pcs</PRODUCT_NAME>
+      <MODEL>DVD-R</MODEL>
+      <DETAILS>&amp;#9679    RiDATA.&amp;#9679 25  .&amp;#9679    x16.&amp;#9679  4.7GB120Min.</DETAILS>
+      <CATALOG_NUMBER>17</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>RiDATA</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DVD-R.4.7GB.25pcs.RiDATA._Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=18</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה CD-R 700mb Cake Verbatim 50pcs</PRODUCT_NAME>
+      <MODEL>CD-R</MODEL>
+      <DETAILS>&amp;#9679    Verbatim.&amp;#9679 50  CDR  Cake.&amp;#9679  700MB80Min.&amp;#9679    x52.&amp;#9679    .   </DETAILS>
+      <CATALOG_NUMBER>18</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>16</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/CD-R.700mb.50pcs.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=20</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה DVD-R 4.7gb Printable Bulk RiDATA 50pcs</PRODUCT_NAME>
+      <MODEL>DVD-R Printable</MODEL>
+      <DETAILS>&amp;#9679     RiDATA.&amp;#9679 50  DVDR Printable   (Bulk).&amp;#9679    x16.&amp;#9679  4.7MB120Min.</DETAILS>
+      <CATALOG_NUMBER>20</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>52</PRICE>
+      <SHIPMENT_COST>16</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>RiDATA</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DVD-R.4.7GB.Printable.50pcs.RiDATA_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=21</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה  CD-R 700mb Cake RiDATA 25pcs </PRODUCT_NAME>
+      <MODEL>CD-R</MODEL>
+      <DETAILS>&amp;#9679    RiDATA.&amp;#9679 25  CDR  (Cake).&amp;#9679    x52.&amp;#9679  700MB80Min.</DETAILS>
+      <CATALOG_NUMBER>21</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>RiDATA</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/CD-R.700MB.25pcs.RiDATA_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=241</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה Ritek DVD-R 4.7gb Cake 50pcs</PRODUCT_NAME>
+      <MODEL>DVD-R</MODEL>
+      <DETAILS>&amp;#9679   DVDR 4.7gb.&amp;#9679   4.7gb120min.&amp;#9679    x16&amp;#9679 50  Cake.&amp;#9679  Ritek  DVDR50pcs.</DETAILS>
+      <CATALOG_NUMBER>241</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ritek</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/RItek.DVD-R.4.7GB.50pcs.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=273</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה CD-R 700mb Cake Verbatim 25pcs</PRODUCT_NAME>
+      <MODEL>CD-R</MODEL>
+      <DETAILS>&amp;#9679    Verbatim&amp;#9679 25  CDR  Cake.&amp;#9679  700MB80Min.&amp;#9679    x52.&amp;#9679    .  .</DETAILS>
+      <CATALOG_NUMBER>273</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/CD-R.700mb.25pcs.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=274</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה בצבעים DVD-R 4.7gb Cake Verbatim 25pcs</PRODUCT_NAME>
+      <MODEL>DVD-R</MODEL>
+      <DETAILS>&amp;#9679    Verbatim&amp;#9679 25  DVDR Colour  Cake.&amp;#9679       .&amp;#9679  4.7GB120Min.&amp;#9679    x16.&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>274</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DVD-R.4.7gb.Colour.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=275</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה BD-RW 25gb Verbatim 1pcs</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679      Verbatim&amp;#9679 1  BDRW  .&amp;#9679    x2.&amp;#9679    .  .</DETAILS>
+      <CATALOG_NUMBER>275</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>19</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/BD-RW.25gb.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=627</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה DVD-R 4.7gb Printable Cake Verbatim 25pcs</PRODUCT_NAME>
+      <MODEL>DVD-R</MODEL>
+      <DETAILS>&amp;#9679     Verbatim.&amp;#9679 25  DVDR Printable  Cack&amp;#9679    x16.&amp;#9679  4.7MB120Min.&amp;#9679    .  </DETAILS>
+      <CATALOG_NUMBER>627</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DVD-R.4.7GB.Printable.25pcs.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=708</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה DVD-R 4.7gb Cake Muller 50pcs</PRODUCT_NAME>
+      <MODEL>DVD-R</MODEL>
+      <DETAILS>&amp;#9679    Muller.&amp;#9679 50  DVDR  Cake.&amp;#9679    x16.&amp;#9679  4.7MB120Min.</DETAILS>
+      <CATALOG_NUMBER>708</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>52</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Muller</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DVD-R.4.7GB.50pcs.Muller_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=713</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה DVD-R 4.7GB Philips 30pcs</PRODUCT_NAME>
+      <MODEL>DVD-R</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679 30  . &amp;#9679    x16.&amp;#9679  4.7GB120Min.</DETAILS>
+      <CATALOG_NUMBER>713</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Philips</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DVD-R.4.7GB.30pcs.Philips.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1100</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה 10pcs DVD+R DL 8.5gb RiDATA</PRODUCT_NAME>
+      <MODEL>DVD+R DL</MODEL>
+      <DETAILS>&amp;#9679   DVDR DL.&amp;#9679 10  .&amp;#9679   x8.&amp;#9679  8.5GB240Min.&amp;#9679    8.7GB  .&amp;#9679  RiDATA  DVDR DL.</DETAILS>
+      <CATALOG_NUMBER>1100</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>40</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>RiDATA</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DVD+R.DL.8.5GB.10pcs.RiDATA.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1247</PRODUCT_URL>
+      <PRODUCT_NAME>דיסק לצריבה DVD-R 4.7gb Cake 50pcs HP</PRODUCT_NAME>
+      <MODEL>DVD-R</MODEL>
+      <DETAILS>&amp;#9679    DVDR 4.7GB.&amp;#9679   4.7gb120min.&amp;#9679    x16.&amp;#9679 50   .&amp;#9679  HP  DME000703.</DETAILS>
+      <CATALOG_NUMBER>1247</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>HP</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DVD-R.4.7gb.Cake.50pcs.HP.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=43</PRODUCT_URL>
+      <PRODUCT_NAME>5 סוללות כפתור ליתיום  GP CR2025</PRODUCT_NAME>
+      <MODEL>CR2025</MODEL>
+      <DETAILS>&amp;#9679 5   CR2025.&amp;#9679  .&amp;#9679  CR2025DL2025.&amp;#9679  3   160mA&amp;#9679    20   2.5 .&amp;#9679   2024.&amp;#9679  GP  CR2025.  </DETAILS>
+      <CATALOG_NUMBER>43</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>24</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GP.Lithium.Coin.Cell.CR2025.5pcsֹ_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=44</PRODUCT_URL>
+      <PRODUCT_NAME>5 סוללות כפתור ליתיום GP CR2032</PRODUCT_NAME>
+      <MODEL>CR2032</MODEL>
+      <DETAILS>&amp;#9679 5   CR2032.&amp;#9679  .&amp;#9679  CR2032DL2032.&amp;#9679  3   220mA&amp;#9679    20   3.2 .&amp;#9679   2024.&amp;#9679  GP  CR2032.  </DETAILS>
+      <CATALOG_NUMBER>44</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>24</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GP.Lithium.Coin.Cell.CR2032.5pcsֹ_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=45</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום GP CR2032</PRODUCT_NAME>
+      <MODEL>CR2032</MODEL>
+      <DETAILS>&amp;#9679   CR2032.&amp;#9679  .&amp;#9679  CR2032DL2032.&amp;#9679  3   220mA&amp;#9679    20   3.2 .&amp;#9679   2024.&amp;#9679  GP  CR2032.  </DETAILS>
+      <CATALOG_NUMBER>45</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GP.Lithium.Cell.CR2032_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=46</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום GP CR2025</PRODUCT_NAME>
+      <MODEL>CR2025</MODEL>
+      <DETAILS>&amp;#9679   CR2025.&amp;#9679  .&amp;#9679  CR2025DL2025.&amp;#9679  3   160mA&amp;#9679    20   2.5 .&amp;#9679   2024.&amp;#9679  GP  CR2025.  </DETAILS>
+      <CATALOG_NUMBER>46</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GP.Lithium.Cell.CR2025_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=49</PRODUCT_URL>
+      <PRODUCT_NAME>4 סוללות AAA תוצרת  GP</PRODUCT_NAME>
+      <MODEL>AAA</MODEL>
+      <DETAILS>&amp;#9679 4   .&amp;#9679  AAA.&amp;#9679  LR6.&amp;#9679  1.5 .&amp;#9679   052021.&amp;#9679  GP.</DETAILS>
+      <CATALOG_NUMBER>49</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>9</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GP.Ultra.Alkaline.Battery.AAA.4pcs_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=50</PRODUCT_URL>
+      <PRODUCT_NAME>4 סוללות AA תוצרת  GP</PRODUCT_NAME>
+      <MODEL>AA</MODEL>
+      <DETAILS>&amp;#9679 4   .&amp;#9679  AA.&amp;#9679  LR03.&amp;#9679  1.5 .&amp;#9679   072021.&amp;#9679  GP.</DETAILS>
+      <CATALOG_NUMBER>50</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>10</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GP.Ultra.Alkaline.Battery.AA.2pcs.in.40_Main.Image.1.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=51</PRODUCT_URL>
+      <PRODUCT_NAME>מטען ו-4 סוללות AA נטענות 2700mAh דגם PB420</PRODUCT_NAME>
+      <MODEL>מטענים</MODEL>
+      <DETAILS>&amp;#9679   AAAAA  PB420.&amp;#9679 4   2700mAh.&amp;#9679   AA  AAA.&amp;#9679    .&amp;#9679   14 .&amp;#9679    .&amp;#9679  GP.</DETAILS>
+      <CATALOG_NUMBER>51</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>89</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GP</MANUFACTURER>
+      <WARRANTY>10 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GP.Power.Bank+4.Rechargeable.batteries.2700.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=131</PRODUCT_URL>
+      <PRODUCT_NAME>4 סוללות AA תוצרת Toshiba</PRODUCT_NAME>
+      <MODEL>AA</MODEL>
+      <DETAILS>&amp;#9679    AA.&amp;#9679  1.5 .&amp;#9679  2020.&amp;#9679  Toshiba  AA Alkaline.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>131</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>10</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba-Batteries</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.1.5V.Size.AA.Alkaline.Toshiba.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=132</PRODUCT_URL>
+      <PRODUCT_NAME>4 סוללות AAA תוצרת Toshiba</PRODUCT_NAME>
+      <MODEL>AAA</MODEL>
+      <DETAILS>4   AAA.    1.5 .   2020.   Toshiba </DETAILS>
+      <CATALOG_NUMBER>132</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>10</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba-Batteries</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.1.5V.Size.AAA.Alkaline.Toshiba_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=133</PRODUCT_URL>
+      <PRODUCT_NAME>2 סוללות D תוצרת Toshiba</PRODUCT_NAME>
+      <MODEL>D</MODEL>
+      <DETAILS>2   D.    1.5 .   2021.   Toshiba </DETAILS>
+      <CATALOG_NUMBER>133</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba-Batteries</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.1.5V.Size.D.Alkaline.Toshiba_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=134</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת A11 תוצרת Camelion</PRODUCT_NAME>
+      <MODEL>A11</MODEL>
+      <DETAILS>   A11. 6 .  ...  10.2019. Camilion &amp;#9679  Camilion  A11.</DETAILS>
+      <CATALOG_NUMBER>134</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>9</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Camelion</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.6V.Size.A11.Alkaline.Camelion_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=135</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת A23 תוצרת Camelion</PRODUCT_NAME>
+      <MODEL>A23</MODEL>
+      <DETAILS>   A23. 12 .  ...  10.2019.&amp;#9679  Camilion  A23.</DETAILS>
+      <CATALOG_NUMBER>135</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Camelion</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.12V.Size.A23.Alkaline.Camelion_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=136</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת ליתיום CR2 תוצרת Camelion</PRODUCT_NAME>
+      <MODEL>CR2</MODEL>
+      <DETAILS>  CR2. 3 .  ...   10.2018. Camilion </DETAILS>
+      <CATALOG_NUMBER>136</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR2.Camelion_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=137</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום Camelion CR1220</PRODUCT_NAME>
+      <MODEL>CR1220</MODEL>
+      <DETAILS>   CR1220 3 .  DL12205012LCECR1220  10.2018. Camilion </DETAILS>
+      <CATALOG_NUMBER>137</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Camelion</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR1220.Camelion_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=138</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום Camelion CR2016</PRODUCT_NAME>
+      <MODEL>CR2016</MODEL>
+      <DETAILS>   CR2016 3 .  DL20165000LCECR2016   10.2018. Camilion </DETAILS>
+      <CATALOG_NUMBER>138</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Camilion</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR2016.Camelion_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=139</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום Camelion CR1620</PRODUCT_NAME>
+      <MODEL>CR1620</MODEL>
+      <DETAILS>   CR1620 3 .  DL16205009LCECR1620   10.2018. Camilion </DETAILS>
+      <CATALOG_NUMBER>139</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Camelion</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR1620.Camelion_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=140</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום Camelion CR1616</PRODUCT_NAME>
+      <MODEL>CR1616</MODEL>
+      <DETAILS>   CR1616 3 .  DL16165021LCECR1616   10.2018. Camilion </DETAILS>
+      <CATALOG_NUMBER>140</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Camelion</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR1616.Camelion_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=141</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום Camelion CR1225</PRODUCT_NAME>
+      <MODEL>CR1225</MODEL>
+      <DETAILS>   CR1225 3 .  5020LCECR1225   10.2018. Camilion </DETAILS>
+      <CATALOG_NUMBER>141</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Camelion</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR1225.Camelion_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=142</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום Camelion CR2025</PRODUCT_NAME>
+      <MODEL>CR2025</MODEL>
+      <DETAILS>   CR2025 3 .  DL20255003LCECR2025   10.2018. Camilion </DETAILS>
+      <CATALOG_NUMBER>142</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>5</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Camelion</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR2025.Camelion_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=143</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום Camelion CR2032</PRODUCT_NAME>
+      <MODEL>CR2032</MODEL>
+      <DETAILS>   CR2032 3 .  DL20325004LCECR2032   10.2018. Camilion </DETAILS>
+      <CATALOG_NUMBER>143</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>5</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Camelion</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR2032.Camelion_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=458</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת  9V אלקליין תוצרת Toshiba</PRODUCT_NAME>
+      <MODEL>9V</MODEL>
+      <DETAILS>&amp;#9679  Alkaline  9V.&amp;#9679   2018.&amp;#9679  Toshiba.</DETAILS>
+      <CATALOG_NUMBER>458</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>16</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba-Batteries</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Size.9V.Alkaline.Toshiba_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=459</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות  דגם C תוצרת Energizer</PRODUCT_NAME>
+      <MODEL>C</MODEL>
+      <DETAILS>&amp;#9679      C.&amp;#9679   2023.&amp;#9679  Energizer .  </DETAILS>
+      <CATALOG_NUMBER>459</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Size.C.Energizer.Ultra+_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=624</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור Energizer דגם A76</PRODUCT_NAME>
+      <MODEL>A76</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  1.5V.&amp;#9679   153mAh.&amp;#9679  157303357AG13EPX76LR44S76SG13SR44.&amp;#9679  Energizer  A76.  </DETAILS>
+      <CATALOG_NUMBER>624</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Alkaline.A76.Energizer_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=636</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום Energizer CR2032</PRODUCT_NAME>
+      <MODEL>CR32</MODEL>
+      <DETAILS>&amp;#9679   Lithium.&amp;#9679  3 .&amp;#9679   240mAh.&amp;#9679  5004LCBR2032DL2032ECR2032STT15.&amp;#9679    20   3.2 .&amp;#9679  Energizer  CR2032.  </DETAILS>
+      <CATALOG_NUMBER>636</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR2032.Energizer_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=653</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור Energizer דגם 189</PRODUCT_NAME>
+      <MODEL>189</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  Energizer  189.</DETAILS>
+      <CATALOG_NUMBER>653</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Alkaline.189.Energizer_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=726</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת אלקליין Energizer דגם A27</PRODUCT_NAME>
+      <MODEL>A27</MODEL>
+      <DETAILS>&amp;#9679  Alkaline.&amp;#9679  12V.&amp;#9679  27AA27BPG27AGP27AL828MN27.&amp;#9679 Energizer  A27.  </DETAILS>
+      <CATALOG_NUMBER>726</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Alkaline.A27.Energizer.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=727</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת אלקליין Energizer דגם A23</PRODUCT_NAME>
+      <MODEL>A23</MODEL>
+      <DETAILS>&amp;#9679  Alkaline.&amp;#9679  12V.&amp;#9679  1181AA23BPDL21DL23MN21BMN21V23GA.&amp;#9679  Energizer  A23.  </DETAILS>
+      <CATALOG_NUMBER>727</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>10</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Alkaline.A23.Energizer.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=728</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות אלקליין Energizer דגם AAAA</PRODUCT_NAME>
+      <MODEL>AAAA</MODEL>
+      <DETAILS>&amp;#9679  Alkaline.&amp;#9679  1.5V.&amp;#9679  4001810910AAM5LR1MN9100.&amp;#9679 Energizer  E96.  </DETAILS>
+      <CATALOG_NUMBER>728</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Alkaline.AAAA.Energizer.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=729</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת ליתיום Energizer דגם 123</PRODUCT_NAME>
+      <MODEL>123</MODEL>
+      <DETAILS>&amp;#9679  Lithium.&amp;#9679  3V.&amp;#9679  5018LCCR123CR123ACR17345EL123.&amp;#9679  Energizer  123.  .</DETAILS>
+      <CATALOG_NUMBER>729</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>19</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.123.Energizer.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=776</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום Energizer CR2025</PRODUCT_NAME>
+      <MODEL>CR2025</MODEL>
+      <DETAILS>&amp;#9679   Lithium.&amp;#9679  3 .&amp;#9679  2802055003LCBR2025DL2025ECR2025SBT14.&amp;#9679  Energizer  CR2032.  </DETAILS>
+      <CATALOG_NUMBER>776</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR2025.Energizer_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=777</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום Energizer CR2450</PRODUCT_NAME>
+      <MODEL>CR2450</MODEL>
+      <DETAILS>&amp;#9679   Lithium.&amp;#9679  3 .&amp;#9679  5029LCCR2450DL2450ECR2450.&amp;#9679  Energizer  CR2450.  </DETAILS>
+      <CATALOG_NUMBER>777</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR2450.Energizer_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1116</PRODUCT_URL>
+      <PRODUCT_NAME>4 סוללות 1000mAh AAA נטענות Philips</PRODUCT_NAME>
+      <MODEL>AAA</MODEL>
+      <DETAILS>&amp;#9679 4    AAA.&amp;#9679   1000mAh.&amp;#9679  1000 .&amp;#9679  1.2V.&amp;#9679  Philips  HRO3 Micro.</DETAILS>
+      <CATALOG_NUMBER>1116</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Philips</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Philips.Rechargeable.AAA.Battery.1000mAh.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1156</PRODUCT_URL>
+      <PRODUCT_NAME>מטען אוניברסלי + 4 סוללות נטענות Vipow AA דגם CR-606</PRODUCT_NAME>
+      <MODEL>מטען סוללות</MODEL>
+      <DETAILS>&amp;#9679    4  AA.&amp;#9679    4  AAA.&amp;#9679    2  9V.&amp;#9679 4   2900mAh AA.&amp;#9679   8 .&amp;#9679    AAAAA   .&amp;#9679       .&amp;#9679     .&amp;#9679  Vipow    CR606 AA.</DETAILS>
+      <CATALOG_NUMBER>1156</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Vipow</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Charger.Vipow.CR-606.AA.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1277</PRODUCT_URL>
+      <PRODUCT_NAME>מחבר לסוללת 9V</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   9V.&amp;#9679    .&amp;#9679  .&amp;#9679   12 .</DETAILS>
+      <CATALOG_NUMBER>1277</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>5</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/9V.Battery.Clip.Connectors.Holders.Cases.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1319</PRODUCT_URL>
+      <PRODUCT_NAME>מארז 8 סוללות 13Air למכשירי שמיעה Energizer</PRODUCT_NAME>
+      <MODEL>13Air</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679  13Air.&amp;#9679  1.4V.&amp;#9679 0% .&amp;#9679 8  .&amp;#9679  01.2018.&amp;#9679  Energizer  AZ13DPA8.  </DETAILS>
+      <CATALOG_NUMBER>1319</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Energizer.EZ.Turn.and.Lock.Size.13.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1577</PRODUCT_URL>
+      <PRODUCT_NAME>מטען אוניברסלי + 4 סוללות נטענות Vipow AAA דגם CR-606</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    4  AA.&amp;#9679    4  AAA.&amp;#9679    2  9V.&amp;#9679 4   1100mAh AAA.&amp;#9679   6 .&amp;#9679    AAAAA   .&amp;#9679       .&amp;#9679     .&amp;#9679  Vipow    CR606 AAA.</DETAILS>
+      <CATALOG_NUMBER>1577</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Vipow</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Charger.Vipow.CR-606.AAA.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1612</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום TIANQIU CR1632</PRODUCT_NAME>
+      <MODEL>סוללת כפתור</MODEL>
+      <DETAILS>   CR1632 3 .  LM1632 BR1632 ECR1632 DL1632 EE6224       ... TIANQIU  CR1632</DETAILS>
+      <CATALOG_NUMBER>1612</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TIANQIU</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Lithium.Button.Battery.CR1632.TIANQIU.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1626</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת כפתור ליתיום Chamelion CR2450</PRODUCT_NAME>
+      <MODEL>CR2450</MODEL>
+      <DETAILS>&amp;#9679   Lithium.&amp;#9679  3 .&amp;#9679  5029LC DL2450 ECR2450.&amp;#9679   10.2020.&amp;#9679  Chamelion  CR2450.</DETAILS>
+      <CATALOG_NUMBER>1626</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Camelion</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.Lithium.3V.Size.CR2450.Chamelion.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1628</PRODUCT_URL>
+      <PRODUCT_NAME>10 סוללות AA תוצרת Toshiba</PRODUCT_NAME>
+      <MODEL>AA</MODEL>
+      <DETAILS>&amp;#9679  10    AA.&amp;#9679  1.5 .&amp;#9679   2025.&amp;#9679  Toshiba  AA Alkaline.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1628</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba-Batteries</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.1.5V.Size.AA.Alkaline.Toshiba.10pcs.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1629</PRODUCT_URL>
+      <PRODUCT_NAME>10 סוללות AAA תוצרת Toshiba</PRODUCT_NAME>
+      <MODEL>AAA</MODEL>
+      <DETAILS>&amp;#9679  10    AAA.&amp;#9679  1.5 .&amp;#9679   2025.&amp;#9679  Toshiba  AAA Alkaline.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1629</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Toshiba-Batteries</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.1.5V.Size.AAA.Alkaline.Toshiba.10pcs.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1672</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG5 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG5&amp;#9679  1.5 . &amp;#9679  LR754 393 SR754 193 546 RW28&amp;#9679       ...&amp;#9679   31mm  7.9mm&amp;#9679  T&amp;E  AG5</DETAILS>
+      <CATALOG_NUMBER>1672</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>T&amp;E</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG5.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1673</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG7 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG7&amp;#9679  1.55 . &amp;#9679  L927 395 SR57 SR927SW 195&amp;#9679       ...&amp;#9679   37mm  9.5mm&amp;#9679  T&amp;E  AG7</DETAILS>
+      <CATALOG_NUMBER>1673</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>T&amp;E</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG7.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1674</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG8 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG8&amp;#9679  1.55 . &amp;#9679  LR1120 LR1121W LR55&amp;#9679       ...&amp;#9679   46mm  11.6mm&amp;#9679  T&amp;E  AG8</DETAILS>
+      <CATALOG_NUMBER>1674</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>T&amp;E</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG8.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1675</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG11 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG11&amp;#9679  1.5 . &amp;#9679  362 SR721SW SR58 TR721&amp;#9679       ...&amp;#9679   31mm  7.9mm&amp;#9679  T&amp;E  AG11</DETAILS>
+      <CATALOG_NUMBER>1675</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>T&amp;E</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG11.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1676</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG13 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG13&amp;#9679  1.55 . &amp;#9679  CX44 A76 357A LR44W&amp;#9679       ...&amp;#9679   46mm  11.6mm&amp;#9679  T&amp;E  AG13</DETAILS>
+      <CATALOG_NUMBER>1676</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>T&amp;E</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG13.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1729</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG1 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG1.&amp;#9679  1.5 . &amp;#9679  LR60 164 GP364...&amp;#9679       ...&amp;#9679   27mm  6.8mm&amp;#9679  2020.&amp;#9679  TIANQIU  AG1</DETAILS>
+      <CATALOG_NUMBER>1729</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TIANQIU</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG1.TIANQIU.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1730</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG2 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG2.&amp;#9679  1.5 . &amp;#9679  396A LR726 SR726W GP397 1164SO.. &amp;#9679       ...&amp;#9679   27mm  6.8mm&amp;#9679  2020.&amp;#9679  TIANQIU  AG2</DETAILS>
+      <CATALOG_NUMBER>1730</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TIANQIU</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG2.TIANQIU.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1731</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG3 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG3.&amp;#9679  1.5 . &amp;#9679  384 392 SR41W SR41 L736&amp;#9679       ...&amp;#9679   31mm  7.9mm&amp;#9679  2020.&amp;#9679  TIANQIU  AG3</DETAILS>
+      <CATALOG_NUMBER>1731</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TIANQIU</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG3.TIANQIU.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1732</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG4 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG4.&amp;#9679  1.5 . &amp;#9679  384 392 SR41W SR41 L736..&amp;#9679       ...&amp;#9679   27mm  6.8mm&amp;#9679  2020.&amp;#9679  TIANQIU  AG4</DETAILS>
+      <CATALOG_NUMBER>1732</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TIANQIU</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG4.TIANQIU.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1733</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG6 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG6.&amp;#9679  1.5 . &amp;#9679  371 d371 605 sr920sw sr69&amp;#9679       ...&amp;#9679   37mm  9.5mm&amp;#9679  T&amp;H  AG6</DETAILS>
+      <CATALOG_NUMBER>1733</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>T&amp;H</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG6.TIANQIU.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1734</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG9 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG9.&amp;#9679  1.5 . &amp;#9679  SR936SW LR936 GP394 EE6210..&amp;#9679       ...&amp;#9679   37mm  9.5mm&amp;#9679  2020.&amp;#9679  TIANQIU  AG9</DETAILS>
+      <CATALOG_NUMBER>1734</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TIANQIU</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG9.TIANQIU.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1735</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG10 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG10.&amp;#9679  1.5 . &amp;#9679  LR11301 LR54 RW89 V10GA...&amp;#9679       ...&amp;#9679   37mm  9.5mm&amp;#9679  2020.&amp;#9679  TIANQIU  AG10</DETAILS>
+      <CATALOG_NUMBER>1735</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TIANQIU</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG10.TIANQIU.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1736</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור AG12 Alkaline</PRODUCT_NAME>
+      <MODEL>כפתור</MODEL>
+      <DETAILS>&amp;#9679     AG12.&amp;#9679  1.5 . &amp;#9679  LR43 V12GA GP386 SR1142...&amp;#9679       ...&amp;#9679   46mm  11.6mm&amp;#9679  TIANQIU  AG12</DETAILS>
+      <CATALOG_NUMBER>1736</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TIANQIU</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Alkaline.Button.Battery.AG12.TIANQIU.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1743</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות ליתיום Energizer AA</PRODUCT_NAME>
+      <MODEL>ליתיום</MODEL>
+      <DETAILS>&amp;#9679     AA.&amp;#9679    9  .&amp;#9679     20 .&amp;#9679    40  60  .&amp;#9679     ....&amp;#9679    2035&amp;#9679  Energizer  Ultimate Lithium AA.  </DETAILS>
+      <CATALOG_NUMBER>1743</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Energizer.Ultimate.lithium.AA.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1744</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות ליתיום Energizer AAA</PRODUCT_NAME>
+      <MODEL>ליתיום</MODEL>
+      <DETAILS>&amp;#9679     AAA.&amp;#9679    9  .&amp;#9679     20 .&amp;#9679    40  60  .&amp;#9679     ....&amp;#9679    2034&amp;#9679  Energizer  Ultimate Lithium AAA.  </DETAILS>
+      <CATALOG_NUMBER>1744</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Energizer</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Energizer.Ultimate.lithium.AAA.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1860</PRODUCT_URL>
+      <PRODUCT_NAME>סוללת A27 תוצרת Camelion</PRODUCT_NAME>
+      <MODEL>A27</MODEL>
+      <DETAILS>   A27. 12 .  ...  10.2019.&amp;#9679  Camilion  A27.</DETAILS>
+      <CATALOG_NUMBER>1860</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Camelion</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Battery.12V.Size.A27.Alkaline.Camelion.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1876</PRODUCT_URL>
+      <PRODUCT_NAME>זוג סוללות כפתור ליתיום CR927</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     CR927.&amp;#9679  3V.&amp;#9679 DL927ECR927 BR927 KCR927 LM927.&amp;#9679   31.12.2020.</DETAILS>
+      <CATALOG_NUMBER>1876</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>7</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Lithium.Batteries.CR927.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

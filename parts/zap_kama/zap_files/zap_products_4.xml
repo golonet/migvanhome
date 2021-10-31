@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=158</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם Orico Bluetooth 2.0 דגם BTA-201</PRODUCT_NAME>
+      <MODEL>מתאם</MODEL>
+      <DETAILS>&amp;#9679    2.0.&amp;#9679    3MB.&amp;#9679     10 . Orico  BTA201</DETAILS>
+      <CATALOG_NUMBER>158</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>19</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.BTA-201.Bluetooth.2.0.Adapter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=298</PRODUCT_URL>
+      <PRODUCT_NAME>מאוורר למארז מחשב 80 מ"מ</PRODUCT_NAME>
+      <MODEL>מאוורר למארז</MODEL>
+      <DETAILS>&amp;#9679    80 .&amp;#9679  DC 12V 0.18A.&amp;#9679  3 .&amp;#9679       .&amp;#9679  80x80x25 .</DETAILS>
+      <CATALOG_NUMBER>298</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Computer.Case.Fan.80mm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=317</PRODUCT_URL>
+      <PRODUCT_NAME>משטח ג'ל לעכבר Silver Line</PRODUCT_NAME>
+      <MODEL>משטחים לעכבר</MODEL>
+      <DETAILS>   .     . . Silver Line   XTGMP71022.</DETAILS>
+      <CATALOG_NUMBER>317</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>28</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Gel.Mouse.Pad.Silver.Line.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=318</PRODUCT_URL>
+      <PRODUCT_NAME>ערכת ניקוי למסכים Silver Line</PRODUCT_NAME>
+      <MODEL>חומרי ניקוי למחשב</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679     60 . Silver Line   XT414.</DETAILS>
+      <CATALOG_NUMBER>318</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Cleaning.Kit.Screens.Silver.Line.XT-414.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=374</PRODUCT_URL>
+      <PRODUCT_NAME>ממיר קלטות וידאו</PRODUCT_NAME>
+      <MODEL>ממיר קלטות וידאו</MODEL>
+      <DETAILS>&amp;#9679        DVD            RCASVIDEO USB .&amp;#9679       USB  .&amp;#9679     .&amp;#9679    .&amp;#9679   EesyCAP   .&amp;#9679    Windows XPVista78.</DETAILS>
+      <CATALOG_NUMBER>374</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>79</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Videos.converter_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=527</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס קול USB חיצוני 5.1 ערוצים</PRODUCT_NAME>
+      <MODEL>כרטיסי קול</MODEL>
+      <DETAILS>&amp;#9679    3D  5.1 .&amp;#9679  USB 2.0.&amp;#9679 2   .&amp;#9679   AC33D.</DETAILS>
+      <CATALOG_NUMBER>527</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Lead.3d.sound.5.1.tide_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=528</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס קול USB חיצוני 7.1 ערוצים</PRODUCT_NAME>
+      <MODEL>כרטיסי קול</MODEL>
+      <DETAILS>&amp;#9679    3D  7.1 .&amp;#9679  USB 2.0.&amp;#9679 2   .&amp;#9679  .&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>528</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.Sound.Adapter.7.1.Channel_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=537</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד מתכוונן למחשב</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     5 . &amp;#9679    25.5 . &amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>537</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Dr. byte</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/CPU.Holder_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=596</PRODUCT_URL>
+      <PRODUCT_NAME>מטליות אנטי סטטיות למחשב</PRODUCT_NAME>
+      <MODEL>חומרי ניקוי למחשב</MODEL>
+      <DETAILS>&amp;#9679     ...&amp;#9679 100 .</DETAILS>
+      <CATALOG_NUMBER>596</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>15</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Dr. byte</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/100.antistatic.cloths.computer.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=613</PRODUCT_URL>
+      <PRODUCT_NAME>ספריי אויר לניקוי המחשב</PRODUCT_NAME>
+      <MODEL>חומרי ניקוי למחשב</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679  400 .</DETAILS>
+      <CATALOG_NUMBER>613</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Dr. Byte</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Dust.Cleaner.Dr.Byte.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=825</PRODUCT_URL>
+      <PRODUCT_NAME>מצלמת רשת HD תוצרת Logitech דגם c270</PRODUCT_NAME>
+      <MODEL>מצלמת רשת</MODEL>
+      <DETAILS>&amp;#9679    HD.&amp;#9679    HD  1280x720.&amp;#9679    3MP.&amp;#9679     .&amp;#9679   USB 2.0.&amp;#9679   .&amp;#9679        .&amp;#9679     .&amp;#9679  Logitech  c270.  </DETAILS>
+      <CATALOG_NUMBER>825</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>135</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Logitech</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Webcam.HD.Logitech.C270_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=918</PRODUCT_URL>
+      <PRODUCT_NAME>בקר משחק למחשב Genius</PRODUCT_NAME>
+      <MODEL>בקר משחק</MODEL>
+      <DETAILS>&amp;#9679  .&amp;#9679  USB.&amp;#9679 8 .&amp;#9679  Dpad.&amp;#9679  Genius  MaxFire G08XU.  </DETAILS>
+      <CATALOG_NUMBER>918</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Genius</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Game.Controller.For.PC.Genius_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=970</PRODUCT_URL>
+      <PRODUCT_NAME>מצלמת רשת תוצרת Logitech דגם c170</PRODUCT_NAME>
+      <MODEL>מצלמת אינטרנט</MODEL>
+      <DETAILS>&amp;#9679   VGA.&amp;#9679    640X480 .&amp;#9679    1024X768 .&amp;#9679    5MP.&amp;#9679  USB 2.0.&amp;#9679     .&amp;#9679   .&amp;#9679     .&amp;#9679  Logitech   c170.  </DETAILS>
+      <CATALOG_NUMBER>970</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>85</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Logitech</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Webcam.VGA.Logitech.C170_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1258</PRODUCT_URL>
+      <PRODUCT_NAME>מאוורר למארז מחשב 120 מ"מ</PRODUCT_NAME>
+      <MODEL>מאוורר למארז</MODEL>
+      <DETAILS>&amp;#9679    120 .&amp;#9679  DC 12V 0.30A.&amp;#9679  3 .&amp;#9679       .&amp;#9679  120x120x25 .</DETAILS>
+      <CATALOG_NUMBER>1258</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>24</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Computer.Case.Fan.120mm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1285</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם Orico Bluetooth 4.0 דגם BTA-402</PRODUCT_NAME>
+      <MODEL>מתאם Bluetooth 4.0</MODEL>
+      <DETAILS>&amp;#9679    4.0.&amp;#9679    3Mbps.&amp;#9679    20 .&amp;#9679      ABS.&amp;#9679   Bluetooth 2.02.13.0.&amp;#9679  Windows XPVista7810 .&amp;#9679  23x15x5 .&amp;#9679  Orico  BTA402BK.</DETAILS>
+      <CATALOG_NUMBER>1285</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.Bluetooth.4.0.Adapter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1386</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם USB 3.0 A - SATA 7+15pin עם ספק כוח Orico</PRODUCT_NAME>
+      <MODEL>SATA To USB 3.0</MODEL>
+      <DETAILS>&amp;#9679     HDDSDD 2.33.5In.&amp;#9679    DVD .&amp;#9679  USB 3.0 A  SATA 123 715pin.&amp;#9679     5Gpbs.&amp;#9679    ABS.&amp;#9679    12V2.5A.&amp;#9679  Mac 9.010.2  Windows XPVista78  Linux.&amp;#9679  Orico  35UTS.  </DETAILS>
+      <CATALOG_NUMBER>1386</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>135</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.35UTS.Sata-to.USB.3.0.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1398</PRODUCT_URL>
+      <PRODUCT_NAME>כרטיס קול USB חיצוני 8.1 ערוצים</PRODUCT_NAME>
+      <MODEL>כרטיס קול</MODEL>
+      <DETAILS>&amp;#9679    3D  8.1 .&amp;#9679  USB 2.0.&amp;#9679 2   .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1398</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.Sound.Adapter.8.1CH.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1550</PRODUCT_URL>
+      <PRODUCT_NAME>סט 4 כיסויי סיליקון ליציאת USB A</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  4   USB A.&amp;#9679    ...&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>1550</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>5</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Rubber.Silicon.Protective.USB.Plug.Cover.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1566</PRODUCT_URL>
+      <PRODUCT_NAME>כבל USB להעברת קבצים בין שני מחשבים Ugreen</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679      .&amp;#9679   ABSPVC.&amp;#9679    100%.&amp;#9679    OFC 99.9%.&amp;#9679    24K.&amp;#9679    Windows  Mac OS.&amp;#9679   3 .&amp;#9679  Ugreen  US166.</DETAILS>
+      <CATALOG_NUMBER>1566</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>125</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.PC.to.pc.Online.Share.Sync.Data.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1625</PRODUCT_URL>
+      <PRODUCT_NAME>ברגים M3x10+6mm ללוח אם </PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679 5    .&amp;#9679   10x6 &amp;#9679   M3 &amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1625</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>5</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Motherboard.M3x10+6.Hexagon.Copper.Screws.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1638</PRODUCT_URL>
+      <PRODUCT_NAME>ברגים פיליפס 6/32 למארז מחשב</PRODUCT_NAME>
+      <MODEL>ברגים</MODEL>
+      <DETAILS>&amp;#9679   632  .&amp;#9679     ...&amp;#9679  10   6 .&amp;#9679 20 .</DETAILS>
+      <CATALOG_NUMBER>1638</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Hex.Computer.6.32.Screws.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1750</PRODUCT_URL>
+      <PRODUCT_NAME>מארגן כבלים סקוטש 5 מטר Orico</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  .&amp;#9679     .&amp;#9679 5   1   .&amp;#9679  1.5 .&amp;#9679      .&amp;#9679  Orico  CBT5S.  </DETAILS>
+      <CATALOG_NUMBER>1750</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.CBT-5S.Rainbow.wire.tie.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1767</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם USB 3.0 - SATA 3.0</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     2.5In.&amp;#9679  SATA 3.0 22P  USB 3.0 A.&amp;#9679   HDDSDD  2.5 .&amp;#9679   ABS.&amp;#9679    2TB.&amp;#9679    5Gbps.&amp;#9679   UASP.&amp;#9679   .&amp;#9679    SATA.&amp;#9679  50x47x14 .&amp;#9679  Orico  27UTS.  </DETAILS>
+      <CATALOG_NUMBER>1767</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.27UTS.USB3.0.to.SATA.HDD.Adapter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1873</PRODUCT_URL>
+      <PRODUCT_NAME>אוגדן ספירלי 19 מ''מ באורך 10 מטר</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679      .&amp;#9679   19 .&amp;#9679     100 .&amp;#9679  .&amp;#9679  10 .</DETAILS>
+      <CATALOG_NUMBER>1873</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Spiral.wrapping.bands.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2060</PRODUCT_URL>
+      <PRODUCT_NAME>מארגן כבלים סקוטש 1 מטר Orico</PRODUCT_NAME>
+      <MODEL>מארגן כבלים</MODEL>
+      <DETAILS>&amp;#9679  .&amp;#9679     .&amp;#9679  1 .&amp;#9679  1.5 .&amp;#9679  .&amp;#9679  Orico  CBT1SBK.  </DETAILS>
+      <CATALOG_NUMBER>2060</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.CBT-1S-BK.Rainbow.wire.tie.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

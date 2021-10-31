@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=113</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות מולטימדיה עם מיקרופון Verbatim</PRODUCT_NAME>
+      <MODEL>אוזניות עם מיקרופון</MODEL>
+      <DETAILS>         2          20Hz  20KHz  30Hz  16kHz   97dB 32 Ohm  100mW  </DETAILS>
+      <CATALOG_NUMBER>113</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Multimedia.Headphones.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=114</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות צוואר עם מיקרופון Verbatim</PRODUCT_NAME>
+      <MODEL>קשת עורפיות</MODEL>
+      <DETAILS>        2          20Hz  20KHz  30Hz  16kHz   97dB 32 Ohm  100mW  </DETAILS>
+      <CATALOG_NUMBER>114</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>62</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Neck.Band.Multimedia.Headphones.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=115</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות מתקפלות עם מיקרופון Verbatim</PRODUCT_NAME>
+      <MODEL>אוזניות עם מיקרופון</MODEL>
+      <DETAILS>      2         2020000   32 Ohm   94dB    10018000   35dB  3dB  </DETAILS>
+      <CATALOG_NUMBER>115</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Collapsible.PC.Headset.with.Microphone.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=116</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות עם כבל אוזניה מסולסל ומיקרופון Verbatim</PRODUCT_NAME>
+      <MODEL>אוזניות עם מיקרופון</MODEL>
+      <DETAILS>        2      2020000   32 Ohm   94dB    10018000   35dB  3dB  </DETAILS>
+      <CATALOG_NUMBER>116</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Lightweight.PC.Headset.with.Microphone.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=117</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות כפתור אחיזת אוזן Verbatim</PRODUCT_NAME>
+      <MODEL>תלויות על האוזניים</MODEL>
+      <DETAILS>   .      .  1.2 .     Verbatim  Flexi Hook Earphones.   30mW  13.5mm  2020000   32 Ohm  97dB  </DETAILS>
+      <CATALOG_NUMBER>117</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>48</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Flexi.Hook.Earphones.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=118</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות כפתור Verbatim</PRODUCT_NAME>
+      <MODEL>אוזניות כפתור</MODEL>
+      <DETAILS>   SecureClip Earphones      1.2         30mW  2020000   16 Ohm 96dB   </DETAILS>
+      <CATALOG_NUMBER>118</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>26</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Verbatim</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SecureClip.Earphones.Verbatim_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=267</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות קשת בלוטוס מתקפלות Grundig</PRODUCT_NAME>
+      <MODEL>Bluetooth</MODEL>
+      <DETAILS>&amp;#9679      .&amp;#9679     .&amp;#9679       .&amp;#9679         .&amp;#9679       .&amp;#9679    .&amp;#9679    25 .&amp;#9679    .&amp;#9679  .&amp;#9679     .   20Hz  22000KHz  32 Ohm  100dB   3.0  40    125     10     8   23 </DETAILS>
+      <CATALOG_NUMBER>267</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>329</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Grundig</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Folding.Bluetooth.headset.bow.Grundig_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=268</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות קשת לצאוור Grundig</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679   1.2 .&amp;#9679  .&amp;#9679     .   20Hz  22000KHz  32 Ohm  105dB   40 </DETAILS>
+      <CATALOG_NUMBER>268</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>109</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Grundig</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Rainbow.Neck.Headphones.Grundig_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=269</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות סיליקון + מתאמים Grundig</PRODUCT_NAME>
+      <MODEL>אוזניות In Ear</MODEL>
+      <DETAILS>&amp;#9679   In Ear&amp;#9679    .  20Hz  22000KHz  16 Ohm  94dB &amp;#9679  .&amp;#9679       .&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>269</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Grundig</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Silicone.in.ear.headphones.Black.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=307</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות DJ עם רמקול 40 מ"מ Philips דגם  SHL3100</PRODUCT_NAME>
+      <MODEL>אוזניות קשת</MODEL>
+      <DETAILS>&amp;#9679         DJ&amp;#9679     .&amp;#9679       ..&amp;#9679    85 .&amp;#9679   1.2 .&amp;#9679  .&amp;#9679     .   40    1500 mW  18  20000 Hz 32 OHM 106 DB</DETAILS>
+      <CATALOG_NUMBER>307</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>185</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Philips</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DJ.Headband.Philips.SHL3100_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=308</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות DJ מעוצבות Philips דגם SHL3000</PRODUCT_NAME>
+      <MODEL>אוזניות קשת</MODEL>
+      <DETAILS>&amp;#9679         DJ&amp;#9679     .&amp;#9679     .&amp;#9679     OFC.&amp;#9679   1.2 .&amp;#9679  .&amp;#9679        .&amp;#9679  Philips   SHL3000.   32    1500 mW  20  20000 Hz 24 OHM 106 DB</DETAILS>
+      <CATALOG_NUMBER>308</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>139</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Philips</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DJ.Headband.Philips.SHL3000_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=309</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות מולטימדיה עם מיקרופון Acoustic Concept דגם  ACM029</PRODUCT_NAME>
+      <MODEL>אוזניות קשת</MODEL>
+      <DETAILS>&amp;#9679      .&amp;#9679   .&amp;#9679       .&amp;#9679   1.8 .&amp;#9679  .&amp;#9679     .   20  20000 Hz 32 OHM 108 DB</DETAILS>
+      <CATALOG_NUMBER>309</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Acoustic Concept</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Multimedia.headset.with.microphone.ACM029_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=310</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות כפתור בס Philips דגם  SHE3000GY</PRODUCT_NAME>
+      <MODEL>אוזניות כפתור</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679    .&amp;#9679       .&amp;#9679   1 .&amp;#9679  .&amp;#9679       .&amp;#9679     .    50 mW  15   12  22000 Hz 16 OHM 115 DB</DETAILS>
+      <CATALOG_NUMBER>310</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Philips</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Headset.Button.Philips.SHE3000GY_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=320</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות קשת Silver Line דגם  HS-55V</PRODUCT_NAME>
+      <MODEL>אוזניות קשת</MODEL>
+      <DETAILS>     .  2.2 . 32 . 110db.   20HZ20.000HZ. Silver Line   HS55V.    .</DETAILS>
+      <CATALOG_NUMBER>320</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>28</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Headphones.with.Microphone.Silver.Line.HS-55V_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=321</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות קשת Silver Line דגם  HS-66V</PRODUCT_NAME>
+      <MODEL>אוזניות קשת</MODEL>
+      <DETAILS>     .  2.2 . 32 . 110db.   20HZ20.000HZ. Silver Line   HS66V.    .</DETAILS>
+      <CATALOG_NUMBER>321</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Headphones.with.Microphone.Silver.Line.HS-66V_Main.Image.jpg.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=326</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות קשת עם מיקרופון Grundig - שחור</PRODUCT_NAME>
+      <MODEL>אוזניות קשת</MODEL>
+      <DETAILS>&amp;#9679     Grundig.&amp;#9679     .&amp;#9679  3.5   .&amp;#9679  .&amp;#9679     .&amp;#9679  &amp;#9679   32 Ohm.&amp;#9679   2 Oh.</DETAILS>
+      <CATALOG_NUMBER>326</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Grundig</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Headphones.with.Microphone.Grundig.Black_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=412</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות כפתור TDK דגם EB120 - שחור/לבן</PRODUCT_NAME>
+      <MODEL>אוזניות כפתור</MODEL>
+      <DETAILS>  3    1.2 . .      . TDK   EB120.    .  3.5   2020000 Hz 16 Ohms  94 dB 3 dB at 1Khz</DETAILS>
+      <CATALOG_NUMBER>412</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TDK</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Stereo.Headphones.TDK.EB120.Black.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=414</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות די ג'יי JVC דגם HA-X580</PRODUCT_NAME>
+      <MODEL>אוזניות DJ</MODEL>
+      <DETAILS> DJ    HyperBass         3 . JVC   HAX580.  2.5     3.5 .  40   7Hz  21000Hz 32 Ohms 107dB1mW  50mW   </DETAILS>
+      <CATALOG_NUMBER>414</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>89</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>JVC</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Headphones.DJ.JVC.HA-X580_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=415</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות סיליקון Silver Line דגם SL 007</PRODUCT_NAME>
+      <MODEL>אוזניות כפתור</MODEL>
+      <DETAILS> .2   . .      . Silver Line   SL 007.    .  3.5 . 32 Ohm 102dbmw 1khz.  20HZ20.000HZ.</DETAILS>
+      <CATALOG_NUMBER>415</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Stereo.Earphones.SL-007.Black_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=416</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות קשת עם מיקרופון Silver Line דגם BHD-85</PRODUCT_NAME>
+      <MODEL>אוזניות כפתור</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679       .&amp;#9679  32 .&amp;#9679  110dB.&amp;#9679   20HZ20000HZ.&amp;#9679  .&amp;#9679  Silver Line  BHD85 RE.</DETAILS>
+      <CATALOG_NUMBER>416</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Headband.Silver.line.BHD-85B_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=473</PRODUCT_URL>
+      <PRODUCT_NAME>מערכת ראש למרכזיית טלפון Silver Line דגם THD-505</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679  .&amp;#9679  .&amp;#9679  3.5 .&amp;#9679  .&amp;#9679  Silver Line  THD505.&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>473</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Headsets.Telephone.Providers_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=543</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות קשת עורפיות Maxell דגם NB-HB-210</PRODUCT_NAME>
+      <MODEL>קשת עורפיות</MODEL>
+      <DETAILS>&amp;#9679   . &amp;#9679      .&amp;#9679    .&amp;#9679   . &amp;#9679  .&amp;#9679  Maxell  NBHB210. .&amp;#9679   10 .&amp;#9679  32 .&amp;#9679  98dB.&amp;#9679   20Hz20KHz.</DETAILS>
+      <CATALOG_NUMBER>543</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Maxell</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Headphones.Maxell.NB-HB-210._Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=826</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות קשת עם מיקרופון Logitech דגם h110</PRODUCT_NAME>
+      <MODEL>קשת</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679      .&amp;#9679   1.8 .&amp;#9679  3.5 .&amp;#9679  .&amp;#9679     .&amp;#9679  Logitech  h110.    32 OHM () 100dB  3dB () 58dBV  Bar 38dBV    4dB  () 20Hz 20kHz  () 100Hz 16000Hz</DETAILS>
+      <CATALOG_NUMBER>826</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Logitech</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Stereo.Headset.Logitech.h110_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=922</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות נגד מים Avantree דגם IPX8A</PRODUCT_NAME>
+      <MODEL>נגד מים</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679    IPX8.&amp;#9679     .&amp;#9679  3.5 .&amp;#9679   1.2 .&amp;#9679  Avantree  IPX8A.     10   2020.000Hz 32 100  3dB</DETAILS>
+      <CATALOG_NUMBER>922</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Avantree</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Waterproof.Sports.Headphones.Avantree.IPX8_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1448</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות קשת Bluetooth 4.1 סטריאו Bluedio דגם T2S</PRODUCT_NAME>
+      <MODEL>קשת</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  3.5mm   .&amp;#9679    .&amp;#9679  .&amp;#9679       .&amp;#9679  Bluedio  T2S Shooting Brake.   Bluetooth 4.1 57   20hz20khz  110dB 16  10   40   1625    </DETAILS>
+      <CATALOG_NUMBER>1448</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>185</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Bluedio</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Bluedio.T2S.Bluetooth.4.1.Headphones.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1650</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות חוטיות מעטפת GPT דגם PER-G02B</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679  3.5 .&amp;#9679   1.2 .&amp;#9679  .&amp;#9679  GPT  PERG02B. &amp;#9679   20Hz20KHz .&amp;#9679  16 .&amp;#9679  1003dB .&amp;#9679    10mW .&amp;#9679   10mm.</DETAILS>
+      <CATALOG_NUMBER>1650</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GPT</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GPT.PER-G02B.Flexi.Hook.Earphones.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1745</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות Bluetooth 4.1 ספורט QCY QY8</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  Bluetooth .&amp;#9679    .&amp;#9679     80mAh.&amp;#9679 3    .&amp;#9679    APTX.&amp;#9679    A2DPHSPAVRCP.&amp;#9679   56 .&amp;#9679  .&amp;#9679       .&amp;#9679  40x24x32  16.4 .&amp;#9679  QCY  QY8.   4.1  202000Hz 32 1083dB   175 .  () 4.5 .  () 7 .</DETAILS>
+      <CATALOG_NUMBER>1745</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>149</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>QCY</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/QCY.QY8.sports.wireless.bluetooth.4.1.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1748</PRODUCT_URL>
+      <PRODUCT_NAME>אוזניות Bluetooth 4.1 ספורט QCY QY12</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  Bluetooth .&amp;#9679   .&amp;#9679    .&amp;#9679     90mAh.&amp;#9679 4    .&amp;#9679    APTX.&amp;#9679    A2DPHSPAVRCP.&amp;#9679   56 .&amp;#9679  .&amp;#9679       .&amp;#9679  17x19x21.6  16.3 .&amp;#9679  QCY  QY12.   4.1  202000Hz 32 963dB   180 .  () 4.5 .  () 5 .</DETAILS>
+      <CATALOG_NUMBER>1748</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>189</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>QCY</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/QCY.QY12.Bluetooth.Earphone.Bluetooth.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

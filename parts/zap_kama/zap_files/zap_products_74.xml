@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=12</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם לכרטיס זיכרון Micro SDHC</PRODUCT_NAME>
+      <MODEL>מתאם ל- Micro SDHC</MODEL>
+      <DETAILS>&amp;#9679  SDHC   Micro SDHC.&amp;#9679      Micro SDHC.&amp;#9679    Micro SD  Micro SDHC.&amp;#9679    32GB.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>12</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Memory.card.adapter.For.Micro SDHC.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=13</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם לכרטיס זיכרון Memory Stick Pro Duo</PRODUCT_NAME>
+      <MODEL>Memory Stick Pro Duo</MODEL>
+      <DETAILS>&amp;#9679    Memory Stick Pro Duo.&amp;#9679     Micro SDHC.&amp;#9679    Micro SDHC  16GB.&amp;#9679    PSP  ...</DETAILS>
+      <CATALOG_NUMBER>13</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>3 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Memory.card.adapter.For.Memory.Stick.Pro.Duo_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=48</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסי זיכרון בחיבור Micro USB 0TG</PRODUCT_NAME>
+      <MODEL>OTG</MODEL>
+      <DETAILS>&amp;#9679    Micro SDHCSDHC.&amp;#9679  USB  OTG.&amp;#9679      ..&amp;#9679    3.1.&amp;#9679    OTG .</DETAILS>
+      <CATALOG_NUMBER>48</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Card.Reader.&amp;.USB.For.OTG.Mobile.Phone_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=286</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסי זיכרון בחיבור USB 2.0 כחול/לבן</PRODUCT_NAME>
+      <MODEL>USB 2.0</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679  USB 2.0.&amp;#9679   .&amp;#9679         SDHCMicro SDHCM2Memory Stick DuoMemory Stick Pro Duo</DETAILS>
+      <CATALOG_NUMBER>286</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>19</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Card.Memory.Reader.All.in.One.Blue_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=839</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסי זיכרון אוניברסלי Silver Line</PRODUCT_NAME>
+      <MODEL>USB 2.0</MODEL>
+      <DETAILS>&amp;#9679    All in One.&amp;#9679 5   .&amp;#9679   USB 2.0 .&amp;#9679    .&amp;#9679  .&amp;#9679  Silver Line  EL650.  Compact FlashSD  SDHCMicro SD  Micro SDHCMemory Stick Duo   Memory Stick Pro DuoMini SDXDRSMMCTFlashMMS</DETAILS>
+      <CATALOG_NUMBER>839</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Card.Reader.All.in.1.Black.Silver.Line_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=840</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסי זיכרון Silver Line  SD/Micro SD</PRODUCT_NAME>
+      <MODEL>SD/Micro SD</MODEL>
+      <DETAILS>&amp;#9679    SDMicro SD.&amp;#9679   USB 2.0 .&amp;#9679  .&amp;#9679  Silver Line  SD887.  SD  SDHCMicro SD  Micro SDHC</DETAILS>
+      <CATALOG_NUMBER>840</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SilverLine</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Card.Reader.SD.Micro.SD.Black.Silver.Line.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=891</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסים Transcend USB 3.0 דגם RDF5</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  USB 3.0.&amp;#9679  LED   .&amp;#9679    90MBSec.&amp;#9679    60MBSec.&amp;#9679    128GB.&amp;#9679   UHSI.&amp;#9679  56x24x8.9  18 .&amp;#9679  .&amp;#9679  Transcend  RDF5.    SDSDHCSDXC UHSIMicro SDMicro SDHCMicro SDXC UHSI</DETAILS>
+      <CATALOG_NUMBER>891</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Transcend</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.3.0.Card.ReaderTranscend.RDF5_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=892</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסים Kingston USB 3.0 דגם MobileLite G4</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  USB 3.0.&amp;#9679   UHSIII.&amp;#9679  52x33x9 .&amp;#9679  Kingston  MobileLite G4.    SDSDHCSDXC UHSIII Micro SDMicro SDHCMicro SDXC UHSI </DETAILS>
+      <CATALOG_NUMBER>892</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.3.0.Card.Reader.Kingston.MobileLite.G4_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=993</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסי זיכרון בחיבור OTG לסמארטפון</PRODUCT_NAME>
+      <MODEL>OTG</MODEL>
+      <DETAILS>&amp;#9679    SDHCMicro SDHC.&amp;#9679  USB AMicro USB.&amp;#9679   32GB.&amp;#9679   USB 2.0.&amp;#9679  32x16x7 .</DETAILS>
+      <CATALOG_NUMBER>993</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.Plug.OTG.SDHC.&amp;.Micro.SDHCCard Reader.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1146</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיס זיכרון Micro SD תוצרת Kingston דגם FCR-MRG2</PRODUCT_NAME>
+      <MODEL>USB 2.0</MODEL>
+      <DETAILS>&amp;#9679    Micro SDHCSDXC.&amp;#9679   USB 2.0.&amp;#9679   40C to 85C.&amp;#9679   0C to 60C.&amp;#9679  2.64x12.14x25 .&amp;#9679  Kingston  FCRMRG2.    .Micro SDMicro SDHCMicro SDXC</DETAILS>
+      <CATALOG_NUMBER>1146</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.2.0.Card.Reader.Kingston.FCR-MRG2_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1264</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסים Orico USB 3.0 דגם CTU33</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   USB 3.0.&amp;#9679     5Gbps.&amp;#9679      ABS.&amp;#9679  LED   .&amp;#9679  .&amp;#9679  77x28x15 .&amp;#9679  Orico  CTU33WH.    SDSDHCSDXC UHSIMicro SDMicro SDHCMicro SDXC UHSI</DETAILS>
+      <CATALOG_NUMBER>1264</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.USB.3.0.Dual.Card.Reader.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1417</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסים/מפצל Orico USB 2.0 דגם C2TS</PRODUCT_NAME>
+      <MODEL>USB 2.0</MODEL>
+      <DETAILS>&amp;#9679    Micro SDHCSDHC.&amp;#9679  USB 2.0  3 .&amp;#9679    ABS.&amp;#9679     480Mbps.&amp;#9679   OTG .&amp;#9679  DC 5.52.1  .&amp;#9679  LED  .&amp;#9679  Mac OS X 10.2  Windows XPVista78.&amp;#9679  50x50x15  56 .&amp;#9679  .&amp;#9679  Orico  C2TS.  </DETAILS>
+      <CATALOG_NUMBER>1417</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.C2TS.USB.2.0.Hub.With.Card.Reader.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1418</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסים/מפצל Orico USB 3.0 דגם C3TS</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679    Micro SDXCSDXC.&amp;#9679  USB 3.0  3 .&amp;#9679    ABS.&amp;#9679     5Gbps.&amp;#9679   OTG .&amp;#9679  DC 5.52.1  .&amp;#9679  LED  .&amp;#9679  Mac OS X 10.2  Windows XPVista78.&amp;#9679  50x50x15  56 .&amp;#9679  .&amp;#9679  Orico  C3TS.  </DETAILS>
+      <CATALOG_NUMBER>1418</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>99</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.C3TS.USB.3.0.Hub.With.Card.Reader.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1420</PRODUCT_URL>
+      <PRODUCT_NAME>קופה ממוחשבת Senor דגם 255 iSPOS</PRODUCT_NAME>
+      <MODEL>15In</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679    15In  768x1024.&amp;#9679  Intel D525 Dual Cure 1.8GHz.&amp;#9679  DDR3 2GB 1066MHz.&amp;#9679   HDD 320GB.&amp;#9679   .&amp;#9679    .&amp;#9679   RJ45 1000Mbps.&amp;#9679  Paralell PS2 USB 2.0 x 5.&amp;#9679    .&amp;#9679  .&amp;#9679   .&amp;#9679  389x232x363  8.5 .&amp;#9679     .&amp;#9679  Senor  255 iSPOS.</DETAILS>
+      <CATALOG_NUMBER>1420</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>3900</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Senor</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Senor.iSPOS.255.POS.System.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1421</PRODUCT_URL>
+      <PRODUCT_NAME>קופה ממוחשבת Senor דגם 350 iCPOS</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679    15In  768x1024.&amp;#9679  Celeron 1037U Dual Core 1.8GHz.&amp;#9679  DDR3 2GB 13331600MHz.&amp;#9679   SDD 32GB.&amp;#9679   .&amp;#9679   RJ45 1000Mbps.&amp;#9679  Paralell PS2 USB 2.0 x 4.&amp;#9679    .&amp;#9679  .&amp;#9679   .&amp;#9679  389x232x363  8.5 .&amp;#9679     .&amp;#9679  Senor  350 iCPOS. </DETAILS>
+      <CATALOG_NUMBER>1421</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>4100</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Senor</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Senor.350.iCPOS.POS.System.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1422</PRODUCT_URL>
+      <PRODUCT_NAME>קופה ממוחשבת Senor דגם APOS 750</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679    15In  768x1024.&amp;#9679  Intel D525 Dual Core 1.8GHz.&amp;#9679  DDR3 2GB 800MHz.&amp;#9679   SDD 32GB.&amp;#9679   .&amp;#9679   RJ45 1000Mbps.&amp;#9679  Paralell PS2 Serial x2 VGA USB 2.0 x4.&amp;#9679    .&amp;#9679  .&amp;#9679   .&amp;#9679  354x218x380  7.1 .&amp;#9679     .&amp;#9679  Senor  APOS 750.</DETAILS>
+      <CATALOG_NUMBER>1422</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>3900</PRICE>
+      <SHIPMENT_COST>25</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Senor</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Senor.APOS.750.POS.System.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1424</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל USB 2.0 עם קורא כרטיסי זיכרון Ugreen USB דגם CR101</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  OTG Micro USB.&amp;#9679 3  USB 2.0.&amp;#9679     480MBs.&amp;#9679   .&amp;#9679 SDHC Micro SD MMC RSMMC TFlash MS PRO MS DUO M2.&amp;#9679   .&amp;#9679  USB 2.0 A .&amp;#9679    .&amp;#9679  DC 5V  2A  .&amp;#9679    60 .&amp;#9679  .&amp;#9679  Ugreen  CR101.</DETAILS>
+      <CATALOG_NUMBER>1424</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>62</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.CR101.USB.2.0.Hub.With.Card.Reader.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1425</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסי זיכרון Ugreen USB 3.0 דגם CR125</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  USB A 3.0.&amp;#9679     5Gbps.&amp;#9679     256GB.&amp;#9679   ABS.&amp;#9679    100 .&amp;#9679  55x68x15 .&amp;#9679  .&amp;#9679  Ugreen  CR125.&amp;#9679   .Micro SD Micro SDHC Micro SDXCSD SDHC SDXCMS Pro Duo MS Micro MS Pro &amp; HG DuoCF I CF II CF Ultra II CF Exterme</DETAILS>
+      <CATALOG_NUMBER>1425</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>99</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.CR125.Multi.Memory.Card.Reader.usb.3.0.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1587</PRODUCT_URL>
+      <PRODUCT_NAME>כבל רשת מסוכך CAT5e באורך 40 מטר</PRODUCT_NAME>
+      <MODEL>40 מטר</MODEL>
+      <DETAILS>&amp;#9679    CAT5e.&amp;#9679   FTP.&amp;#9679  40 .&amp;#9679  10100MBPs.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1587</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/CAT5e.network.cable._Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1832</PRODUCT_URL>
+      <PRODUCT_NAME>קורא כרטיסי זיכרון Rocketek CR2-UT</PRODUCT_NAME>
+      <MODEL>USB 3.0</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   SD SDHC SDXC.&amp;#9679   Micro SD Micro SDHC Micro SDXC.&amp;#9679  USB A 3.0.&amp;#9679    5Gbps.&amp;#9679       .&amp;#9679    .&amp;#9679    SDXC  2TB.&amp;#9679  Windows Vista Mac OS X 10.&amp;#9679  85x10x20 .&amp;#9679  Rocketek  USB3CR2UT.</DETAILS>
+      <CATALOG_NUMBER>1832</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>99</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Rocketek</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Rocketek.CR2-UT.USB.3.0.Card.Reader.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1995</PRODUCT_URL>
+      <PRODUCT_NAME>נרתיק לכונן קשיח חיצוני Orico 2.5In</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     2.5 .&amp;#9679    .&amp;#9679    .&amp;#9679   .&amp;#9679  .&amp;#9679  150x100x35 .&amp;#9679  Orico  PHC25BL.  </DETAILS>
+      <CATALOG_NUMBER>1995</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.PHC-25.2.5In.HDD.Protection.Bag.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

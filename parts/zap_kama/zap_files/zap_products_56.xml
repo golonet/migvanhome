@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=78</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל לאוזניות</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  3.5     3.5  .&amp;#9679       MP3MP4     ..</DETAILS>
+      <CATALOG_NUMBER>78</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.5mm.stereo.headphone.splitter.adapter_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=264</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל כבל רשת rj45 ל- 2 יציאות</PRODUCT_NAME>
+      <MODEL>רשת</MODEL>
+      <DETAILS> T    rj45  8       2  rj45  8   .   4    4      </DETAILS>
+      <CATALOG_NUMBER>264</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/RJ45.Ethernet.cable.lan.port.1.to.2.splitter.connector.adapter_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=295</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל ל- 5 אוזניות + כבל</PRODUCT_NAME>
+      <MODEL>מפצל אוזניות</MODEL>
+      <DETAILS>&amp;#9679    3.5    .&amp;#9679    3.5   .&amp;#9679   28 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>295</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/5.Headphone.Splitter_Main.Image.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=433</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל לשני אוזניות - חיבור 3.5 מ''מ</PRODUCT_NAME>
+      <MODEL>מפצל אוזניות</MODEL>
+      <DETAILS>&amp;#9679    . &amp;#9679  3.5    3.5  .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>433</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>19</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.5mm.stereo.audio.cable.2.audio.splitter_Main.Image.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=461</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל HDMI נקבה ל- Micro + Mini HDMI זכר</PRODUCT_NAME>
+      <MODEL>HDMI</MODEL>
+      <DETAILS>&amp;#9679  HDMI 1.4 .&amp;#9679  1  HDMI .&amp;#9679  1  HDMI .</DETAILS>
+      <CATALOG_NUMBER>461</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>19</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/HDMI.Female.to.Mini.&amp;.Micro.HDMI.Male.Connector.Adapter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=525</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מפצל HDMI זכר ל- 2 HDMI נקבה</PRODUCT_NAME>
+      <MODEL>HDMI</MODEL>
+      <DETAILS>&amp;#9679   HDMI   2 HDMI .&amp;#9679     2 .&amp;#9679    3 .&amp;#9679   32 .</DETAILS>
+      <CATALOG_NUMBER>525</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/HDMI.1.to.2.Splitter.Cable.Male to.Female_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=533</PRODUCT_URL>
+      <PRODUCT_NAME>רכזת רשת 8 כניסות TP-Link דגם TL-SF1008D</PRODUCT_NAME>
+      <MODEL>רכזת רשת</MODEL>
+      <DETAILS>&amp;#9679    7  RJ45.&amp;#9679   RJ45  .&amp;#9679    10100Mbps.&amp;#9679      200Mbps.&amp;#9679   MDI  MDIX.&amp;#9679    .&amp;#9679   IEEE 802.3 IEEE 802.3u IEEE 802.3xCSMACD.&amp;#9679    .&amp;#9679  13.4x7.9x22.5 .&amp;#9679  TPLink  TLSF1008D.&amp;#9679  3    .   </DETAILS>
+      <CATALOG_NUMBER>533</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/8-Port.10.100Mbps.Desktop.Switch.TP-Link.TL-SF1008D_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=841</PRODUCT_URL>
+      <PRODUCT_NAME>רכזת רשת 16 כניסות TP-Link דגם TL-SF1016D</PRODUCT_NAME>
+      <MODEL>רכזת רשת</MODEL>
+      <DETAILS>&amp;#9679    15  RJ45.&amp;#9679   RJ45  .&amp;#9679    10100Mbps.&amp;#9679   MDI  MDIX.&amp;#9679    .&amp;#9679   IEEE 802.3 IEEE 802.3u IEEE 802.3xCSMACD.&amp;#9679    .&amp;#9679  14.2x4x20 . &amp;#9679  3    .&amp;#9679  TPLink  TLSF1016D.  </DETAILS>
+      <CATALOG_NUMBER>841</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>135</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/16-Port.10.100Mbps.Desktop.Switch.TP-Link.TL-SF1016D_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=865</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל אופטי פסיבי כניסה אחת ל-2 יציאות</PRODUCT_NAME>
+      <MODEL>Optical</MODEL>
+      <DETAILS>&amp;#9679      .&amp;#9679      .&amp;#9679    DVD  .&amp;#9679      10 </DETAILS>
+      <CATALOG_NUMBER>865</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Optical.splitter.1.To.2_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=951</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מפצל VGA זכר לשני VGA נקבה</PRODUCT_NAME>
+      <MODEL>VGA</MODEL>
+      <DETAILS>&amp;#9679   VGA 15P   VGA 15P .&amp;#9679     .&amp;#9679   3     .&amp;#9679  20 . </DETAILS>
+      <CATALOG_NUMBER>951</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/VGA.splitter.cable.1.Female.To.2.Male.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1094</PRODUCT_URL>
+      <PRODUCT_NAME>רכזת רשת 5 כניסות TP-Link דגם TL-SF1005D</PRODUCT_NAME>
+      <MODEL>רכזת רשת</MODEL>
+      <DETAILS>&amp;#9679    4  RJ45.&amp;#9679   RJ45  .&amp;#9679    10100Mbps.&amp;#9679      200Mbps.&amp;#9679   MDI  MDIX.&amp;#9679    .&amp;#9679     5.0VDC0.6A.&amp;#9679   103.5x70x22 .&amp;#9679  TPLink  TLSF1005D .&amp;#9679  3    .  </DETAILS>
+      <CATALOG_NUMBER>1094</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/5-Port.10.100Mbps.Desktop.Switch.TL-SF1005D_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1095</PRODUCT_URL>
+      <PRODUCT_NAME>רכזת רשת 8 כניסות TP-Link דגם TL-SG1008D</PRODUCT_NAME>
+      <MODEL>רכזת רשת</MODEL>
+      <DETAILS>&amp;#9679    7  RJ45.&amp;#9679   RJ45  .&amp;#9679    1000Gbps.&amp;#9679   MDI  MDIX.&amp;#9679    .&amp;#9679    .&amp;#9679  158x101x25 .&amp;#9679  TPLink  TLSG1008D .&amp;#9679  3    .  </DETAILS>
+      <CATALOG_NUMBER>1095</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>125</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/8-Port.10.100.1000Gbps.Desktop.Switch.TL-SG1008D_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1185</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל T2 לטלוויזיה בכבלים</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  12  .&amp;#9679    .&amp;#9679 5900MHz.</DETAILS>
+      <CATALOG_NUMBER>1185</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>5</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/2-WAY.Cable.TV.Splitter.5-900MHz.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1186</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל T3 לטלוויזיה בכבלים</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  13  .&amp;#9679    .&amp;#9679 5900MHz.</DETAILS>
+      <CATALOG_NUMBER>1186</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3-WAY.Cable.TV.Splitter.5-900MHz.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1187</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל T2 לחיבור תקעי בזק BT431A</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  12   .&amp;#9679        BT431A.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1187</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>9</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/2.Way.BT431A.Socket.Splitter.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1188</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל T3 לחיבור תקעי בזק BT431A</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  13   .&amp;#9679        BT431A.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1188</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.Way.BT431A.Socket.Splitter.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1216</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל TV פלסטיק נקבה לשני זכרים</PRODUCT_NAME>
+      <MODEL>TV</MODEL>
+      <DETAILS>&amp;#9679  .&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>1216</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/TV.Antenna.Splitter.Female.To.2.Male.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1217</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל TV פלסטיק זכר לשני נקבות</PRODUCT_NAME>
+      <MODEL>TV</MODEL>
+      <DETAILS>&amp;#9679  .&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>1217</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/TV.Antenna.Splitter.Male.To.2.Female.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1396</PRODUCT_URL>
+      <PRODUCT_NAME>רכזת רשת 5 כניסות TP-Link דגם TL-SG1005</PRODUCT_NAME>
+      <MODEL>רכזת רשת</MODEL>
+      <DETAILS>&amp;#9679    4  RJ45.&amp;#9679   RJ45  .&amp;#9679    1000Gbps.&amp;#9679   MDI  MDIX.&amp;#9679    .&amp;#9679    .&amp;#9679  103.5x70x22 .&amp;#9679  TPLink  TLSG1005 .&amp;#9679  3    .  </DETAILS>
+      <CATALOG_NUMBER>1396</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>99</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/8.Port.1000Gbps.Desktop.Switch.TL-SG105.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1479</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל HDMI 1:2 אקטיבי</PRODUCT_NAME>
+      <MODEL>HDMI</MODEL>
+      <DETAILS>&amp;#9679  HDMI 12 .&amp;#9679  HDMI 1.4.&amp;#9679       .&amp;#9679      225MHz2.25Gbps.&amp;#9679   4K   .&amp;#9679  Micro USB  .&amp;#9679    20      26AWG .&amp;#9679   AC 100240V 5060Hz 0.3A.&amp;#9679   5V1A.&amp;#9679  62x51x11 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1479</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>95</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Splitter.1.to.2.HDMI.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1522</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל HDMI 1:4 אקטיבי</PRODUCT_NAME>
+      <MODEL>HDMI</MODEL>
+      <DETAILS>&amp;#9679  HDMI 14 .&amp;#9679  HDMI 1.4.&amp;#9679       .&amp;#9679      225MHz2.25Gbps.&amp;#9679   4K   .&amp;#9679    20      26AWG .&amp;#9679   AC 100240V 5060Hz 0.3A.&amp;#9679   5V1A.&amp;#9679  62x51x11 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1522</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>195</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/HDMI.4.Port.Splitter.Box.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1941</PRODUCT_URL>
+      <PRODUCT_NAME>רכזת רשת TOTOLINK 5xRJ45 דגם S505</PRODUCT_NAME>
+      <MODEL>רכזת רשת</MODEL>
+      <DETAILS>&amp;#9679    4  RJ45.&amp;#9679   RJ45  .&amp;#9679     100Mbps.&amp;#9679  130x73x23 .&amp;#9679  .&amp;#9679  TOTOLINK  S505.  </DETAILS>
+      <CATALOG_NUMBER>1941</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TotoLink</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/TOTOLINK.S505.5.port.RJ45.Desktop.Switch.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1942</PRODUCT_URL>
+      <PRODUCT_NAME>רכזת רשת TOTOLINK 8xRJ45 דגם S808</PRODUCT_NAME>
+      <MODEL>רכזת רשת</MODEL>
+      <DETAILS>&amp;#9679    7  RJ45.&amp;#9679   RJ45  .&amp;#9679     100Mbps.&amp;#9679  130x73x23 .&amp;#9679  TOTOLINK  S808.  </DETAILS>
+      <CATALOG_NUMBER>1942</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TotoLink</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/TOTOLINK.S808.8.port.RJ45.Desktop.Switch.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1943</PRODUCT_URL>
+      <PRODUCT_NAME>רכזת רשת TOTOLINK 5xRJ45 דגם S505G</PRODUCT_NAME>
+      <MODEL>רכזת רשת</MODEL>
+      <DETAILS>&amp;#9679    4  RJ45.&amp;#9679   RJ45  .&amp;#9679     1000Mbps.&amp;#9679  130x73x23 .&amp;#9679  .&amp;#9679  TOTOLINK  S505G.  </DETAILS>
+      <CATALOG_NUMBER>1943</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>89</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TotoLink</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/TOTOLINK.S505G.5.port.RJ45.Desktop.Switch.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1961</PRODUCT_URL>
+      <PRODUCT_NAME>רכזת רשת Edimax 5xRJ45 דגם ES-3305P</PRODUCT_NAME>
+      <MODEL>רכזת רשת</MODEL>
+      <DETAILS>&amp;#9679    4  RJ45.&amp;#9679   RJ45  .&amp;#9679     100Mbps.&amp;#9679     .&amp;#9679      .&amp;#9679  98x71x25.5 .&amp;#9679  .&amp;#9679  Edimax  ES3305P.  </DETAILS>
+      <CATALOG_NUMBER>1961</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Edimax</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Edimax.ES-3305P.5-Port.Ethernet.Desktop.Switch.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1962</PRODUCT_URL>
+      <PRODUCT_NAME>רכזת רשת Edimax 8xRJ45 דגם ES-3308P</PRODUCT_NAME>
+      <MODEL>רכזת רשת</MODEL>
+      <DETAILS>&amp;#9679    7  RJ45.&amp;#9679   RJ45  .&amp;#9679     100Mbps.&amp;#9679     .&amp;#9679      .&amp;#9679  137x76x25.5 .&amp;#9679  .&amp;#9679  Edimax  ES3308P.  </DETAILS>
+      <CATALOG_NUMBER>1962</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Edimax</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Edimax.ES-3308P.5-Port.Ethernet.Desktop.Switch.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1996</PRODUCT_URL>
+      <PRODUCT_NAME>רכזת רשת מיני TOTOLINK 5xRJ45 דגם S505V3</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     4  RJ45.&amp;#9679   RJ45  .&amp;#9679     100Mbps.&amp;#9679   .&amp;#9679  84x54x23 .&amp;#9679  .&amp;#9679  TotoLink  S505V3.</DETAILS>
+      <CATALOG_NUMBER>1996</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TotoLink</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/TOTOLINK.S505V3.5port.100M.Ethernet.Switch.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

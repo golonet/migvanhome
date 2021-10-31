@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1949</PRODUCT_URL>
+      <PRODUCT_NAME>סרט הדבקה שקוף 100 מטר</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  .&amp;#9679  45 .&amp;#9679  100 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1949</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Transparent.adhesive.tape.100.meter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1950</PRODUCT_URL>
+      <PRODUCT_NAME>ניילון נצמד - רוחב 9.5 ס''מ</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679  9.5 .&amp;#9679     .&amp;#9679     .&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1950</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>7</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Plastic.Wrap_Width.95mm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1955</PRODUCT_URL>
+      <PRODUCT_NAME>ידית קצרה לגליל סטרץ 10 ס''מ</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679    10 .</DETAILS>
+      <CATALOG_NUMBER>1955</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Stretch.film.dispenser.For.Roll.10cm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1956</PRODUCT_URL>
+      <PRODUCT_NAME>ידית ארוכה לגליל סטרץ 50 ס''מ</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     ..&amp;#9679    50 .</DETAILS>
+      <CATALOG_NUMBER>1956</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Stretch.film.dispenser.For.Roll.50cm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

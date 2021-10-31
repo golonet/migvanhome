@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=290</PRODUCT_URL>
+      <PRODUCT_NAME>מנורת לילה לד - גביע</PRODUCT_NAME>
+      <MODEL>מנורת לילה</MODEL>
+      <DETAILS>&amp;#9679     0.5W.&amp;#9679    8000 .&amp;#9679    .&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>290</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/LED.night.light.-.Cup_Main.Image..jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=291</PRODUCT_URL>
+      <PRODUCT_NAME>מנורת לילה לד - צדפה</PRODUCT_NAME>
+      <MODEL>מנורת לילה</MODEL>
+      <DETAILS>&amp;#9679     0.5W.&amp;#9679    8000 .&amp;#9679    .&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>291</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/LED.night.light.-.oyster_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=488</PRODUCT_URL>
+      <PRODUCT_NAME>פנס יד 14 לדים DURACELL דגם CMP-5</PRODUCT_NAME>
+      <MODEL>פנסים</MODEL>
+      <DETAILS>&amp;#9679   14 .&amp;#9679    .&amp;#9679   20 Lumens.&amp;#9679   40 .&amp;#9679   9 .&amp;#9679    .&amp;#9679   3  DURACELL AAA.&amp;#9679   10.3x3.5x2.7   75 .&amp;#9679  DURACELL  COMPACT  CMP5.&amp;#9679     .   </DETAILS>
+      <CATALOG_NUMBER>488</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Duracell</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Duracell.TOUGH.14.LED.Model.CMP-5_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=489</PRODUCT_URL>
+      <PRODUCT_NAME>פנס ראש עם 7 נורות LED תוצרת Grundig</PRODUCT_NAME>
+      <MODEL>פנס ראש</MODEL>
+      <DETAILS>&amp;#9679    7  .&amp;#9679    180.&amp;#9679 3    137  .&amp;#9679     .&amp;#9679    .&amp;#9679   .&amp;#9679   3  AAA.&amp;#9679  Grundig  8711252386928.&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>489</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Grundig</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Head.Lamp.Stirnlampe.7.LED.Grundig_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=490</PRODUCT_URL>
+      <PRODUCT_NAME>פנס יד עם 24 נוריות LED תוצרת OMEGA</PRODUCT_NAME>
+      <MODEL>פנסים</MODEL>
+      <DETAILS>&amp;#9679    24  .&amp;#9679     .&amp;#9679    .&amp;#9679   20  .&amp;#9679  ( )  100.000  .&amp;#9679   3  AAA.&amp;#9679  OMEGA  OM52403A6PD12.&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>490</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>OMEGA</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Flashlight.with.24.LED.OMEGA_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=493</PRODUCT_URL>
+      <PRODUCT_NAME>תאורה נטענת ניידת ליתיום 18 LED תוצרת OMEGA</PRODUCT_NAME>
+      <MODEL>תאורת חירום</MODEL>
+      <DETAILS>&amp;#9679 18    0.2W  .&amp;#9679   306 Lumen.&amp;#9679   3.7V2.0Ah.&amp;#9679     .&amp;#9679   20  .&amp;#9679   816 .&amp;#9679     .&amp;#9679  OMEGA  OM1041L183.7V.&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>493</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>79</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>OMEGA</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Emergency.lighting.18.LED.lithium.OMEGA_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=499</PRODUCT_URL>
+      <PRODUCT_NAME>פנס ראש עם 19 נורות LED תוצרת DURACELL</PRODUCT_NAME>
+      <MODEL>פנס ראש</MODEL>
+      <DETAILS>&amp;#9679    19   .&amp;#9679      1719   .&amp;#9679   27Lumens .&amp;#9679    180 .&amp;#9679   .&amp;#9679   27  .&amp;#9679   3  DURACELL AAA.&amp;#9679  DURACELL  HDL1.&amp;#9679     .   </DETAILS>
+      <CATALOG_NUMBER>499</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>79</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Duracell</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/HeadLamp.Duracell.Explorer.19.LED.Model.HDL-1_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=512</PRODUCT_URL>
+      <PRODUCT_NAME>תאורת חירום נטענת לד Omega 4W</PRODUCT_NAME>
+      <MODEL>תאורת חירום</MODEL>
+      <DETAILS>&amp;#9679     LED.&amp;#9679    .&amp;#9679  4W.&amp;#9679   180lm.&amp;#9679 7  .&amp;#9679    3.7V1.1A.&amp;#9679   .&amp;#9679     .&amp;#9679     .&amp;#9679    7.5 .&amp;#9679    22 .&amp;#9679  17x6 .&amp;#9679  Omega  OM8016L73.7V.</DETAILS>
+      <CATALOG_NUMBER>512</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>OMEGA</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Rechargeable.flashlight.4W.with.7.LEDs.OMEGA_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=513</PRODUCT_URL>
+      <PRODUCT_NAME>פנס נטען ליתיום עם 60 נורות LED תוצרת OMEGA</PRODUCT_NAME>
+      <MODEL>תאורת חירום</MODEL>
+      <DETAILS>&amp;#9679    60  .&amp;#9679   4V2.6Ah.&amp;#9679     .&amp;#9679   2024  .&amp;#9679    40  60   8 .&amp;#9679     .&amp;#9679  OMEGA  OM1093L603.7V.&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>513</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>109</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>OMEGA</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Lithium.rechargeable.flashlight.with.60.LEDs.OMEGA.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=519</PRODUCT_URL>
+      <PRODUCT_NAME>זרקור הלוגן 500w + מעמד תוצרת OMEGA דגם WR7s400-BK</PRODUCT_NAME>
+      <MODEL>זרקור</MODEL>
+      <DETAILS>&amp;#9679   500 .&amp;#9679   400WR7s Classc.&amp;#9679   .&amp;#9679   1.5 .&amp;#9679   IP44.&amp;#9679    .&amp;#9679  .&amp;#9679  OMEGA  WR7s400BK.&amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>519</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>OMEGA</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Halogen.Floodlight.Portable.500w.OMEGA_Main.Image..jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=535</PRODUCT_URL>
+      <PRODUCT_NAME>פנס קמפינג LED</PRODUCT_NAME>
+      <MODEL>פנסים</MODEL>
+      <DETAILS>&amp;#9679    6  . &amp;#9679 3   136 . &amp;#9679    1  . &amp;#9679     . &amp;#9679   3  AA .&amp;#9679  .&amp;#9679  Ecotec  BP6130.</DETAILS>
+      <CATALOG_NUMBER>535</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ecotec</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Camping.Flashlight.Ecotec_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=549</PRODUCT_URL>
+      <PRODUCT_NAME>סטארטר אחד 4-65W תוצרת Philips דגם S10</PRODUCT_NAME>
+      <MODEL>סטארטר</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   4W  65W.&amp;#9679  220240V.&amp;#9679  Philips  S10.  </DETAILS>
+      <CATALOG_NUMBER>549</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>4</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Philips</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ecoclick.starter.Philips.S10_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1072</PRODUCT_URL>
+      <PRODUCT_NAME>סטארטר אחד 4-22W תוצרת Philips דגם S2</PRODUCT_NAME>
+      <MODEL>סטארטר</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   4W  22W.&amp;#9679  110130V  Single.&amp;#9679  220140V  SingleSeries.&amp;#9679  Philips  S2.  </DETAILS>
+      <CATALOG_NUMBER>1072</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>4</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Philips</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ecoclick.starter.Philips.S2_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1160</PRODUCT_URL>
+      <PRODUCT_NAME>כיסוי אובלי לארמטורה קיר</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .   &amp;#9679   .&amp;#9679      UV.&amp;#9679   .&amp;#9679   75W.&amp;#9679  .&amp;#9679        .&amp;#9679  .   .</DETAILS>
+      <CATALOG_NUMBER>1160</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>13</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Fetayaֹ</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Fixtures.oval.covering.wall.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1229</PRODUCT_URL>
+      <PRODUCT_NAME>פנס יד לד מאלומיניום Hyundai</PRODUCT_NAME>
+      <MODEL>פנס יד</MODEL>
+      <DETAILS>&amp;#9679   9 .&amp;#9679   12000MCD.&amp;#9679    .&amp;#9679  3  AAA.&amp;#9679   92   27 ..&amp;#9679  .&amp;#9679       .&amp;#9679  Hyundai  HY9118A.</DETAILS>
+      <CATALOG_NUMBER>1229</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Hyundai</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/9Led.aluminum.torch.Hyundai.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1434</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם בית נורה E14 ל- E27</PRODUCT_NAME>
+      <MODEL>ממיר בית נורה</MODEL>
+      <DETAILS>&amp;#9679    E14  E27.&amp;#9679 E14   E27 .&amp;#9679    .&amp;#9679    ...&amp;#9679  110240V.</DETAILS>
+      <CATALOG_NUMBER>1434</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/E14.to.E27.Lamp.Holder.Converter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1435</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל בית נורה 1:2 E27</PRODUCT_NAME>
+      <MODEL>מפצל בית נורה</MODEL>
+      <DETAILS>&amp;#9679    12 E27.&amp;#9679  2    .&amp;#9679  45 .&amp;#9679    .&amp;#9679    ....&amp;#9679  110240V.</DETAILS>
+      <CATALOG_NUMBER>1435</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>16</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/E27.to.2.x2.E27.Lamp.Holder.Converter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1460</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם בית נורה E27 ל- E40</PRODUCT_NAME>
+      <MODEL>מתאם הברגה</MODEL>
+      <DETAILS>&amp;#9679    E27  E40.&amp;#9679 E27   E40 .&amp;#9679    .&amp;#9679    ...&amp;#9679  110240V.</DETAILS>
+      <CATALOG_NUMBER>1460</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/E27.to.E40.Lamp.Bulbs.Holder.Socket.Adapter.Converter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1754</PRODUCT_URL>
+      <PRODUCT_NAME>זרוע גמישה 16 ס''מ לנורה עם הברגה E27</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   360  .&amp;#9679      E27.&amp;#9679  16 .</DETAILS>
+      <CATALOG_NUMBER>1754</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/E27.to.E27.Flexible.16cm.Extend.Base.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1755</PRODUCT_URL>
+      <PRODUCT_NAME>זרוע גמישה 30 ס''מ לנורה עם הברגה E27</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   360  .&amp;#9679      E27.&amp;#9679  30 .</DETAILS>
+      <CATALOG_NUMBER>1755</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/E27.to.E27.Flexible.30cm.Extend.Base.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1761</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם בית נורה E27 ל- E14</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    E14  E27.&amp;#9679 E27   E14 .&amp;#9679    .&amp;#9679    ...&amp;#9679  110240V.</DETAILS>
+      <CATALOG_NUMBER>1761</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/E27.to.E14.Lamp.Holder.Converter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1775</PRODUCT_URL>
+      <PRODUCT_NAME>זרוע גמישה עם חיבור לחשמל ובית נורה E27</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679       E27.&amp;#9679   33 .&amp;#9679   2 .&amp;#9679   E27.&amp;#9679  .&amp;#9679   AC 110240V13A.</DETAILS>
+      <CATALOG_NUMBER>1775</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/E27.Flexible.Extend.Bulb.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1793</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל בית נורה E27 1:3</PRODUCT_NAME>
+      <MODEL>מפצל בית נורה</MODEL>
+      <DETAILS>&amp;#9679    13.&amp;#9679  E27.&amp;#9679    60W.&amp;#9679   110V240V.</DETAILS>
+      <CATALOG_NUMBER>1793</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.in.1.E27.Base.Bulb.Holder.Socket.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1796</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם בית נורה E27 ל- GU10</PRODUCT_NAME>
+      <MODEL>מתאם בית נורה</MODEL>
+      <DETAILS>&amp;#9679    E27  GU10.&amp;#9679 E27   GU10 .&amp;#9679    .&amp;#9679    ...&amp;#9679  110240V.</DETAILS>
+      <CATALOG_NUMBER>1796</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/E27.to.GU10.Lamp.Holder.Converter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1887</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם בית נורה E27 ל- G9</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    E27  G9.&amp;#9679 E27   G9 .&amp;#9679  240 100V .</DETAILS>
+      <CATALOG_NUMBER>1887</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/E27.to.G9.Lamp.Holder.Converter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1888</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם בית נורה E40 ל- E27</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    E40  E27.&amp;#9679 E40   E27 .&amp;#9679  240 100V .</DETAILS>
+      <CATALOG_NUMBER>1888</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>16</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/E40.to.E27.Lamp.Holder.Converter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1895</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מנורת תלייה E27 שזור ניילון במגוון צבעים</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679      .&amp;#9679     .&amp;#9679  230V 50Hz.&amp;#9679  E27.&amp;#9679    40W.&amp;#9679   1 .&amp;#9679  .&amp;#9679       .</DETAILS>
+      <CATALOG_NUMBER>1895</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Pendant.Lights.E27.Silicon.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1953</PRODUCT_URL>
+      <PRODUCT_NAME>מנורת שולחן עם בסיס OMEGA</PRODUCT_NAME>
+      <MODEL>מנורת שולחן</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679     60W.&amp;#9679   E27.&amp;#9679  .&amp;#9679  .&amp;#9679  .&amp;#9679  .&amp;#9679  .&amp;#9679  OMEGA  OM2028.</DETAILS>
+      <CATALOG_NUMBER>1953</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>OMEGA</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/OMEGA.OM-2028BK.desk.lamp.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1954</PRODUCT_URL>
+      <PRODUCT_NAME>מנורת שולחן עם קליפס OMEGA</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679     60W.&amp;#9679   E27.&amp;#9679  .&amp;#9679  .&amp;#9679  .&amp;#9679  .&amp;#9679  .&amp;#9679  OMEGA  OM2028.</DETAILS>
+      <CATALOG_NUMBER>1954</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>OMEGA</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/OMEGA.OM-2425.desk.lamp.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

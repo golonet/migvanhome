@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1805</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם גוויס למודול 3 - Gewiss GW24201</PRODUCT_NAME>
+      <MODEL>System</MODEL>
+      <DETAILS>&amp;#9679     3.&amp;#9679   3 .&amp;#9679     .&amp;#9679  System.&amp;#9679  Gewiss  GW24201.&amp;#9679   .  </DETAILS>
+      <CATALOG_NUMBER>1805</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>7</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Gewiss.System.GW24201.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1806</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם גוויס למודול 2 - Gewiss GW24262</PRODUCT_NAME>
+      <MODEL>System</MODEL>
+      <DETAILS>&amp;#9679     23.&amp;#9679   2 .&amp;#9679     .&amp;#9679  System.&amp;#9679  Gewiss  GW24262.&amp;#9679   .  </DETAILS>
+      <CATALOG_NUMBER>1806</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>7</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Gewiss.System.GW24262.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1813</PRODUCT_URL>
+      <PRODUCT_NAME>קופסת חיבורים Gewiss GW44044 10x10x5cm</PRODUCT_NAME>
+      <MODEL>קופסת חיבורים</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679   PVC.&amp;#9679    IP55.&amp;#9679 6   .&amp;#9679  100x100x50 .&amp;#9679  .&amp;#9679  GEWISS  GW 44 044.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1813</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>9</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GEWISS.GW44004.Junction.box.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1814</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם גוויס למודול 4 - Gewiss GW24202</PRODUCT_NAME>
+      <MODEL>מתאם</MODEL>
+      <DETAILS>&amp;#9679     4.&amp;#9679   4 .&amp;#9679     .&amp;#9679  System.&amp;#9679  Gewiss  GW24202.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1814</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Gewiss.System.GW24202.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1815</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם גוויס למודול 6 - Gewiss GW24230</PRODUCT_NAME>
+      <MODEL>מתאם</MODEL>
+      <DETAILS>&amp;#9679     6.&amp;#9679   6 .&amp;#9679     .&amp;#9679  System.&amp;#9679  Gewiss  GW24230.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1815</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Gewiss.System.GW24230.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1816</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק חילוף Gewiss GW20571L</PRODUCT_NAME>
+      <MODEL>מפסק חילוף</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  1 .&amp;#9679   ...&amp;#9679  System.&amp;#9679  .&amp;#9679  GEWISS   GW 20 571L.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1816</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>10</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Gewiss.GW20571L.System.Switch.Unipolar.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1817</PRODUCT_URL>
+      <PRODUCT_NAME>שקע כוח ישראלי Gewiss GW20220</PRODUCT_NAME>
+      <MODEL>שקע  כוח</MODEL>
+      <DETAILS>&amp;#9679      .&amp;#9679  2 .&amp;#9679  System.&amp;#9679  .&amp;#9679  GEWISS   GW 20 220.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1817</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>10</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Gewiss.GW20220.Power.Socket.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1818</PRODUCT_URL>
+      <PRODUCT_NAME>מסגרת לבנה ל- 1 מודול Gewiss GW22501</PRODUCT_NAME>
+      <MODEL>מסגרת</MODEL>
+      <DETAILS>&amp;#9679     1 .&amp;#9679   1 .&amp;#9679  System.&amp;#9679  .&amp;#9679  GEWISS   GW GW22501.&amp;#9679   .  </DETAILS>
+      <CATALOG_NUMBER>1818</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GEWISS.GW22501.Top.System.Plate.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1819</PRODUCT_URL>
+      <PRODUCT_NAME>מסגרת לבנה ל- 2 מודולים Gewiss GW22502</PRODUCT_NAME>
+      <MODEL>מסגרת</MODEL>
+      <DETAILS>&amp;#9679     2 .&amp;#9679   2 .&amp;#9679  System.&amp;#9679  .&amp;#9679  GEWISS   GW GW22502.&amp;#9679   .  </DETAILS>
+      <CATALOG_NUMBER>1819</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GEWISS.GW22502.Top.System.Plate.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1820</PRODUCT_URL>
+      <PRODUCT_NAME>מסגרת לבנה ל- 3 מודולים Gewiss GW22503</PRODUCT_NAME>
+      <MODEL>מסגרת</MODEL>
+      <DETAILS>&amp;#9679     3 .&amp;#9679   3 .&amp;#9679  System.&amp;#9679  .&amp;#9679  GEWISS   GW GW22503.&amp;#9679   .  </DETAILS>
+      <CATALOG_NUMBER>1820</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>9</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GEWISS.GW22503.Top.System.Plate.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1821</PRODUCT_URL>
+      <PRODUCT_NAME>מסגרת לבנה ל- 4 מודולים Gewiss GW22504</PRODUCT_NAME>
+      <MODEL>מסגרת</MODEL>
+      <DETAILS>&amp;#9679     4 .&amp;#9679   4 .&amp;#9679  System.&amp;#9679  .&amp;#9679  GEWISS   GW GW22504.&amp;#9679   .  </DETAILS>
+      <CATALOG_NUMBER>1821</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GEWISS.GW22504.Top.System.Plate.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1822</PRODUCT_URL>
+      <PRODUCT_NAME>מסגרת לבנה ל- 6 מודולים Gewiss GW22504</PRODUCT_NAME>
+      <MODEL>מסגרת</MODEL>
+      <DETAILS>&amp;#9679     6 .&amp;#9679   6 .&amp;#9679  System.&amp;#9679  .&amp;#9679  GEWISS   GW GW22506.&amp;#9679   .  </DETAILS>
+      <CATALOG_NUMBER>1822</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>24</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/GEWISS.GW22506.Top.System.Plate.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1823</PRODUCT_URL>
+      <PRODUCT_NAME>קופסה תואמת גוויס 3 מודולים לקיר בטון/בלוקים</PRODUCT_NAME>
+      <MODEL>קופסה</MODEL>
+      <DETAILS>&amp;#9679      .&amp;#9679   .&amp;#9679 12   .&amp;#9679   3 .&amp;#9679      .&amp;#9679     System Chorus Eco.&amp;#9679     4020.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1823</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>5</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>AyalaPlast</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orange.box.for.Gewiss.3.modules.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1824</PRODUCT_URL>
+      <PRODUCT_NAME>קופסה תואמת גוויס 4 מודולים לקיר בטון/בלוקים</PRODUCT_NAME>
+      <MODEL>קופסה</MODEL>
+      <DETAILS>&amp;#9679      .&amp;#9679   .&amp;#9679 14   ..&amp;#9679   4 .&amp;#9679      .&amp;#9679     System Chorus Eco.&amp;#9679     4031.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1824</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>AyalaPlast</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orange.box.for.Gewiss.4.modules.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1825</PRODUCT_URL>
+      <PRODUCT_NAME>קופסה תואמת גוויס 6 מודולים לקיר בטון/בלוקים</PRODUCT_NAME>
+      <MODEL>קופסה</MODEL>
+      <DETAILS>&amp;#9679      .&amp;#9679   .&amp;#9679 14   .&amp;#9679   6 .&amp;#9679      .&amp;#9679     System Chorus Eco.&amp;#9679     4041.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1825</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>13</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>AyalaPlast</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orange.box.for.Gewiss.6.modules.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1828</PRODUCT_URL>
+      <PRODUCT_NAME>שקע USB כפול 4.2A לקופסת גוויס Omega</PRODUCT_NAME>
+      <MODEL>שקע USB</MODEL>
+      <DETAILS>&amp;#9679  USB  4.2A  .&amp;#9679  1 .&amp;#9679     2.1A.&amp;#9679    4.2A.&amp;#9679   AC 230V 50Hz 4.2A.&amp;#9679   DC 5V 2.1A.&amp;#9679     .&amp;#9679   System.&amp;#9679  .&amp;#9679  OMEGA  GW2USB2A.</DETAILS>
+      <CATALOG_NUMBER>1828</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>OMEGA</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Omega.Dual.USB.4.2A.for.gewiss.box.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1866</PRODUCT_URL>
+      <PRODUCT_NAME>מסגרת לבנה מוגנת מים Gewiss GW22451</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679   3 .&amp;#9679       3.&amp;#9679  .&amp;#9679  System.&amp;#9679  Gewiss  GW22451.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1866</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Gewiss.GW22451.Plate.WeatherProof.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1867</PRODUCT_URL>
+      <PRODUCT_NAME>מסגרת לבנה מוגנת מים Gewiss GW22461</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679   4 .&amp;#9679       4.&amp;#9679  .&amp;#9679  System.&amp;#9679  Gewiss  GW22461.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1867</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Gewiss.GW22461.Plate.WeatherProof.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1923</PRODUCT_URL>
+      <PRODUCT_NAME>שקע טלפון מודולרי תואם גוויס Fetaya</PRODUCT_NAME>
+      <MODEL>שקע טלפון BT431A</MODEL>
+      <DETAILS>&amp;#9679    BT431A .&amp;#9679  Gewiss   1.&amp;#9679   .&amp;#9679    34.&amp;#9679  .&amp;#9679  .   5030.</DETAILS>
+      <CATALOG_NUMBER>1923</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Telephone.jack.compatible.Gewiss.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1924</PRODUCT_URL>
+      <PRODUCT_NAME>שקע רשת RJ45 Cat5e תואם גוויס Fetaya</PRODUCT_NAME>
+      <MODEL>שקע רשת RJ45</MODEL>
+      <DETAILS>&amp;#9679   RJ45 Cat5e.&amp;#9679   10100Mbps.&amp;#9679  Gewiss   1.&amp;#9679    .&amp;#9679  .&amp;#9679  .   9514.</DETAILS>
+      <CATALOG_NUMBER>1924</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/RJ45.network.socket.compatible.Gewiss.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1925</PRODUCT_URL>
+      <PRODUCT_NAME>שקע TV RG6 תואם גוויס Fetaya</PRODUCT_NAME>
+      <MODEL>שקע TV</MODEL>
+      <DETAILS>&amp;#9679   TV RG6.&amp;#9679  Gewiss   1.&amp;#9679  .&amp;#9679  .   5959.</DETAILS>
+      <CATALOG_NUMBER>1925</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>a.Fetaya</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/RG6.TV.socket.compatible.Gewiss.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1980</PRODUCT_URL>
+      <PRODUCT_NAME>מכסה לכיסוי מודול 1 גוויס</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     1.&amp;#9679   .&amp;#9679  Gewiss  System.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1980</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>3</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Blanking.Module.For.Gewiss.System.Series.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1981</PRODUCT_URL>
+      <PRODUCT_NAME>מפסק מחליף Gewiss GW20521L</PRODUCT_NAME>
+      <MODEL>GW20521L</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  1 .&amp;#9679    .&amp;#9679  System.&amp;#9679  .&amp;#9679  GEWISS   GW 20 521L.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1981</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>15</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Gewiss</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Gewiss.GW20521L.System.Switch.Unipolar.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2061</PRODUCT_URL>
+      <PRODUCT_NAME>קופסה תואמת גוויס 3 מודולים לקיר גבס</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679   .&amp;#9679 8   .&amp;#9679   3 .&amp;#9679      .&amp;#9679     System Chorus Eco.&amp;#9679     4030.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>2061</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>7</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>AyalaPlast</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orange.box.for.Gewiss.3.modules.Drywall.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2062</PRODUCT_URL>
+      <PRODUCT_NAME>קופסה תואמת גוויס 4 מודולים לקיר גבס</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679   .&amp;#9679 8   .&amp;#9679   4 .&amp;#9679      .&amp;#9679     System Chorus Eco.&amp;#9679     4031.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>2062</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>AyalaPlast</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orange.box.for.Gewiss.4.modules.Drywall.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2063</PRODUCT_URL>
+      <PRODUCT_NAME>קופסה תואמת גוויס 6 מודולים לקיר גבס</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679   .&amp;#9679 12   .&amp;#9679   6 .&amp;#9679      .&amp;#9679     System Chorus Eco.&amp;#9679     4032.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>2063</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>15</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>AyalaPlast</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orange.box.for.Gewiss.6.modules.Drywall.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

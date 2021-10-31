@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=207</PRODUCT_URL>
+      <PRODUCT_NAME>כבל 3xRCA אודיו/וידאו באורך 1.5 מטר</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679  3xRCA  .&amp;#9679    DVD   ...&amp;#9679  1.5 .</DETAILS>
+      <CATALOG_NUMBER>207</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>HQ</MANUFACTURER>
+      <WARRANTY>חודש</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.RCA.to.3.RCA.1.5m_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=208</PRODUCT_URL>
+      <PRODUCT_NAME>כבל 3xRCA אודיו/וידאו באורך 2.5 מטר</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679    DVD   ...&amp;#9679  2.5 .</DETAILS>
+      <CATALOG_NUMBER>208</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>15</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.RCA.to.3.RCA.2.5m_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=209</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו PL 3.5 ל 2xRCA באורך 1.5 מטר</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679   PL 3.5   2xRCA .&amp;#9679  1.5 .</DETAILS>
+      <CATALOG_NUMBER>209</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>9</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>חודש</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.5mm.stereo.plugs.to.2.RCA.1.5m_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=210</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5mm מאריך באורך 1.5 מטר</PRODUCT_NAME>
+      <MODEL>PL 3.5mm</MODEL>
+      <DETAILS>&amp;#9679  PL 3.5mm    .&amp;#9679    .&amp;#9679  1.5 .</DETAILS>
+      <CATALOG_NUMBER>210</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>9</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>חודש</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.5mm.stereo.plugs.to.3.5mm.stereo.1.5m_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=211</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו PL3.5 סטריאו 1.5 מטר HQ</PRODUCT_NAME>
+      <MODEL>PL 3.5</MODEL>
+      <DETAILS>&amp;#9679   PL3.5  .&amp;#9679      .&amp;#9679   1.5 .&amp;#9679  HQ  HQAS24041.5</DETAILS>
+      <CATALOG_NUMBER>211</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Stereo.audio.cable.PL3.5_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=212</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו PL3.5 סטריאו 2.5 מטר HQ</PRODUCT_NAME>
+      <MODEL>PL 3.5</MODEL>
+      <DETAILS>&amp;#9679   PL3.5  .&amp;#9679      .&amp;#9679   2.5 .&amp;#9679  HQ  HQAS24042.5</DETAILS>
+      <CATALOG_NUMBER>212</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>HQ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Stereo.audio.cable.PL3.5_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=213</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5 סטריאו זכר-זכר באורך 0.5 מטר</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679  3.5     3.5   .&amp;#9679      3.5 .&amp;#9679  50 . </DETAILS>
+      <CATALOG_NUMBER>213</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>9</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.3.5.Stereo.Cable.Male-Male.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=214</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5 סטריאו זכר-זכר באורך 1.2 מטר</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679  3.5     3.5   .&amp;#9679      3.5 ..&amp;#9679  1.2 .</DETAILS>
+      <CATALOG_NUMBER>214</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>11</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.3.5.Stereo.Cable.Male-Male.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=297</PRODUCT_URL>
+      <PRODUCT_NAME>כבל Aux זכר - USB A נקבה</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   3.5mm   USB A .&amp;#9679   14 .</DETAILS>
+      <CATALOG_NUMBER>297</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>19</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.5mm.Male.AUX.To.USB.2.0.Female.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=322</PRODUCT_URL>
+      <PRODUCT_NAME>ערכה אוניברסלית לחיבור אודיו -  Grundig&#13;
+</PRODUCT_NAME>
+      <MODEL>כבלים ומתאמים</MODEL>
+      <DETAILS>&amp;#9679      .&amp;#9679   2.5 .&amp;#9679   6.3    3.5  .&amp;#9679    3.5   6.3  .&amp;#9679   3.5    3.5  .&amp;#9679   3.5    3.5  .</DETAILS>
+      <CATALOG_NUMBER>322</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Grundig</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Cable.+.adapters.to.connect.audio_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=687</PRODUCT_URL>
+      <PRODUCT_NAME>כבל לרמקול 2X0.75 שקוף  1 מטר - GPT</PRODUCT_NAME>
+      <MODEL>כבל לרמקול</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679    0.75 .&amp;#9679      .&amp;#9679  1224V.&amp;#9679   .&amp;#9679  .&amp;#9679  GPT.</DETAILS>
+      <CATALOG_NUMBER>687</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>2</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GPT</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Transparent.Speaker.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=688</PRODUCT_URL>
+      <PRODUCT_NAME>כבל לרמקול 2X1.5 שקוף  1 מטר - GPT</PRODUCT_NAME>
+      <MODEL>כבל לרמקול</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679    1.5 .&amp;#9679      .&amp;#9679  1224V.&amp;#9679   .&amp;#9679  .&amp;#9679  GPT.</DETAILS>
+      <CATALOG_NUMBER>688</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>3</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GPT</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Transparent.Speaker.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=689</PRODUCT_URL>
+      <PRODUCT_NAME>כבל לרמקול 2X2.5 שקוף  1 מטר - GPT</PRODUCT_NAME>
+      <MODEL>כבל לרמקול</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679    2.5 .&amp;#9679      .&amp;#9679  1224V.&amp;#9679   .&amp;#9679  .&amp;#9679  GPT.</DETAILS>
+      <CATALOG_NUMBER>689</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>4</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GPT</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Transparent.Speaker.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=705</PRODUCT_URL>
+      <PRODUCT_NAME>כבל AUX סטריאו שטוח - 1 מטר</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679  PL 3.5  .&amp;#9679  1 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>705</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Audio.Cable.Flat.1.Meter_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=706</PRODUCT_URL>
+      <PRODUCT_NAME>כבל AUX סטריאו שטוח - 1.8 מטר</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679  PL 3.5  .&amp;#9679  1.8 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>706</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Audio.Cable.Flat.1.8.Meter_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=721</PRODUCT_URL>
+      <PRODUCT_NAME>כבל Aux נגלל 3.5 מ''מ</PRODUCT_NAME>
+      <MODEL>כבל נגלל</MODEL>
+      <DETAILS>&amp;#9679   3.5mm .&amp;#9679  2 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>721</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.5mm.Black.Retractable.AUX.Auxiliary.Cable.Cord_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=803</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מקצועי לרמקול 100% נחושת 2x14AWG תוצרת TopX</PRODUCT_NAME>
+      <MODEL>כבל לרמקול</MODEL>
+      <DETAILS>&amp;#9679        .&amp;#9679  100%  OFC.&amp;#9679     PVC    ULCL2.&amp;#9679       14AWG  2.08 .&amp;#9679   6.5 .&amp;#9679    .&amp;#9679    .&amp;#9679  TopX  LSP1.</DETAILS>
+      <CATALOG_NUMBER>803</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Topx</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Speaker.Wire.2x14AWG.TopX_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=813</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5 סטריאו זכר-זכר באורך 0.25 מטר</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679  3.5     3.5   .&amp;#9679      3.5 .&amp;#9679  25 . </DETAILS>
+      <CATALOG_NUMBER>813</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.3.5.Stereo.Cable.Male-Male.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=814</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5 סטריאו זכר-זכר באורך 3 מטר</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679  3.5     3.5   .&amp;#9679      3.5 .&amp;#9679  3 . </DETAILS>
+      <CATALOG_NUMBER>814</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.3.5.Stereo.Cable.Male-Male.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=815</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5 סטריאו זכר-זכר באורך 5 מטר</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679  3.5     3.5   .&amp;#9679      3.5 .&amp;#9679  .&amp;#9679  5 . </DETAILS>
+      <CATALOG_NUMBER>815</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.3.5.Stereo.Cable.Male-Male.With.Contacts.gold.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=816</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5 סטריאו זכר-זכר באורך 10 מטר</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679  3.5     3.5   .&amp;#9679      3.5 .&amp;#9679  .&amp;#9679  10 . </DETAILS>
+      <CATALOG_NUMBER>816</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.3.5.Stereo.Cable.Male-Male.With.Contacts.gold.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=817</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5 סטריאו זכר-זכר באורך 15 מטר</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679  3.5     3.5   .&amp;#9679      3.5 .&amp;#9679  .&amp;#9679  15 . </DETAILS>
+      <CATALOG_NUMBER>817</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.3.5.Stereo.Cable.Male-Male.With.Contacts.gold.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=818</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5 סטריאו זכר-זכר באורך 1.8 מטר TopX</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679   3.5   .&amp;#9679      3.5 .&amp;#9679   .&amp;#9679        ..&amp;#9679   5 .&amp;#9679  1.8 . </DETAILS>
+      <CATALOG_NUMBER>818</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Topx</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.3.5.Stereo.Cable.Male-Male.TopX_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=819</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5 סטריאו זכר-זכר באורך 3 מטר TopX</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679   3.5   .&amp;#9679      3.5 .&amp;#9679   .&amp;#9679        ..&amp;#9679   5 .&amp;#9679  3 . </DETAILS>
+      <CATALOG_NUMBER>819</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Topx</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.3.5.Stereo.Cable.Male-Male.TopX_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=862</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL3.5 זכר - אוזניות ומיקרופון נקבה</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679  PL 3.5MM  4   2  PL 3.5MM  (3 ). .&amp;#9679        PL3.5   PL    COMBO 3.5mm JACK.</DETAILS>
+      <CATALOG_NUMBER>862</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>15</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Adapter.3.5mm.2.Female.to.Male.Splitter.Cable.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=863</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL3.5 נקבה - אוזניות ומיקרופון זכר</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679    PL 3.5MM   4   2  PL 3.5MM  (3 ). .&amp;#9679   PL   . </DETAILS>
+      <CATALOG_NUMBER>863</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>17</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Adapter.3.5mm.2.Male.to.Female.Splitter.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=864</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מתאם 2.5mm נקבה - 3.5mm זכר 3 מגעים</PRODUCT_NAME>
+      <MODEL>PL</MODEL>
+      <DETAILS>&amp;#9679   2.5mm   3.5mm .&amp;#9679 3  4 .&amp;#9679        3.5     2.5 .&amp;#9679  20 .</DETAILS>
+      <CATALOG_NUMBER>864</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Adapter.cable.Male.3.5mm.To.Female.2.5mm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=866</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 2.5mm סטריאו זכר - זכר באורך 1.2 מטר</PRODUCT_NAME>
+      <MODEL>PL 3.5mm</MODEL>
+      <DETAILS>&amp;#9679  2.5     2.5   .&amp;#9679  1.2 .</DETAILS>
+      <CATALOG_NUMBER>866</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.2.5mm.Cable.stereo.Male.-.Male..1.2.Meter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=873</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5mm מאריך באורך 5 מטר</PRODUCT_NAME>
+      <MODEL>PL 3.5mm</MODEL>
+      <DETAILS>&amp;#9679  PL 3.5mm    .&amp;#9679    .&amp;#9679  5 .</DETAILS>
+      <CATALOG_NUMBER>873</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>16</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.5mm.stereo.plugs.to.3.5mm.stereo.5m_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=906</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו 3.5 מ''מ מסולסל באורך 1 מטר</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   3.5   .&amp;#9679  .&amp;#9679  1 .</DETAILS>
+      <CATALOG_NUMBER>906</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>16</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Audio.Stereo.Aux.Spring.Cable.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=956</PRODUCT_URL>
+      <PRODUCT_NAME>כבל 3xRCA אודיו/וידאו באורך 10 מטר</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679  3xRCA  .&amp;#9679    DVD   ...&amp;#9679  10 .</DETAILS>
+      <CATALOG_NUMBER>956</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>HQ</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.RCA.to.3.RCA.10.Meter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=957</PRODUCT_URL>
+      <PRODUCT_NAME>כבל 3xRCA אודיו/וידאו באורך 15 מטר</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679  3xRCA  .&amp;#9679    DVD   ...&amp;#9679  15 .</DETAILS>
+      <CATALOG_NUMBER>957</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>16</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>HQ</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.RCA.to.3.RCA.15Meter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=978</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו PL 3.5 ל 2xRCA באורך 3 מטר</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679  PL 3.5   2xRCA .&amp;#9679  3 .</DETAILS>
+      <CATALOG_NUMBER>978</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.5mm.stereo.plugs.to.2.RCA.3m.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=979</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו PL 3.5 ל 2xRCA באורך 5 מטר</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679  PL 3.5   2xRCA .&amp;#9679  5 .</DETAILS>
+      <CATALOG_NUMBER>979</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>19</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.5mm.stereo.plugs.to.2.RCA.5m.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=980</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו PL 3.5 ל 2xRCA באורך 10 מט</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679  PL 3.5   2xRCA .&amp;#9679  10 .</DETAILS>
+      <CATALOG_NUMBER>980</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.5mm.stereo.plugs.to.2.RCA.10m.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1075</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו 3.5mm זכר-זכר 1 מטר Sigma</PRODUCT_NAME>
+      <MODEL>3.5mm</MODEL>
+      <DETAILS>&amp;#9679  AUX .&amp;#9679  .&amp;#9679  .&amp;#9679  1 .&amp;#9679  .&amp;#9679  SIGMA  WAUX1BP.</DETAILS>
+      <CATALOG_NUMBER>1075</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>19</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SIGMA</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.5mm.Male.to.Male.Streo.Cable.White.1M.Sigma.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1175</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מקצועי PL 6.35mm באורך 1 מטר Kirlin</PRODUCT_NAME>
+      <MODEL>PL 6.35mm</MODEL>
+      <DETAILS>&amp;#9679    PL 6.35mm   .&amp;#9679      .&amp;#9679     .&amp;#9679     OFC.&amp;#9679   20AWG.&amp;#9679   1 .&amp;#9679  .&amp;#9679  Kirlin  IPCV2011MBK.  </DETAILS>
+      <CATALOG_NUMBER>1175</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kirlin</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.6.35mm.Cable.Male.To.Male.1M.Kirlin.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1176</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מקצועי PL 6.35mm באורך 3 מטר Kirlin</PRODUCT_NAME>
+      <MODEL>PL 6.35mm</MODEL>
+      <DETAILS>&amp;#9679    PL 6.35mm   .&amp;#9679      .&amp;#9679     .&amp;#9679     OFC.&amp;#9679   20AWG.&amp;#9679   3 .&amp;#9679  .&amp;#9679  Kirlin  IPCV2013MBK.  </DETAILS>
+      <CATALOG_NUMBER>1176</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>47</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kirlin</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.6.35mm.Cable.Male.To.Male.3M.Kirlin.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1177</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מקצועי PL 6.35mm באורך 5 מטר Kirlin</PRODUCT_NAME>
+      <MODEL>PL 6.35mm</MODEL>
+      <DETAILS>&amp;#9679    PL 6.35mm   .&amp;#9679      .&amp;#9679     .&amp;#9679     OFC.&amp;#9679   20AWG.&amp;#9679   5 .&amp;#9679  .&amp;#9679  Kirlin  IPCV2015MBK.  </DETAILS>
+      <CATALOG_NUMBER>1177</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kirlin</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.6.35mm.Cable.Male.To.Male.5M.Kirlin.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1220</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מקצועי XLR נקבה - זכר באורך 5 מטר Kirlin</PRODUCT_NAME>
+      <MODEL>XLR</MODEL>
+      <DETAILS>&amp;#9679     XLR () 3 .&amp;#9679  XLR    .&amp;#9679      .&amp;#9679    100%.&amp;#9679  OFC   99.9%  .&amp;#9679     .&amp;#9679  PVC CCAM.&amp;#9679   20AWG.&amp;#9679   5 .&amp;#9679  .&amp;#9679  Kirlin  MPC2805MBK.  </DETAILS>
+      <CATALOG_NUMBER>1220</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>62</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kirlin</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/XLR.Male.To.Female.Cable.5M.Kirlin.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1221</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מקצועי XLR נקבה - זכר באורך 10 מטר Kirlin</PRODUCT_NAME>
+      <MODEL>XLR</MODEL>
+      <DETAILS>&amp;#9679     XLR () 3 .&amp;#9679  XLR    .&amp;#9679      .&amp;#9679    100%.&amp;#9679  OFC   99.9%  .&amp;#9679     .&amp;#9679  PVC CCAM.&amp;#9679   20AWG.&amp;#9679   10 .&amp;#9679  .&amp;#9679  Kirlin  MPC28010MBK.  </DETAILS>
+      <CATALOG_NUMBER>1221</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>89</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kirlin</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/XLR.Male.To.Female.Cable.10M.Kirlin.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1223</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מקצועי PL 6.35mm זכר - XLR נקבה באורך 3 מטר Kirlin</PRODUCT_NAME>
+      <MODEL>XLR</MODEL>
+      <DETAILS>&amp;#9679   PL 6.35mm.&amp;#9679  PL 6.35mm   XLR .&amp;#9679      .&amp;#9679    100%.&amp;#9679  OFC   99.9%  .&amp;#9679     .&amp;#9679  PVC CCAM.&amp;#9679   20AWG.&amp;#9679   3 .&amp;#9679  .&amp;#9679  Kirlin  MPCV2823MBK.</DETAILS>
+      <CATALOG_NUMBER>1223</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>47</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kirlin</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PL.6.35mm.Male.To.XLR.Female.Cable.3M.Kirlin.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1248</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מתאם 3.5mm נקבה - 2.5mm זכר 3 מגעים</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   2.5mm   3.5mm .&amp;#9679 3  4 .&amp;#9679  20 .</DETAILS>
+      <CATALOG_NUMBER>1248</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Adapter.cable.Male.2.5mm.To.Female.3.5mm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1261</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5mm - 3xRCA למצלמות</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  PL 3.5mm  3xRCA .&amp;#9679  3.5  4  .&amp;#9679  1.5 .</DETAILS>
+      <CATALOG_NUMBER>1261</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3xRCA.Male.To.PL.3.5mm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1276</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PL 3.5mm סטריאו זכר - זכר 1 מטר Ugreen</PRODUCT_NAME>
+      <MODEL>PL 3.5mm</MODEL>
+      <DETAILS>&amp;#9679  PL 3.5mm    .&amp;#9679     100%.&amp;#9679  OFC   99.9%  .&amp;#9679   24k.&amp;#9679  PVC  .&amp;#9679  1 .&amp;#9679  Ugreen  AV101.  </DETAILS>
+      <CATALOG_NUMBER>1276</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.3.5mm.to.3.5.mm.Aux.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1428</PRODUCT_URL>
+      <PRODUCT_NAME>כבל USB זכר לשני חיבורי PL 3.5mm נקבה Ugreen</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  USB     .&amp;#9679   ABS.&amp;#9679     .&amp;#9679   28AWG.&amp;#9679  15 .&amp;#9679  .&amp;#9679  Ugreen  10789.  </DETAILS>
+      <CATALOG_NUMBER>1428</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.USB.2.0.External.Sound.Card.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1523</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו 3.5mm מסולסל Vention</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   Aux .&amp;#9679  3.5    .&amp;#9679     .&amp;#9679  OFC   99.9%.&amp;#9679    24K.&amp;#9679   PVC.&amp;#9679   90  120 .&amp;#9679  Vention  VABA031.  </DETAILS>
+      <CATALOG_NUMBER>1523</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Vention</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Vention.3.5mm.to.3.5mm.curled.cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1593</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו 3.5mm מסולסל עם מיקרופון אורך 2 מטר Ugreen</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   3.5mm   .&amp;#9679    24K.&amp;#9679   TPE.&amp;#9679  3   .&amp;#9679  2     .&amp;#9679  .&amp;#9679     Play   Pause.&amp;#9679 23    .&amp;#9679  2 .&amp;#9679  .&amp;#9679  Ugreen  AV129.</DETAILS>
+      <CATALOG_NUMBER>1593</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.3.5mm.coiled.audio.cable.2M.with.control.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1807</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מקצועי RCA קואקסיאלי  דיגיטלי  2 מטר Ugreen</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679   RCA   .&amp;#9679    100%.&amp;#9679    .&amp;#9679   24K.&amp;#9679   4 .&amp;#9679    .&amp;#9679     DVDBluray..&amp;#9679   2 .&amp;#9679  Ugreen  AV133.</DETAILS>
+      <CATALOG_NUMBER>1807</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.AV133.Digital.Coaxial.Rca.2M.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1808</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מקצועי RCA קואקסיאלי  דיגיטלי  3 מטר Ugreen</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   RCA   .&amp;#9679    100%.&amp;#9679    .&amp;#9679   24K.&amp;#9679   4 .&amp;#9679    .&amp;#9679      DVDBluray..&amp;#9679   3 .&amp;#9679  Ugreen  AV133.</DETAILS>
+      <CATALOG_NUMBER>1808</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>79</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.AV133.Digital.Coaxial.Rca.3M.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1809</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מקצועי RCA קואקסיאלי  דיגיטלי  5 מטר Ugreen</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   RCA   .&amp;#9679    100%.&amp;#9679    .&amp;#9679   24K.&amp;#9679   4 .&amp;#9679    .&amp;#9679      DVDBluray..&amp;#9679   5 .&amp;#9679  Ugreen  AV133.</DETAILS>
+      <CATALOG_NUMBER>1809</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>99</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.AV133.Digital.Coaxial.Rca.5M.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1854</PRODUCT_URL>
+      <PRODUCT_NAME>כבל 3xRCA מאריך באורך 1.5 מטר</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679  3xRCA  .&amp;#9679  3xRCA   .&amp;#9679    DVD   ....&amp;#9679   1.5 .</DETAILS>
+      <CATALOG_NUMBER>1854</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.RCA.Extension.Cable.1.5m.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1855</PRODUCT_URL>
+      <PRODUCT_NAME>כבל 3xRCA מאריך באורך 3 מטר</PRODUCT_NAME>
+      <MODEL>RCA</MODEL>
+      <DETAILS>&amp;#9679  3xRCA  .&amp;#9679  3xRCA   .&amp;#9679    DVD   ....&amp;#9679   3 .</DETAILS>
+      <CATALOG_NUMBER>1855</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3.RCA.Extension.Cable.3m.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1875</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מקצועי Ugreen RCAx2 - Aux 3.5mm</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   RCAx2  Aux 3.5mm.&amp;#9679     99.9%.&amp;#9679   24K.&amp;#9679  PVC.&amp;#9679   1 .&amp;#9679  Ugreen  AV116.  </DETAILS>
+      <CATALOG_NUMBER>1875</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.AV116.3.5mm.to.2RCA.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1960</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו 6.35mm - 3.5mm באורך 1.5 מטר Vention</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   6.35mm  3.5mm.&amp;#9679   24K.&amp;#9679   100%.&amp;#9679   4 .&amp;#9679   PVC.&amp;#9679   1.5 .&amp;#9679  Vention  BABB.</DETAILS>
+      <CATALOG_NUMBER>1960</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Vention</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Vention.3.5mm.to.6.35mm.Adapter.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1997</PRODUCT_URL>
+      <PRODUCT_NAME>כבל אודיו 3.5mm זוויתי מסולסל RAXFLY</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   Aux  .&amp;#9679  3.5    .&amp;#9679    .&amp;#9679  OFC   99.9%.&amp;#9679    24K.&amp;#9679   PVC.&amp;#9679   2 .&amp;#9679  RAXFLY  AU3.52M.</DETAILS>
+      <CATALOG_NUMBER>1997</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>RAXFLY</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/RAXFLY.3.5mm.Cable.2M.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

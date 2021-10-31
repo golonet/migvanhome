@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=436</PRODUCT_URL>
+      <PRODUCT_NAME>נתב אלחוטי/סלולרי 4G 300Mbps  תוצרת TP-Link דגם TL-MR3420</PRODUCT_NAME>
+      <MODEL>נתב סלולרי</MODEL>
+      <DETAILS>&amp;#9679   4G.&amp;#9679     4G LTE   .&amp;#9679     300Mbps.&amp;#9679 2   N    10dBi.&amp;#9679  64128bit WEP WPAPSKWPA2PSK.&amp;#9679 4    .&amp;#9679  USB  .&amp;#9679      ..&amp;#9679  204x138x44 .&amp;#9679  TPLink  TLMR3420.&amp;#9679  3    .   </DETAILS>
+      <CATALOG_NUMBER>436</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>205</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-Link</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3G.4G.Wireless.N.Router.TL-MR3420_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=437</PRODUCT_URL>
+      <PRODUCT_NAME>נתב אלחוטי + מודם 300Mbps תוצרת TP-Link דגם TD-W8961N</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    N.&amp;#9679   ADSL2  .&amp;#9679     300Mbps.&amp;#9679 2   N    10dBi.&amp;#9679  64128bit WEP WPAPSKWPA2PSK.&amp;#9679   SPINAT.&amp;#9679 4    .&amp;#9679    .&amp;#9679  195x130x35 .&amp;#9679  TPLink  TDW8961N.&amp;#9679  3    .   </DETAILS>
+      <CATALOG_NUMBER>437</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>185</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-Link</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/300Mbps.Wireless.N.ADSL2+.Modem.Router.TD-W8961N-11_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=438</PRODUCT_URL>
+      <PRODUCT_NAME>נתב מיני  סלולארי  נייד 150MBps  תוצרת  TP-Link דגם TL-MR3040</PRODUCT_NAME>
+      <MODEL>נתב סלולרי</MODEL>
+      <DETAILS>&amp;#9679     34G.&amp;#9679   2000mAh.&amp;#9679     4G LTE   .&amp;#9679     150MBps.&amp;#9679    1T1R.&amp;#9679  100x62x16 .&amp;#9679  TPLink  TLMR3040.&amp;#9679  3    .   </DETAILS>
+      <CATALOG_NUMBER>438</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>205</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-Link</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Portable.Battery.Powered.3G.4G.Wireless.N.Router.TL-MR3040_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=744</PRODUCT_URL>
+      <PRODUCT_NAME>נתב קווי + מודם מובנה TP-Link דגם TD-8840T</PRODUCT_NAME>
+      <MODEL>קווי</MODEL>
+      <DETAILS>&amp;#9679      ADSL2.&amp;#9679     .&amp;#9679 RJ11  ADSL.&amp;#9679 4   RJ45.&amp;#9679       .&amp;#9679          .&amp;#9679   24Mbps.&amp;#9679      .&amp;#9679  QoS          ...&amp;#9679  165x108x28 .&amp;#9679  3    .&amp;#9679  TPLink  TD8840T.  </DETAILS>
+      <CATALOG_NUMBER>744</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>105</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/ADSL2.+.Modem.Router.TD-8840T_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=745</PRODUCT_URL>
+      <PRODUCT_NAME>נתב אלחוטי מיני TP-Link דגם TL-WR702N</PRODUCT_NAME>
+      <MODEL>אלחוטי</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679     150Mbps.&amp;#9679   2.4GHZ.&amp;#9679    N.&amp;#9679  Micro USB    .&amp;#9679       .&amp;#9679  64128152bit WEPWPAWPA2WPAPSKWPA2PSK.&amp;#9679  57x57x18 .&amp;#9679  3    .&amp;#9679  TPLink  TLWR702N.  </DETAILS>
+      <CATALOG_NUMBER>745</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>105</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/150Mbps.Wireless.N.Nano.Router.TL-WR702N_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=746</PRODUCT_URL>
+      <PRODUCT_NAME>נתב מיני סלולארי TP-Link 4G דגם TL-MR3020</PRODUCT_NAME>
+      <MODEL>סלולרי</MODEL>
+      <DETAILS>&amp;#9679    34G.&amp;#9679     150Mbps.&amp;#9679    N.&amp;#9679   2.4GHZ.&amp;#9679  64128 bit WEPWPAPSKWPA2PSKWireless MAC Filtering&amp;#9679   WPS.&amp;#9679  QoS          ...&amp;#9679    3G4GWISP ClientTravel Router AP.&amp;#9679  USB  .&amp;#9679  74x67x22 .&amp;#9679  3    .&amp;#9679  TPLink  TLMR3020.  </DETAILS>
+      <CATALOG_NUMBER>746</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>125</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Portable.3G.4G.Wireless.N.Router.TL-MR3020_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=747</PRODUCT_URL>
+      <PRODUCT_NAME>נתב אלחוטי/סלולארי TP-Link 4G דגם TL-MR3220</PRODUCT_NAME>
+      <MODEL>אלחוטי/סלולרי</MODEL>
+      <DETAILS>&amp;#9679   34G.&amp;#9679   HSUPAHSDPAUMTSUSB EVDOLTEHSPA.&amp;#9679     150Mbps.&amp;#9679    N.&amp;#9679 4    RJ45  10100Mbps.&amp;#9679 64128bit WEPWPAWPA2 and WPAPSKWPA2PSK encryption.&amp;#9679   WPS.&amp;#9679   Support 64128 bit WEP WPAPSKWPA2PSK Wireless MAC Filtering&amp;#9679      .&amp;#9679          .&amp;#9679  204x138x44 .&amp;#9679  3    .&amp;#9679  TPLink  TLMR3220.  </DETAILS>
+      <CATALOG_NUMBER>747</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>145</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/3G.4G.Wireless.N.Router.TL-MR3220_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1397</PRODUCT_URL>
+      <PRODUCT_NAME>נתב אלחוטי / מודם TP-Link VDSL2 דגם TD-W9970</PRODUCT_NAME>
+      <MODEL>VDSL2</MODEL>
+      <DETAILS>&amp;#9679     VDSL2.&amp;#9679  VDSL2   ADSL2ADSL2ADSL.&amp;#9679      100Mbps.&amp;#9679      5dBi  .&amp;#9679     300Mbps..&amp;#9679 4   RJ45.&amp;#9679   RJ11.&amp;#9679  USB 2.0      FTP.&amp;#9679    IPv6.&amp;#9679    Support 64128 bit WEP WPA WPA2 WPAPSKWPA2PSK.&amp;#9679  .&amp;#9679    .&amp;#9679  Windows XPVista788.1  Mac OS  Linux.  &amp;#9679  3    .&amp;#9679  TPLink  TDW9970.  </DETAILS>
+      <CATALOG_NUMBER>1397</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>315</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>TP-LINK</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/VDSL2.Modem.Router.TD-W9970.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=68</PRODUCT_URL>
+      <PRODUCT_NAME>פטיש חירום לרכב</PRODUCT_NAME>
+      <MODEL>חירום</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679      .&amp;#9679     .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>68</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Emergency.Hammer.Car.Escape.Tool.Car.Safety.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=156</PRODUCT_URL>
+      <PRODUCT_NAME>רמקול בלוטוס +דיבורית Divoom דגם Bluetune-Bean - אדום</PRODUCT_NAME>
+      <MODEL>רמקול בלוטוס</MODEL>
+      <DETAILS>                   USB   68x45x92  107   Divoom  BluetuneBean.          3.0   400 mAh   6    75dB  80Hz20000kHz 4 Ohm  Bluetooth  A2DP </DETAILS>
+      <CATALOG_NUMBER>156</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>145</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Divoom</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Bluetune.BEAN.Red.Divoom_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=157</PRODUCT_URL>
+      <PRODUCT_NAME>רמקול בלוטוס +דיבורית Divoom דגם Bluetune-Bean - שחור</PRODUCT_NAME>
+      <MODEL>רמקול בלוטוס</MODEL>
+      <DETAILS>                   USB   68x45x92  107  . Divoom  BluetuneBean.          3.0   400 mAh   6    75dB  80Hz20000kHz 4 Ohm  Bluetooth  A2DP </DETAILS>
+      <CATALOG_NUMBER>157</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>145</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Divoom</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Bluetune.BEAN.Black.Divoom_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=536</PRODUCT_URL>
+      <PRODUCT_NAME>תאורת אזהרה מהבהבת LED</PRODUCT_NAME>
+      <MODEL>פנסים</MODEL>
+      <DETAILS>&amp;#9679    8  . &amp;#9679     . &amp;#9679      . &amp;#9679     . &amp;#9679   . &amp;#9679  .&amp;#9679  Ecotec  HL7502C.</DETAILS>
+      <CATALOG_NUMBER>536</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ecotec</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Flashing.warning.lights.Orange_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=609</PRODUCT_URL>
+      <PRODUCT_NAME>סט כבלי התנעה 600AMP באורך 2.5 מטר</PRODUCT_NAME>
+      <MODEL>כבל התנעה</MODEL>
+      <DETAILS>&amp;#9679    600AMP.&amp;#9679  2.5 .</DETAILS>
+      <CATALOG_NUMBER>609</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>75</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Booster.Cable.600AMP.2.5m.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=610</PRODUCT_URL>
+      <PRODUCT_NAME>סט כבלי התנעה 800AMP באורך 2.5 מטר</PRODUCT_NAME>
+      <MODEL>כבל התנעה</MODEL>
+      <DETAILS>&amp;#9679    800AMP.&amp;#9679  2.5 .</DETAILS>
+      <CATALOG_NUMBER>610</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>95</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Booster.Cable.800AMP.2.5m.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=611</PRODUCT_URL>
+      <PRODUCT_NAME>סט נתיכים לרכב מסוג תקע</PRODUCT_NAME>
+      <MODEL>סט פיוזים</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   57.51015202530A.&amp;#9679 10 .</DETAILS>
+      <CATALOG_NUMBER>611</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Plug.fuses.panel.10.pcs.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=612</PRODUCT_URL>
+      <PRODUCT_NAME>סט נתיכים לרכב מסוג מיני</PRODUCT_NAME>
+      <MODEL>סט פיוזים</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   57.51015202530A.&amp;#9679 10 .</DETAILS>
+      <CATALOG_NUMBER>612</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mini.fuses.panel.10.pcs.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=614</PRODUCT_URL>
+      <PRODUCT_NAME>בוסטר נייד להנעת רכב עד 3000 סמ''ק</PRODUCT_NAME>
+      <MODEL>בוסטרים</MODEL>
+      <DETAILS>&amp;#9679      3000 .&amp;#9679  6000mAh.&amp;#9679   DC 12V100200A.&amp;#9679  USB 2.1A5V  ...&amp;#9679       .&amp;#9679  143x79x17   298 .&amp;#9679    . &amp;#9679  .&amp;#9679   USB.&amp;#9679    USB.&amp;#9679  . 1.     23 2.              3.      4 .3.        .</DETAILS>
+      <CATALOG_NUMBER>614</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>320</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>PLAN B</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Car.Jump.Starter.6000mAh.1.in.4.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1056</PRODUCT_URL>
+      <PRODUCT_NAME>זוג נעלי כבל למצבר</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>1056</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Boots.battery.cable.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1087</PRODUCT_URL>
+      <PRODUCT_NAME>אנטנה קצרה לרכב Spar-tec</PRODUCT_NAME>
+      <MODEL>אנטנה</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679  .&amp;#9679  18 .&amp;#9679     .&amp;#9679  Spartec  110ANT732.</DETAILS>
+      <CATALOG_NUMBER>1087</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Antenna.18cm.For.Car.Spar-tec.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1088</PRODUCT_URL>
+      <PRODUCT_NAME>אנטנה ארוכה לרכב Spar-tec</PRODUCT_NAME>
+      <MODEL>אנטנה</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679  41 .&amp;#9679     .&amp;#9679  Spartec  110ANT914.</DETAILS>
+      <CATALOG_NUMBER>1088</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Antenna.41cm.For.Car.Spar-tec.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1091</PRODUCT_URL>
+      <PRODUCT_NAME>תרסיס נגד בקטריות ועובש במזגן</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679     .&amp;#9679      .&amp;#9679   .&amp;#9679        .&amp;#9679      .&amp;#9679  Sunrise .</DETAILS>
+      <CATALOG_NUMBER>1091</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Sunrise</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Healthy.For.Air.Conditioners.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1092</PRODUCT_URL>
+      <PRODUCT_NAME>מצית סיגריות מואר לרכב Spar-tec</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679   .&amp;#9679  12V.&amp;#9679  Spartec  110LIGHT005.</DETAILS>
+      <CATALOG_NUMBER>1092</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Auto.Cigarette.Lighter.12V.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1104</PRODUCT_URL>
+      <PRODUCT_NAME>ספריי לתיקון פנצ'ר American Eagle</PRODUCT_NAME>
+      <MODEL>מתקן פנצ'ר</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679        4 .&amp;#9679      .&amp;#9679  340 400 .&amp;#9679  American Eagle.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1104</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>American Eagle</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Tire.Sealer.Spray.American.Eagle.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1161</PRODUCT_URL>
+      <PRODUCT_NAME>אפוד זוהר תקני צהוב לרכב</PRODUCT_NAME>
+      <MODEL>אפוד זוהר</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679     .&amp;#9679   100%.&amp;#9679  XL.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1161</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Yellow.Glow.Vest.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1166</PRODUCT_URL>
+      <PRODUCT_NAME>משולש אזהרה תקני לרכב</PRODUCT_NAME>
+      <MODEL>בטיחות</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1166</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Warning.Triangle.For.Car.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1172</PRODUCT_URL>
+      <PRODUCT_NAME>קיט נייר מכהה לחלונות הרכב 1%</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679 99% .&amp;#9679    .&amp;#9679    .&amp;#9679     .&amp;#9679  300x50 .&amp;#9679     .&amp;#9679  Spartec  U.S.D BLACK.</DETAILS>
+      <CATALOG_NUMBER>1172</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Solar.window.film.U.S.D.Black.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1173</PRODUCT_URL>
+      <PRODUCT_NAME>קיט נייר מכהה לחלונות הרכב 5%</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679 95% .&amp;#9679    .&amp;#9679    .&amp;#9679     .&amp;#9679  300x50 .&amp;#9679     .&amp;#9679  Spartec  S.D BLACK.</DETAILS>
+      <CATALOG_NUMBER>1173</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Solar.window.film.S.D.Black.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1174</PRODUCT_URL>
+      <PRODUCT_NAME>קיט נייר מכהה לחלונות הרכב 20%</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679 80% .&amp;#9679    .&amp;#9679    .&amp;#9679     .&amp;#9679  300x50 .&amp;#9679     .&amp;#9679  Spartec  M BLACK.</DETAILS>
+      <CATALOG_NUMBER>1174</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Solar.window.film.M.Black.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1224</PRODUCT_URL>
+      <PRODUCT_NAME>דיבורית בלוטוס לרכב FineBlue דגם T822</PRODUCT_NAME>
+      <MODEL>דיבורית לרכב</MODEL>
+      <DETAILS>&amp;#9679  Bluetooth 4.1 .&amp;#9679     .&amp;#9679    A2DP.&amp;#9679   2x3W.&amp;#9679    .&amp;#9679    3.7V500mAh.&amp;#9679    15 .&amp;#9679   700 .&amp;#9679  .&amp;#9679  FineBlue  T822.</DETAILS>
+      <CATALOG_NUMBER>1224</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>155</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>FineBlue</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/FineBlue.T822.Bluetooth.car.speaker.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1243</PRODUCT_URL>
+      <PRODUCT_NAME>מצלמת תיעוד לרכב NovoGo דגם NV09</PRODUCT_NAME>
+      <MODEL>מצלמת דרך</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   1.8inch  LCD.&amp;#9679   640x480 VGA.&amp;#9679     120 .&amp;#9679   Micro SD   32GB.&amp;#9679   .&amp;#9679   .&amp;#9679   .&amp;#9679      .&amp;#9679    .&amp;#9679  NovoGo  NV09.</DETAILS>
+      <CATALOG_NUMBER>1243</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>129</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>NovoGo</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Car.video.camera.NovoGo.NV09.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1244</PRODUCT_URL>
+      <PRODUCT_NAME>מצלמת תיעוד לרכב NovoGo דגם NV12HD</PRODUCT_NAME>
+      <MODEL>מצלמת דרך</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   2.0inch  LCD.&amp;#9679   1280x720 HD.&amp;#9679     120 .&amp;#9679     .&amp;#9679   Micro SD   16GB.&amp;#9679   SD  32GB.&amp;#9679   .&amp;#9679    520mAh.&amp;#9679   .&amp;#9679      .&amp;#9679    .&amp;#9679  AV.&amp;#9679  NovoGo  NV12HD.</DETAILS>
+      <CATALOG_NUMBER>1244</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>240</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>NovoGo</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Car.video.camera.NovoGo.NV12HD.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1457</PRODUCT_URL>
+      <PRODUCT_NAME>קיט נייר מכהה לחלונות הרכב 15%</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679 85% .&amp;#9679    .&amp;#9679    .&amp;#9679     .&amp;#9679  300x50 .&amp;#9679     .&amp;#9679  Spartec  D. BLACK.</DETAILS>
+      <CATALOG_NUMBER>1457</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Solar.window.film.D.Black.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1458</PRODUCT_URL>
+      <PRODUCT_NAME>קיט נייר מכהה לחלונות הרכב 25%</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679 75% .&amp;#9679    .&amp;#9679    .&amp;#9679     .&amp;#9679  300x50 .&amp;#9679     .&amp;#9679  Spartec  BLACK.</DETAILS>
+      <CATALOG_NUMBER>1458</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Solar.window.film.Black.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1459</PRODUCT_URL>
+      <PRODUCT_NAME>קיט נייר מכהה לחלונות הרכב 40%</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679 60% .&amp;#9679    .&amp;#9679    .&amp;#9679     .&amp;#9679  300x50 .&amp;#9679     .&amp;#9679  Spartec  L. BLACK.</DETAILS>
+      <CATALOG_NUMBER>1459</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>20</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Solar.window.film.L.Black.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1464</PRODUCT_URL>
+      <PRODUCT_NAME>וילון אחורי לרכב 90 ס''מ</PRODUCT_NAME>
+      <MODEL>וילון אחורי</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   .&amp;#9679  90 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1464</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Car.Rear.curtain.90cm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1465</PRODUCT_URL>
+      <PRODUCT_NAME>וילון אחורי לרכב 100 ס''מ</PRODUCT_NAME>
+      <MODEL>וילון אחורי</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   .&amp;#9679  100 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1465</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Car.Rear.curtain.100cm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1466</PRODUCT_URL>
+      <PRODUCT_NAME>וילון אחורי לרכב 110 ס''מ</PRODUCT_NAME>
+      <MODEL>וילון אחורי</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   .&amp;#9679  110 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1466</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Car.Rear.curtain.110cm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1467</PRODUCT_URL>
+      <PRODUCT_NAME>מסגרת אוניברסלית למצבר</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679  Spartec  BAA1750.</DETAILS>
+      <CATALOG_NUMBER>1467</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Holder.Car.battery.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1468</PRODUCT_URL>
+      <PRODUCT_NAME>זוג פסים זוהרים לרכב</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679 2    .&amp;#9679  .&amp;#9679        1995.</DETAILS>
+      <CATALOG_NUMBER>1468</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Glowing.streaks.For.Car.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1470</PRODUCT_URL>
+      <PRODUCT_NAME>מראה פנורמית עגולה לרכב</PRODUCT_NAME>
+      <MODEL>מראה פנורמית</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1470</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>14</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Spot.Mirror.For.Car.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1472</PRODUCT_URL>
+      <PRODUCT_NAME>נרתיק דיסקים למגן שמש</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679 10   CDDVD.&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1472</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/CD.Visor.Organizer.Holds.10.CD.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1473</PRODUCT_URL>
+      <PRODUCT_NAME>מאפרה לרכב</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>1473</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Car.Ashtray.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1474</PRODUCT_URL>
+      <PRODUCT_NAME>משפך לרכב</PRODUCT_NAME>
+      <MODEL>משפך</MODEL>
+      <DETAILS>&amp;#9679  .&amp;#9679     .&amp;#9679     .&amp;#9679   .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1474</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Funnel.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1476</PRODUCT_URL>
+      <PRODUCT_NAME>זוג מסגרות מניקל ללוחית רישוי</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679   .&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>1476</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Nickel.license.plate.frame.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1568</PRODUCT_URL>
+      <PRODUCT_NAME>קומפרסור מקצועי 2 בוכנות לרכב Spar-tec</PRODUCT_NAME>
+      <MODEL>מדחס לרכב</MODEL>
+      <DETAILS>&amp;#9679   12V .&amp;#9679 2   30 .&amp;#9679      .&amp;#9679  .&amp;#9679   .&amp;#9679    ...&amp;#9679    .&amp;#9679  200W.&amp;#9679  15A.&amp;#9679  45L  Min.&amp;#9679  Spartec  110com318.</DETAILS>
+      <CATALOG_NUMBER>1568</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>290</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/2.Cylinder.Air.Compressor.SparTec.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1569</PRODUCT_URL>
+      <PRODUCT_NAME>קומפרסור מקצועי בוכנה אחת לרכב</PRODUCT_NAME>
+      <MODEL>מדחס לרכב</MODEL>
+      <DETAILS>&amp;#9679   12V .&amp;#9679      .&amp;#9679    ...&amp;#9679   140PSI.&amp;#9679  10A.&amp;#9679  35L  Min.</DETAILS>
+      <CATALOG_NUMBER>1569</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>150</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/1.Cylinder.140PSI.Air.Compressor.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1570</PRODUCT_URL>
+      <PRODUCT_NAME>קומפרסור מיני 250PSI לרכב Spar-tec</PRODUCT_NAME>
+      <MODEL>מדחס לרכב</MODEL>
+      <DETAILS>&amp;#9679   12V .&amp;#9679      .&amp;#9679    ...&amp;#9679   250PSI.&amp;#9679  SFree  Mini 250PSI.</DETAILS>
+      <CATALOG_NUMBER>1570</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>S-Free</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Mini.Air.Compressor.250PSI.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1617</PRODUCT_URL>
+      <PRODUCT_NAME>מפתח צלב לגלגלי הרכב</PRODUCT_NAME>
+      <MODEL>מפתח צלב</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679 4   17192123 .&amp;#9679    .&amp;#9679  Spartec  110WRE113.</DETAILS>
+      <CATALOG_NUMBER>1617</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Four.way.Wheel.spanner.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1622</PRODUCT_URL>
+      <PRODUCT_NAME>מטען לרכב Rocketek 8A/40W דגם CC4S</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   4  USB.&amp;#9679     USB.&amp;#9679   DC 12  24V.&amp;#9679   DC 5V8A  40W.&amp;#9679   10A .&amp;#9679   90 .&amp;#9679  9.2x3.5x2.5 .&amp;#9679  Rocketek  CC4S.</DETAILS>
+      <CATALOG_NUMBER>1622</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>85</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Rocketek</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Rocketek.car.charger.4.Ports.USB.8A.50W.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1623</PRODUCT_URL>
+      <PRODUCT_NAME>מטען לרכב Rocketek 6A/30W דגם RT-CC24</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   4  USB.&amp;#9679 2     120W.&amp;#9679   DC 12  24V.&amp;#9679   DC 5V6A  30W.&amp;#9679   10A .&amp;#9679   90 .&amp;#9679  6.5x5.6x3.2 .&amp;#9679  Rocketek  RTCC24.  </DETAILS>
+      <CATALOG_NUMBER>1623</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>95</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Rocketek</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Rocketek.RT-CC24.car.charger.4.port.USB.2.Sockets.Cigarette.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1639</PRODUCT_URL>
+      <PRODUCT_NAME>וילון צד משקפיים  מלבני - זוג</PRODUCT_NAME>
+      <MODEL>וילון צד</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   .&amp;#9679  44x36 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1639</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>10</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Side.window.mesh.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1640</PRODUCT_URL>
+      <PRODUCT_NAME>בוסטר נייד להנעת רכבים LUNDA 12.800mAh</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679  12.800mAh.&amp;#9679      6000     3000 .&amp;#9679       .&amp;#9679 4    .&amp;#9679 4  USB.&amp;#9679  DC 15V1A  .&amp;#9679  .&amp;#9679   .&amp;#9679  170x80x30  400 .</DETAILS>
+      <CATALOG_NUMBER>1640</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>390</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>LUNDA</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/LUNDA.Car.Jump.Starter.12800mAh.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1691</PRODUCT_URL>
+      <PRODUCT_NAME>זוג וילונות הלבשה מעוגל לרכב מידה American Eagle L</PRODUCT_NAME>
+      <MODEL>וילונות</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679  .&amp;#9679  L.&amp;#9679  American Eagle   XL.</DETAILS>
+      <CATALOG_NUMBER>1691</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>American Eagle</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Sun.Shield.Size.L.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1692</PRODUCT_URL>
+      <PRODUCT_NAME>זוג וילונות הלבשה מעוגל לרכב מידה American Eagle XL</PRODUCT_NAME>
+      <MODEL>וילונות</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679  .&amp;#9679  XL.&amp;#9679  American Eagle   XL.</DETAILS>
+      <CATALOG_NUMBER>1692</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>American Eagle</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Sun.Shield.Size.XL.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1699</PRODUCT_URL>
+      <PRODUCT_NAME>וילון משקפיים קדמי לרכב מידה XL</PRODUCT_NAME>
+      <MODEL>וילון קדמי</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679     .&amp;#9679  .&amp;#9679    .&amp;#9679    .&amp;#9679  150x80  XL.&amp;#9679  .&amp;#9679  Spartec   XL.</DETAILS>
+      <CATALOG_NUMBER>1699</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>SparTec</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Collapsible.auto.mindshield.sunscreen.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1831</PRODUCT_URL>
+      <PRODUCT_NAME>מטען לרכב Rocketek 6A/QC 2.0 דגם RT-CC25</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   6AQC 2.0120W.&amp;#9679 4  USB  6.2A.&amp;#9679  USB Qualcomm 2.0 .&amp;#9679 2     120W.&amp;#9679   DC 12  24V.&amp;#9679   DC 5V6.2A  30W.&amp;#9679   10A .&amp;#9679   90 .&amp;#9679  Qualcomm.&amp;#9679  Rocketek  RTCC25.  </DETAILS>
+      <CATALOG_NUMBER>1831</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>125</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Rocketek</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Rocketek.RT-CC25.2.Sockets.and.5.USB.Car.Charger.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1915</PRODUCT_URL>
+      <PRODUCT_NAME>כבלים לבוסטר התנעה</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1915</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>42</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Clips.for.car.emergency.jump.starter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1972</PRODUCT_URL>
+      <PRODUCT_NAME>ממיר מתח לרכב 150W</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679     220V  12V.&amp;#9679   .&amp;#9679  150W.&amp;#9679   DC 12V.&amp;#9679   AC 220V 60Hz.&amp;#9679   USB  500mA.&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1972</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>89</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/150W.Car.Power.Inverter.12V.DC.to-220V.AC.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1419</PRODUCT_URL>
+      <PRODUCT_NAME>קופה ממוחשבת ניידת Senor דגם 105 iSPOS</PRODUCT_NAME>
+      <MODEL>10In</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679    10In  768x1024.&amp;#9679  Intel D525 Dual Cure 1.8GHz.&amp;#9679  DDR3 2GB 1066MHz.&amp;#9679   SSD 32GB.&amp;#9679   .&amp;#9679    .&amp;#9679   RJ45 1000Mbps.&amp;#9679   USB 2.0.&amp;#9679    .&amp;#9679  .&amp;#9679   .&amp;#9679  255x165x280  3 .&amp;#9679     .&amp;#9679  Senor  105 iSPOS.</DETAILS>
+      <CATALOG_NUMBER>1419</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>3350</PRICE>
+      <SHIPMENT_COST>25</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Senor</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Senor.iSPOS.105.POS.System.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

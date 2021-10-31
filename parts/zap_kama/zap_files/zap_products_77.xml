@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=22</PRODUCT_URL>
+      <PRODUCT_NAME>&#13;
+שכפול 100 דיסקים מסוג CD-R 700mb</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  100   CDR 700mb.&amp;#9679       RiDATARitek.&amp;#9679       .&amp;#9679          .100     120 100     250 100  DVD       110 100   DVD       90 100  DVD  14   90 100  DVD  14   150 100   DVD  5   50 </DETAILS>
+      <CATALOG_NUMBER>22</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>150</PRICE>
+      <SHIPMENT_COST>18</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/CD.Duplication_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=23</PRODUCT_URL>
+      <PRODUCT_NAME>שכפול 100 דיסקים מסוג DVD-R 4.7GB</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  100   DVDR 4.7GB.&amp;#9679       RiDATARitek.&amp;#9679       .&amp;#9679          .100     120 100     250 100  DVD       110 100   DVD       90 100  DVD  14   90 100  DVD  14   150 100   DVD  5   50 </DETAILS>
+      <CATALOG_NUMBER>23</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>175</PRICE>
+      <SHIPMENT_COST>18</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/CD.Duplication_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=24</PRODUCT_URL>
+      <PRODUCT_NAME>שכפול 100 דיסקים מסוג DVD+R DL 8.5GB</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  100   DVDR DL 8.5GB.&amp;#9679       Verbatim.&amp;#9679       .&amp;#9679          .100     120 100     250 100  DVD       110 100   DVD       90 100  DVD  14   90 100  DVD  14   150 100   DVD  5   50 </DETAILS>
+      <CATALOG_NUMBER>24</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>600</PRICE>
+      <SHIPMENT_COST>18</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/CD.Duplication_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

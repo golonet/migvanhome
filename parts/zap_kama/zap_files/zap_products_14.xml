@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1291</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון למחשב נייח Kingston 2GB DDR3</PRODUCT_NAME>
+      <MODEL>DDR3</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679  DDR3.&amp;#9679  2GB.&amp;#9679    1333MHz.&amp;#9679  1.5V.&amp;#9679  9CL.&amp;#9679    1.050W.&amp;#9679   260ns.&amp;#9679    (tRASmin) 36ns.&amp;#9679    (tRCmin) 49.125ns.&amp;#9679  UL 94V0.&amp;#9679   085 ..&amp;#9679   55  100 ..&amp;#9679  Kingston   KVR13N9S62.  </DETAILS>
+      <CATALOG_NUMBER>1291</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>120</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Kingston.KVR13N9S6.2.2GB.DDR3.1333MHz.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1292</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון למחשב נייח Kingston Hyper X FURY 4GB DDR3</PRODUCT_NAME>
+      <MODEL>DDR3</MODEL>
+      <DETAILS>&amp;#9679    Hyper X FURY.&amp;#9679  DDR3.&amp;#9679  4GB.&amp;#9679    1600MHz.&amp;#9679  1.5V.&amp;#9679  .&amp;#9679  10CL.&amp;#9679    1.050W.&amp;#9679   260ns.&amp;#9679    (tRASmin) 37.5ns.&amp;#9679    (tRCmin) 48.125ns.&amp;#9679  UL 94V0.&amp;#9679   085 ..&amp;#9679   55  100 .&amp;#9679  Kingston  HX316C10F4.  </DETAILS>
+      <CATALOG_NUMBER>1292</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>175</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Kingston.HyperX.FURY.4GB.DDR3.1600MHz.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1293</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון למחשב נייח Kingston Hyper X FURY 8GB DDR3</PRODUCT_NAME>
+      <MODEL>DDR3</MODEL>
+      <DETAILS>&amp;#9679    Hyper X FURY.&amp;#9679  DDR3.&amp;#9679  8GB.&amp;#9679    1600MHz.&amp;#9679  1.5V.&amp;#9679  .&amp;#9679  10CL.&amp;#9679    1.050W.&amp;#9679   260ns.&amp;#9679    (tRASmin) 37.5ns.&amp;#9679    (tRCmin) 48.125ns.&amp;#9679  UL 94V0.&amp;#9679   085 ..&amp;#9679   55  100 .&amp;#9679  Kingston  HX316C10F8.  </DETAILS>
+      <CATALOG_NUMBER>1293</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>285</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>3 שנים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Kingston.HyperX.FURY.8GB.DDR3.1600MHz.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1294</PRODUCT_URL>
+      <PRODUCT_NAME>זיכרון למחשב נייד Kingston 4GB DDR3 1.35v</PRODUCT_NAME>
+      <MODEL>DDR3</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679  DDR3.&amp;#9679  4GB.&amp;#9679    1600MHz.&amp;#9679  1.35V.&amp;#9679  Kingston  KVR16LS114.  </DETAILS>
+      <CATALOG_NUMBER>1294</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>169</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Kingston</MANUFACTURER>
+      <WARRANTY>שנתיים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Kingston.KVR16LS11.4.4GB.DDR.3.1.35v.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

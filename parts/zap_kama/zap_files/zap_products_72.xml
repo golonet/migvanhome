@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=306</PRODUCT_URL>
+      <PRODUCT_NAME>קונקטור נקבה לכבל אנטנה RG6</PRODUCT_NAME>
+      <MODEL>מתאם לכבל אנטנה</MODEL>
+      <DETAILS>&amp;#9679     RG6&amp;#9679      ..&amp;#9679    RG6.</DETAILS>
+      <CATALOG_NUMBER>306</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>3</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Telran</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/RF.Coax.F.Female.to.PAL.Male.Connector.TV.Antenna.Connector.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=462</PRODUCT_URL>
+      <PRODUCT_NAME>קונקטור הברגה לכבל RG6</PRODUCT_NAME>
+      <MODEL>RF</MODEL>
+      <DETAILS>&amp;#9679   RG6.&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>462</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>10</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Telran</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Connector.Plug.for.RG6.Coaxial.Cable_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=952</PRODUCT_URL>
+      <PRODUCT_NAME>תקע DC 5.5/2.1 להלחמה לכבל</PRODUCT_NAME>
+      <MODEL>DC</MODEL>
+      <DETAILS>&amp;#9679  DC 5.52.1  .&amp;#9679  9.5 .&amp;#9679   5.5 .&amp;#9679   2.1 . &amp;#9679  24 .&amp;#9679   . </DETAILS>
+      <CATALOG_NUMBER>952</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>4</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DC.plug.5.5x2.1.cable.soldering.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=953</PRODUCT_URL>
+      <PRODUCT_NAME>תקע DC 5.5/2.5 להלחמה לכבל</PRODUCT_NAME>
+      <MODEL>DC</MODEL>
+      <DETAILS>&amp;#9679  DC 5.52.5  .&amp;#9679  9.5 .&amp;#9679   5.5 .&amp;#9679   2.5 . &amp;#9679  24 .&amp;#9679   . </DETAILS>
+      <CATALOG_NUMBER>953</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>4</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DC.plug.5.5x2.5.cable.soldering.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1571</PRODUCT_URL>
+      <PRODUCT_NAME>קונקטור RJ45 לכבל רשת CAT5/5e</PRODUCT_NAME>
+      <MODEL>רשת</MODEL>
+      <DETAILS>&amp;#9679  RJ45 8P8C.&amp;#9679     .&amp;#9679    CAT55E.&amp;#9679 6 .</DETAILS>
+      <CATALOG_NUMBER>1571</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>4</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Shield.RJ45.UTP.CAT5.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1572</PRODUCT_URL>
+      <PRODUCT_NAME>קונקטור מסוכך RJ45 לכבל רשת CAT5/5e</PRODUCT_NAME>
+      <MODEL>רשת</MODEL>
+      <DETAILS>&amp;#9679   RJ45 8P8C.&amp;#9679    .&amp;#9679     .&amp;#9679    CAT55E.&amp;#9679 6 .</DETAILS>
+      <CATALOG_NUMBER>1572</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>8</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Metal.Shield.RJ45.CAT5.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1584</PRODUCT_URL>
+      <PRODUCT_NAME>פלאג בננה לחיבור כבל רמקול</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679   .&amp;#9679     25 .</DETAILS>
+      <CATALOG_NUMBER>1584</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>6</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Plug.Connector.For.Audio.Speaker.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1586</PRODUCT_URL>
+      <PRODUCT_NAME>פלאג בננה מקצועי לחיבור כבל רמקול Nakamichi</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS> &amp;#9679    .&amp;#9679   24K.&amp;#9679     .&amp;#9679   4 .&amp;#9679     820AWG.&amp;#9679  Nakamichi  0534B1.</DETAILS>
+      <CATALOG_NUMBER>1586</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Nakamichi</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Nakamichi.Speaker.banana.plug.connector.24k.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1588</PRODUCT_URL>
+      <PRODUCT_NAME>קונקטור מסוכך RJ45 לכבל רשת CAT6</PRODUCT_NAME>
+      <MODEL>רשת</MODEL>
+      <DETAILS>&amp;#9679   RJ45 8P8C.&amp;#9679    .&amp;#9679     .&amp;#9679    CAT6.&amp;#9679 6 .</DETAILS>
+      <CATALOG_NUMBER>1588</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Metal.Shield.RJ45.CAT6.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1847</PRODUCT_URL>
+      <PRODUCT_NAME>פלאג RCA דיגיטלי מקצועי Nakamichi</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS> &amp;#9679   RCA  .&amp;#9679   24K.&amp;#9679     .&amp;#9679     .&amp;#9679   4 .&amp;#9679    10 .&amp;#9679  Nakamichi  0534B1.</DETAILS>
+      <CATALOG_NUMBER>1847</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Nakamichi</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Nakamichi.RCA.Digital.Connector.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1905</PRODUCT_URL>
+      <PRODUCT_NAME>קונקטור לחיצה לכבל RG6</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   RG6.&amp;#9679     .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1905</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>3</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Telran</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/RG6.coaxial.f-Type.compression.connector.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2036</PRODUCT_URL>
+      <PRODUCT_NAME>תקע DC 4.8/1.7 להלחמה לכבל</PRODUCT_NAME>
+      <MODEL>DC</MODEL>
+      <DETAILS>&amp;#9679  4.81.7  .&amp;#9679  9.5 .&amp;#9679   4.8 .&amp;#9679   1.7 . &amp;#9679  24 .&amp;#9679   . </DETAILS>
+      <CATALOG_NUMBER>2036</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>4</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DC.plug.4.8x1.7.cable.soldering.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2037</PRODUCT_URL>
+      <PRODUCT_NAME>תקע DC 2.5/0.7 להלחמה לכבל</PRODUCT_NAME>
+      <MODEL>DC</MODEL>
+      <DETAILS>&amp;#9679  2.50.7  .&amp;#9679  9.5 .&amp;#9679   2.5 .&amp;#9679   0.7 . &amp;#9679  24 .&amp;#9679   . </DETAILS>
+      <CATALOG_NUMBER>2037</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>4</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DC.plug.2.5x0.7.cable.soldering.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2038</PRODUCT_URL>
+      <PRODUCT_NAME>תקע DC 3.5/1.35 להלחמה לכבל</PRODUCT_NAME>
+      <MODEL>DC</MODEL>
+      <DETAILS>&amp;#9679  3.51.35  .&amp;#9679  9.5 .&amp;#9679   3.5 .&amp;#9679   1.35 . &amp;#9679  24 .&amp;#9679   . </DETAILS>
+      <CATALOG_NUMBER>2038</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>4</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DC.plug.3.5x1.35.cable.soldering.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

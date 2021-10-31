@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=242</PRODUCT_URL>
+      <PRODUCT_NAME>כבל SATA - DATA עם נעילה - 0.5 מטר</PRODUCT_NAME>
+      <MODEL>SATA</MODEL>
+      <DETAILS>&amp;#9679  SATA  DATA  7 .&amp;#9679        .&amp;#9679         .&amp;#9679  0.5 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>242</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>9</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SATA.Data.Cable.with.Lock_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=243</PRODUCT_URL>
+      <PRODUCT_NAME>כבל SATA - DATA עם נעילה - 1 מטר </PRODUCT_NAME>
+      <MODEL>SATA</MODEL>
+      <DETAILS>&amp;#9679  SATA  DATA  7 .&amp;#9679        .&amp;#9679         .&amp;#9679  1 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>243</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SATA.Data.Cable.with.Lock_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=244</PRODUCT_URL>
+      <PRODUCT_NAME>כבל SATA - DATA זוויתי עם נעילה - 1 מטר </PRODUCT_NAME>
+      <MODEL>SATA</MODEL>
+      <DETAILS>&amp;#9679  SATA  DATA  7 .&amp;#9679        .&amp;#9679         .&amp;#9679  1 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>244</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>15</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Angled.SATA.Data.Cable.with.Locking_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=245</PRODUCT_URL>
+      <PRODUCT_NAME>כבל MOLEX מפצל כוח פנימי, זכר ל-2 נקבות - 20 ס"מ</PRODUCT_NAME>
+      <MODEL>Molex</MODEL>
+      <DETAILS>&amp;#9679  MOLEX     2  .&amp;#9679        MOLEX 5.25   .&amp;#9679  20 .</DETAILS>
+      <CATALOG_NUMBER>245</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>9</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/MOLEX.cable.internal.power.splitter.Male.2.Females_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=246</PRODUCT_URL>
+      <PRODUCT_NAME>כבל כוח סטנדרטי SATA - MOLEX באורך 15 ס"מ</PRODUCT_NAME>
+      <MODEL>Molex</MODEL>
+      <DETAILS>&amp;#9679    SATA  .&amp;#9679    SATA 15  MOLEX 4 .&amp;#9679  15 .</DETAILS>
+      <CATALOG_NUMBER>246</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>9</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SATA.Power.Cable.-.MOLEX_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=247</PRODUCT_URL>
+      <PRODUCT_NAME>מפצל מתח SATA 15p זכר - 2xSATA נקבה</PRODUCT_NAME>
+      <MODEL>SATA</MODEL>
+      <DETAILS>&amp;#9679   SATA  2 SATA .&amp;#9679  15 .</DETAILS>
+      <CATALOG_NUMBER>247</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SATA.Power.Cable.Male.-.Female.2xSATA_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=248</PRODUCT_URL>
+      <PRODUCT_NAME>כבל SATA 3.0 משולב DATA + מתח -  1 מטר</PRODUCT_NAME>
+      <MODEL>SATA</MODEL>
+      <DETAILS> SATA 3.0       SATA DATA 7 PIN  MOLEX 5.25 4PIN.  SATA 3.0 1 </DETAILS>
+      <CATALOG_NUMBER>248</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Integrated.SATA.Data.Cable.+.Power_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=256</PRODUCT_URL>
+      <PRODUCT_NAME>כבל חשמל מתפצל ל-2 יציאות SATA</PRODUCT_NAME>
+      <MODEL>SATA</MODEL>
+      <DETAILS>&amp;#9679    2  SATA.&amp;#9679  20 .</DETAILS>
+      <CATALOG_NUMBER>256</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Power.cable.splits.into.2.sata.ports_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=257</PRODUCT_URL>
+      <PRODUCT_NAME>מתאם 6 פין לספק כוח לכרטיסי מסך</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  6     .&amp;#9679  20 .</DETAILS>
+      <CATALOG_NUMBER>257</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/6.pin.adapter.on.the.graphics.card.power.supply.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=258</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מאריך למאוורר 3 פין - 30 ס''מ</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    3 .&amp;#9679  30 .</DETAILS>
+      <CATALOG_NUMBER>258</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>10</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Extension.cord.3.pin.fan.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=259</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מאריך למאוורר 3 פין + קבל - 10 ס''מ</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    3   .&amp;#9679  10 .</DETAILS>
+      <CATALOG_NUMBER>259</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>12</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Extension.cord.3.pin.fan.+.Kaval.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=265</PRODUCT_URL>
+      <PRODUCT_NAME>כבל eSATA - eSATA באורך 1 מטר</PRODUCT_NAME>
+      <MODEL>eSATA</MODEL>
+      <DETAILS>&amp;#9679  eSATA  eSATA.&amp;#9679      .&amp;#9679  1 .</DETAILS>
+      <CATALOG_NUMBER>265</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Cable.eSATA.To.eSATA.1.Meter_Main.Image.JPG</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=311</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מתאם SATA 15+7Pin ל- USB 2.0</PRODUCT_NAME>
+      <MODEL>SATA 15+7Pin</MODEL>
+      <DETAILS>&amp;#9679      2.5In .&amp;#9679  SATA 157Pin.&amp;#9679  USB 2.0       .&amp;#9679    7200RPM       USB.</DETAILS>
+      <CATALOG_NUMBER>311</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.2.0.to.2.5In.SATA.HDD.cable.adapter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=852</PRODUCT_URL>
+      <PRODUCT_NAME>כבל SATA - eSATA באורך 1 מטר</PRODUCT_NAME>
+      <MODEL>eSATA</MODEL>
+      <DETAILS>&amp;#9679  SATA  eSATA.&amp;#9679  1 .</DETAILS>
+      <CATALOG_NUMBER>852</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>27</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/eSATA.to.SATA.cable.1.Meter_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1256</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PCI-Express 6p זכר - PCI-Express 8p נקבה</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     PCIExpress  .&amp;#9679  PCIExpress   .&amp;#9679  PCIExpress   .&amp;#9679  20 .</DETAILS>
+      <CATALOG_NUMBER>1256</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PCI.Express.6.Pin.to.8.Pin.Adapter.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1393</PRODUCT_URL>
+      <PRODUCT_NAME>כבל כוח SATA 15p - 6p PCI Express</PRODUCT_NAME>
+      <MODEL>6p PCI Express</MODEL>
+      <DETAILS>&amp;#9679  SATA Power  15 .&amp;#9679   PCIE  6 .&amp;#9679       PCIE.&amp;#9679  DC 12V.&amp;#9679   18AWG.&amp;#9679   20 .</DETAILS>
+      <CATALOG_NUMBER>1393</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>22</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/SATA.Power.15p.To.6p.PCI.Express.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1517</PRODUCT_URL>
+      <PRODUCT_NAME>כבל USB 2.0 - SATA/IDE</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   USB 2.0 .&amp;#9679  IDE 4044P  SATA 3.0.&amp;#9679     480Mbps.&amp;#9679    2.53.55.25 .&amp;#9679       2.5In.&amp;#9679   60 .</DETAILS>
+      <CATALOG_NUMBER>1517</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/USB.2.0.to.IDE.SATA.Adapter.Cable .jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1574</PRODUCT_URL>
+      <PRODUCT_NAME>כבל eSATA - SATA 15+7P</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  eSATA  SATA 22P.&amp;#9679   512V.&amp;#9679  52 .</DETAILS>
+      <CATALOG_NUMBER>1574</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/eSATA.to.SATA.22Pin.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1618</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PCI-E 6P נקבה - SATA 15P זכר/נקבה</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679  PCIExpress   .&amp;#9679  SATA 15P  .&amp;#9679  20 .</DETAILS>
+      <CATALOG_NUMBER>1618</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PCI-E.6P.to.SATA.15P.Male.and.Female.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1635</PRODUCT_URL>
+      <PRODUCT_NAME>כבל PCI-E 6P נקבה - SATA 15P x2 זכר</PRODUCT_NAME>
+      <MODEL>SATA</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679  PCIExpress   .&amp;#9679   SATA 15P .&amp;#9679   18AWG.&amp;#9679  20 .</DETAILS>
+      <CATALOG_NUMBER>1635</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>27</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Dual.SATA.15Pin.to.PCI-E.6Pin.Cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1869</PRODUCT_URL>
+      <PRODUCT_NAME>כבל כוח PCI Express 4P - Molex 4P</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679  PCI Express 4P  Molex 4P.&amp;#9679     ATX P4.&amp;#9679   15 .</DETAILS>
+      <CATALOG_NUMBER>1869</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>16</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Sata.ATX.4pin.to.molex.4pin.cable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1870</PRODUCT_URL>
+      <PRODUCT_NAME>כבל מפצל PCI Express 6P ל- 2 Molex 4pin</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   PCI Express 6P .&amp;#9679 2   Molex 4P .&amp;#9679   15 .</DETAILS>
+      <CATALOG_NUMBER>1870</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>18</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/PCI-E.6Pin.Female.To.Molex.4pin.x2.Splitter.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

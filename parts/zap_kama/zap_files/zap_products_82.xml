@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=175</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון לאופניים</PRODUCT_NAME>
+      <MODEL>לאופניים/אופנוע</MODEL>
+      <DETAILS>&amp;#9679      .&amp;#9679  360 .&amp;#9679     9 .&amp;#9679     16   29  &amp;#9679     .</DETAILS>
+      <CATALOG_NUMBER>175</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.Bicycle.Mount.Holder_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=176</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון לרכב</PRODUCT_NAME>
+      <MODEL>לרכב</MODEL>
+      <DETAILS>&amp;#9679      &amp;#9679   360 .&amp;#9679      9 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>176</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>32</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.Fastener.smartphones_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=303</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון להגה הרכב</PRODUCT_NAME>
+      <MODEL>לרכב</MODEL>
+      <DETAILS>        7.5 . .</DETAILS>
+      <CATALOG_NUMBER>303</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>25</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Rubber.Band.Car.Steering.Wheel.Mount.Holder.Stand_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=430</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד שולחני עם זרוע מגנטית לטאבלט Rock</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679     80 .&amp;#9679    PVC.&amp;#9679     ...&amp;#9679  .&amp;#9679  Rock  RPH 0815.</DETAILS>
+      <CATALOG_NUMBER>430</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>120</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Rock</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Rock.Magnetic.Tablet.Holder.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=916</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון אוניברסלי לרכב</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>916</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>69</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>GPT</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.Fastener.smartphones.GPT.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1101</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד אוניברסלי לטאבלט 7 - 10 אינץ' למושב האחורי</PRODUCT_NAME>
+      <MODEL>אוניברסלי</MODEL>
+      <DETAILS>&amp;#9679     7  10.&amp;#9679    .&amp;#9679   .</DETAILS>
+      <CATALOG_NUMBER>1101</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>55</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.tablet.stand.7-10.inch.in.the.back.seat_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1268</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד מגנט לסמארטפון</PRODUCT_NAME>
+      <MODEL>מגנטי</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679      .&amp;#9679    .</DETAILS>
+      <CATALOG_NUMBER>1268</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Magnet.Universal.Mount.With.Quick-snap.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1269</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד מגנט לסמארטפון 360 מעלות</PRODUCT_NAME>
+      <MODEL>מגנטי</MODEL>
+      <DETAILS>&amp;#9679     .&amp;#9679  360 .&amp;#9679       .&amp;#9679      .</DETAILS>
+      <CATALOG_NUMBER>1269</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Magnet.Universal.Mount.360.Degrees.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1403</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד מגנטי לסמארטפון במזגן הרכב Aukey HD-C5</PRODUCT_NAME>
+      <MODEL>מעמד מגנטי</MODEL>
+      <DETAILS>&amp;#9679    .&amp;#9679   .&amp;#9679      3M.&amp;#9679  Aukey  HDC5.  </DETAILS>
+      <CATALOG_NUMBER>1403</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Aukey</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/AUKEY.Universal.Car.Holder.Magnetic.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1564</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון לפתח אוורור במזגן Ugreen</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679      .&amp;#9679   360 .&amp;#9679   PC  ABS  TPU.&amp;#9679    5.7  3.5 .&amp;#9679      75  62 .&amp;#9679  Ugreen  30283.  </DETAILS>
+      <CATALOG_NUMBER>1564</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.Air.Vent.Holder.For.Smartphone.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1565</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד שולחני לסמארטפון/טאבלט Ugreen</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679 10  .&amp;#9679    ABS.&amp;#9679  95x85x7.5 .&amp;#9679  .&amp;#9679  Ugreen  LP106.  </DETAILS>
+      <CATALOG_NUMBER>1565</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.LP106.Universal.Holder.For.Smartphone.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1700</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון שולחני עם זרוע ארוכה Remax</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679    ABS.&amp;#9679      ..&amp;#9679   360 .&amp;#9679   .&amp;#9679  76 .&amp;#9679  .&amp;#9679  Remax  RMC22.  </DETAILS>
+      <CATALOG_NUMBER>1700</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Remax</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Remax.RM-C22.Universal.Stand.Holder.76mm.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1702</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון לרכב עם כבל טעינה Remax CS101</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679   .&amp;#9679     .&amp;#9679     .&amp;#9679    Micro USBLightning 2.1A.&amp;#9679  100x175 .&amp;#9679  Remax  CS101.  </DETAILS>
+      <CATALOG_NUMBER>1702</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>85</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Remax</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/REMAX.Universal.Mobile.Car.Phone.Holder.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1703</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון לקיר Ugreen</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679   ABSPC.&amp;#9679     3M.&amp;#9679    5 .&amp;#9679  117x69x27.4 .&amp;#9679  .&amp;#9679  Ugreen  LP108.  </DETAILS>
+      <CATALOG_NUMBER>1703</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Ugreen</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Ugreen.Wall.Stand.Holder.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1724</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סיליקון לסמארטפון Remax</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679    8 .&amp;#9679   TPU  ABS..&amp;#9679  .&amp;#9679  Remax.  </DETAILS>
+      <CATALOG_NUMBER>1724</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>39</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Remax</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/REMAX.Mobile.phone.Stand.Holder.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1765</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד טבעת לסמארטפון CAFELE</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679  360 .&amp;#9679   180 .&amp;#9679   .&amp;#9679   PC.&amp;#9679    .&amp;#9679  .&amp;#9679       .&amp;#9679  CAFELE  Ring Bear Holder.</DETAILS>
+      <CATALOG_NUMBER>1765</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>16</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>CAFELE</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/CAFELE.Ring.Phone.Holder.Bear.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1784</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד שולחני לטאבלט Remax RM-C16 7-15In</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679    7  15 .&amp;#9679    157  260 .&amp;#9679    ABS.&amp;#9679  360 .&amp;#9679  .&amp;#9679  Remax  RMC16.  </DETAILS>
+      <CATALOG_NUMBER>1784</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>135</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Remax</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Remax.RMBRC16.Universal.Tablet.Holder.7-15In.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1811</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד אלומיניום שולחני לסמארטפון/טאבלט</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679  .&amp;#9679    8 .&amp;#9679  7x7x6  100 .&amp;#9679  .</DETAILS>
+      <CATALOG_NUMBER>1811</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER/>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Universal.Aluminum.Stand.Holder.for.Smartphone..jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1829</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון לרכב Remax RM-C06</PRODUCT_NAME>
+      <MODEL>מעמד לרכב</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679   ABS.&amp;#9679  360 .&amp;#9679     .&amp;#9679  Remax  RMC06.  </DETAILS>
+      <CATALOG_NUMBER>1829</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Remax</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Remax.RM-C06.Car.Holder.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1837</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד אלומיניום שולחני לטאבלט Orico</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679  .&amp;#9679    60 .&amp;#9679  120x110x120  120 .&amp;#9679  .&amp;#9679  Orico  MPSA1.  </DETAILS>
+      <CATALOG_NUMBER>1837</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>79</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Orico</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Orico.MPS-A1.Tablet.Holder.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1838</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד טאבלט 4-12In למשענת ראש ברכב Joyroom</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679     .&amp;#9679     .&amp;#9679   ABS.&amp;#9679    412 .&amp;#9679  .&amp;#9679  Joyroom  JRBRZS106.</DETAILS>
+      <CATALOG_NUMBER>1838</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>85</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Joyroom</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Joyroom.Headrest.Mount.Mobile.Holder.Car.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1912</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד אלומיניום שולחני לטאבלט QICENT</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679  .&amp;#9679    60 .&amp;#9679  120x110x120  120 .&amp;#9679  .&amp;#9679  QICENT  DBPA1.</DETAILS>
+      <CATALOG_NUMBER>1912</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>79</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>QICENT</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/QICENT.DBP-A1.Stand.Bracket.for.Tablet.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1934</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד מגנטי מטבע לרכב Besus</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679  .&amp;#9679  Baseus  MD116.  </DETAILS>
+      <CATALOG_NUMBER>1934</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>35</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Baseus</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Baseus.Flat.Car.Holder.To.Dashboard.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1935</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד אוניברסלי לטאבלט Baseus</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679   .&amp;#9679   ABS  .&amp;#9679   205 .&amp;#9679   360 .&amp;#9679  Baseus.</DETAILS>
+      <CATALOG_NUMBER>1935</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>95</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Baseus</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Baseus.Tablet.Mount.Bracket.Holder.Adjustable.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1940</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד מגנטי לדשבורד ברכב Baseus</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679  360 .&amp;#9679   .&amp;#9679       .&amp;#9679  Baseus  DSP4U.</DETAILS>
+      <CATALOG_NUMBER>1940</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>45</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Baseus</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Baseus.Magnetic.Car.Mobile.Holder.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1982</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד טלסקופי מגנטי לסמארטפון Baseus</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679    360 .&amp;#9679     ABS.&amp;#9679  .&amp;#9679     23.5 .&amp;#9679     .&amp;#9679  Baseus  SULXOS.</DETAILS>
+      <CATALOG_NUMBER>1982</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>59</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Baseus</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Baseus.Telescopic.Magnetic.Car.Holder.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1991</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון Remax דגם RM-C23</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679      .&amp;#9679    3.0  6.5 .&amp;#9679    360 .&amp;#9679     270 .&amp;#9679   ABS.&amp;#9679  &amp;#9679  Remax  RMC23.  </DETAILS>
+      <CATALOG_NUMBER>1991</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Remax</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Remax.RM-C23.Unversal.Phone.Holder.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=1992</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון מגנטי לאופניים Rock&#13;
+</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679    .&amp;#9679  Rock  Bicycle Mount.</DETAILS>
+      <CATALOG_NUMBER>1992</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>65</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Rock</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/ROCK.Bicycle.Phone.Stand.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2016</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד סמארטפון עד 7.0In לאופניים Joyroom</PRODUCT_NAME>
+      <MODEL>אופניים/קטנוע</MODEL>
+      <DETAILS>&amp;#9679   .&amp;#9679     7 .&amp;#9679    4.5  8.6 .&amp;#9679  360 .&amp;#9679     .&amp;#9679  Joyroom  ZS123.</DETAILS>
+      <CATALOG_NUMBER>2016</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>49</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Joyroom</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Joyroom.Universal.Bike.SmartPhone.Holder.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2017</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד שולחני לטאבלט Joyroom</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   .&amp;#9679     12 .&amp;#9679   .&amp;#9679   ABS.&amp;#9679  .&amp;#9679  Joyroom  ZS120</DETAILS>
+      <CATALOG_NUMBER>2017</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>29</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Joyroom</MANUFACTURER>
+      <WARRANTY>-</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Joyroom.Universal.Folded.Tablet.holder.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=2076</PRODUCT_URL>
+      <PRODUCT_NAME>מעמד/מטען עם 4 כניסות QICENT USB</PRODUCT_NAME>
+      <MODEL/>
+      <DETAILS>&amp;#9679   4  USB.&amp;#9679    8 .&amp;#9679  USB   Qualcom 2.0.&amp;#9679 3  USB  2.4A  .&amp;#9679   AC 100240V 5060Hz 0.8A.&amp;#9679    1.2 .&amp;#9679  QICENT  DB4UV1.</DETAILS>
+      <CATALOG_NUMBER>2076</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>105</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>QICENT</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/QICENT.DB-4U-V1.QC.2.0.USB.Charging.Docking.Station.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>

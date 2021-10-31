@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STORE URL="http://www.migvanhome.co.il/" DATE="17/09/2017" NAME="BestStore" STATUS="ONLINE">
+  <PRODUCTS>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=54</PRODUCT_URL>
+      <PRODUCT_NAME>צורב DVD פנימי 8.7GB מתוצרת SONY</PRODUCT_NAME>
+      <MODEL>פנימי</MODEL>
+      <DETAILS>&amp;#9679  DVD  8.7GB  SONY.&amp;#9679  5280SCBPLUS.&amp;#9679    XBOX 360  XDG2XDG3   ..&amp;#9679    8.7GB   DVDR DL 8.5GB.&amp;#9679  SATA.&amp;#9679    4.2    17    14.6 &amp;#9679  SL DVDROM DVD  RW 16x 13x DL DVDROM 12x DVDRW 13xDVD  R CDROM 16x 48x DVDR 16x CDR 48x DL DVD  R 12x CDRW 40x DVDR DL 12x   DVD  R 24x DVDR DL 12x DVDRW 6x DVD  R DL 12xDVD  RW 8x CDR 48x DVDR CDRW 24x 32x  ImgBurn    .  Ashampoo burning .</DETAILS>
+      <CATALOG_NUMBER>54</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>299</PRICE>
+      <SHIPMENT_COST>14</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Sony</MANUFACTURER>
+      <WARRANTY>6 חודשים</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/Burn.DriveSony.Optiarc.5280S-CB-PLUS.8.7GB.XDG3_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+    <PRODUCT>
+      <PRODUCT_URL>http://www.migvanhome.co.il/product.php?pid=635</PRODUCT_URL>
+      <PRODUCT_NAME>צורב DVD פנימי Samsung דגם SH-224</PRODUCT_NAME>
+      <MODEL>פנימי</MODEL>
+      <DETAILS>&amp;#9679  DVD Dual Layer .&amp;#9679  5.25 .&amp;#9679  SATA.&amp;#9679    2MB.&amp;#9679  148X42X170 .&amp;#9679  .&amp;#9679  Samsung  SH224. DVDR 24XDVDRW 8XDVDR 24XDVDRW 6XCDR 48XCDRW 24XDVDR DL 8XDVDR DL 8XDVDRAM 5XDVDROM 16XCDROM 48X</DETAILS>
+      <CATALOG_NUMBER>635</CATALOG_NUMBER>
+      <CURRENCY>ILS</CURRENCY>
+      <PRICE>105</PRICE>
+      <SHIPMENT_COST>15</SHIPMENT_COST>
+      <DELIVERY_TIME>9</DELIVERY_TIME>
+      <MANUFACTURER>Samsung</MANUFACTURER>
+      <WARRANTY>שנה</WARRANTY>
+      <IMAGE>http://www.migvanhome.co.il/images/prudact/DVD.Writer.Samsung.Model.SH-224_Main.Image.jpg</IMAGE>
+      <TAX>1</TAX>
+    </PRODUCT>
+  </PRODUCTS>
+</STORE>
